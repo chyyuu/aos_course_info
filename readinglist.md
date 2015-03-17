@@ -6,6 +6,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
  - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie
 Bell Laboratories, 1984
+ - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf)Brian N. Bershad,etc.University of Washington, 1995
 
 ### Process&Thread&Scheduling
  - [lottery scheduling]()
