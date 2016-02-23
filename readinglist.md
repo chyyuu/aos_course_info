@@ -9,46 +9,34 @@ Bell Laboratories, 1984
  - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf)Brian N. Bershad,etc.University of Washington, 1995
 
 ### Process&Thread&Scheduling
- - [lottery scheduling]()
- - [Borrowed-Virtual-Time (BVT) scheduling]()
- - [Efficient and Scalable Multiprocessor Fair Scheduling Using DistributedWeighted Round-Robin]()
- - [A Proportional-Share CPU Scheduling Algorithm for Symmetric Multiprocessors]()
- - [Stride Scheduling Deterministic Proportional-Share Resource Management]()
+ - [Lottery Scheduling: Flexible Proportional-Share Resource Management](https://www.usenix.org/legacy/publications/library/proceedings/osdi/full_papers/waldspurger.pdf), OSDI94
+ - [Stride Scheduling: Deterministic Proportional-Share Resource Management](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.3502) tech report, 1995
  
 ### Memory Management
- - [CRAMM: Virtual Memory Support for Garbage-Collected Applications]()
- - [Hoard: A Scalable Memory Allocator for Multithreaded Applications]()
- - [The Slab Allocator: An Object-Caching Kernel Memory Allocator]()
- - [Scalable Locality-ConsciousMultithreaded Memory Allocation]()
- - [superpages]()
- - [Memory Resource Management in VMware ESX Server]()
+ - [Memory Resource Management in VMware ESX Server](http://dl.acm.org/citation.cfm?id=844146), OSDI02
  
 ### Sync&Mutex
- - [spinlock alternative in SMP]()
- - [Kernel-Kernel Communication in a Shared-Memory Multiprocessor]()
- - [The Synergy Between Non-blocking Synchronization and Operating System Structure]()
- - [The read-copy-update mechanism for supporting realtime applications on shared-memory multiprocessor systems with Linux]()
+ - [Scalable Read-mostly Synchronization Using Passive Reader-Writer Locks.](http://ipads.se.sjtu.edu.cn/_media/publications/prwlock-atc14.pdf),Usenix ATC 2014
  
 ### Virtual Machine Monitor
- - [VMware]()
- - [Xen]()
- - [VX32]()
- - [Xen_and_Co_Communication-aware_CPU_Scheduling]()
+ - [Dune: Safe User-level Access to Privileged CPU Features](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf) OSDI 2012.
+ - [ IX: A Protected Dataplane Operating System for High Throughput and Low Latency](http://courses.cs.washington.edu/courses/cse551/15sp/papers/ix-osdi14.pdf), OSDI 2014.
 
 ### File System
- - [File system dependencies]()
- - [Venti]()
+ - [ All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://courses.cs.washington.edu/courses/cse551/15sp/papers/alice-osdi14.pdf)OSDI 2014. 
+ - [Rethink the Sync](https://www.usenix.org/legacy/event/osdi06/tech/nightingale/nightingale.pdf), OSDI 2006.
  
-### Multicore
- - [Linux scalability]()
- - [Tornado]()
- - [corey]()
+### Multicore & Scalability
+ - [Scalable Address Spaces Using RCU Balanced Trees](http://courses.cs.washington.edu/courses/cse551/15sp/papers/bonsai-asplos12.pdf), ASPLOS 2012
+
  
 
 ### Finding Bugs &Security
- - [Deviant]()
- - [Explode]()
- - [Eraser]()
- - [OKWS]()
- - [XFI]()
- - [Flume]()
+ - [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://courses.cs.washington.edu/courses/cse551/15sp/papers/klee-osdi08.pdf), OSDI 2008.
+
+
+### API 
+ - [Mars Code](http://dl.acm.org/citation.cfm?id=2556647.2560218) Magazine Communications of the ACM CACM Homepage archive
+Volume 57 Issue 2, February 2014 Pages 64-73 
+ - [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](http://courses.cs.washington.edu/courses/cse551/15sp/papers/commutativity-sosp13.pdf), SOSP 2013.
+ 
