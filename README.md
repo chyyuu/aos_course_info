@@ -14,9 +14,12 @@
 1. Paper&Project:  Multicore & Scalability [1]
 1. Paper&Project:  VMM & New OS Arch [1]
 1. Paper&Project:  Multicore & Scalability [2]
-1. Midterm Exam & Discuss
+1. Midterm Exam & Discuss & Project Review
 1. Paper&Project:  OS/System Security[1]
 1. Paper&Project:  OS/System Security[2]
 1. Paper&Project:  OS/System Verification[1]
 1. Paper&Project:  OS/System Verification[2]
-1. Final Exam
+1. Invited Talk: OS Architecture
+2. Invited Talk: Network System
+3. Final Exam & Discuss & Project Review [1]
+2. Final Exam & Discuss & Project Review [2]
