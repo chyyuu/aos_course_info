@@ -1,5 +1,13 @@
 # Advanced OS Course
 
+## course id
+ - 80240442
+
+## Time & Place
+ - 1~16 weeks
+ - Tuesday (13:30-15:05)　
+ - 6A405, 6th building
+ 
 ## Objectives
  - Gain experience in doing OS research
  - Know how to read/write papers/reports
