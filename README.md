@@ -6,3 +6,5 @@
  - Know current OS hot topics
  - Develop and test OS projects 
 
+## Scheduling
+1.	Course overview + Performance + Reliability
