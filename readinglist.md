@@ -27,6 +27,8 @@ Bell Laboratories, 1984
  - [Rethink the Sync](https://www.usenix.org/legacy/event/osdi06/tech/nightingale/nightingale.pdf), OSDI 2006.
  
 ### Multicore & Scalability
+ - [Non-scalable locks are dangerous](https://pdos.csail.mit.edu/papers/linux:lock.pdf) Linux Symposium 2012.
+ - [scalable Kernel TCP Design and Implementation for Short-Lived Connections](https://www.ece.cmu.edu/calcm/asplos2016/program.htm), ASPLOS 2016
  - [Scalable Address Spaces Using RCU Balanced Trees](http://courses.cs.washington.edu/courses/cse551/15sp/papers/bonsai-asplos12.pdf), ASPLOS 2012
 
  
