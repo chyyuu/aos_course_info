@@ -42,4 +42,5 @@ Bell Laboratories, 1984
  - [Mars Code](http://dl.acm.org/citation.cfm?id=2556647.2560218) Magazine Communications of the ACM CACM Homepage archive
 Volume 57 Issue 2, February 2014 Pages 64-73 
  - [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](http://courses.cs.washington.edu/courses/cse551/15sp/papers/commutativity-sosp13.pdf), SOSP 2013.
+ - [MegaPipe: A New Programming Interface for Scalable Network I/O](http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf), OSDI 2012.
  
