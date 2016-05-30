@@ -46,3 +46,6 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  - [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](http://courses.cs.washington.edu/courses/cse551/15sp/papers/commutativity-sosp13.pdf), SOSP 2013.
  - [MegaPipe: A New Programming Interface for Scalable Network I/O](http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf), OSDI 2012.
  
+ ### Verification
+ - [seL4: Formal Verification of an OS Kernel](http://www.sigops.org/sosp/sosp09/papers/klein-sosp09.pdf) SOSP 2009.
+ - [Jitk: A Trustworthy In-Kernel Interpreter Infrastructure](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-wang_xi.pdf) OSDI 2014.
