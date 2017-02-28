@@ -7,6 +7,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie
 Bell Laboratories, 1984
  - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf)Brian N. Bershad,etc.University of Washington, 1995
+ -[Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems)
+     - [SVA project](https://github.com/jtcriswell/SVA)
 
 ### Process&Thread&Scheduling
  - [Lottery Scheduling: Flexible Proportional-Share Resource Management](https://www.usenix.org/legacy/publications/library/proceedings/osdi/full_papers/waldspurger.pdf), OSDI94
