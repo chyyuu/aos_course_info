@@ -37,3 +37,6 @@
 
 ## Simple OS Tutorial Labs
 - [os_tutorial_lab](https://github.com/chyyuu/os_tutorial_lab/)
+
+## Lecturer Info
+- yuchen AT tsinghua.edu.cn
