@@ -28,7 +28,7 @@ Bell Laboratories, 1984
  
 ### Multicore & Scalability
  - [Non-scalable locks are dangerous](https://pdos.csail.mit.edu/papers/linux:lock.pdf) Linux Symposium 2012.
- - [scalable Kernel TCP Design and Implementation for Short-Lived Connections](https://www.ece.cmu.edu/calcm/asplos2016/program.htm), ASPLOS 2016
+ - [scalable Kernel TCP Design and Implementation for Short-Lived Connections]http://dl.acm.org/citation.cfm?doid=2872362.2872391), ASPLOS 2016
  - [Scalable Address Spaces Using RCU Balanced Trees](http://courses.cs.washington.edu/courses/cse551/15sp/papers/bonsai-asplos12.pdf), ASPLOS 2012
  - [mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems](http://www.ndsl.kaist.edu/~kyoungsoo/papers/mtcp.pdf), NSDI 2014
 
@@ -37,7 +37,7 @@ Bell Laboratories, 1984
 ### Finding Bugs &Security
  - [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://courses.cs.washington.edu/courses/cse551/15sp/papers/klee-osdi08.pdf), OSDI 2008.
  - [PF-Miner: A New Paired Functions Mining Method for Android Kernel in Error Paths](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6899198&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6899198), COMPSAC 2014
- - [· RID: Finding Reference Count Bugs with Inconsistent Path Pair Checking](https://www.ece.cmu.edu/calcm/asplos2016/program.html), ASPLOS 2016
+ - [· RID: Finding Reference Count Bugs with Inconsistent Path Pair Checking](http://dl.acm.org/citation.cfm?doid=2872362.2872389), ASPLOS 2016
 
 
 ### API 
