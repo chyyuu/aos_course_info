@@ -1,4 +1,4 @@
-# Advanced OS Course
+# Advanced OS Course (2017)
 
 ## course id
  - 80240442
@@ -6,7 +6,7 @@
 ## Time & Place
  - 1~16 weeks
  - Tuesday (13:30-15:05)　
- - 6A405, 6th building
+ - 6A409, 6th building
  
 ## Objectives
  - Gain experience in doing OS research
@@ -34,3 +34,6 @@
 
 ## ReadingList
 - [PaperList](readinglist.md)
+
+## Simple OS Tutorial Labs
+- [os_tutorial_lab](https://github.com/chyyuu/os_tutorial_lab/)
