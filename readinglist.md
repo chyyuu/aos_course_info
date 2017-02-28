@@ -30,14 +30,17 @@ Bell Laboratories, 1984
  
 ### Multicore & Scalability
  - [Non-scalable locks are dangerous](https://pdos.csail.mit.edu/papers/linux:lock.pdf) Linux Symposium 2012.
- - [scalable Kernel TCP Design and Implementation for Short-Lived Connections]http://dl.acm.org/citation.cfm?doid=2872362.2872391), ASPLOS 2016
+ - [scalable Kernel TCP Design and Implementation for Short-Lived Connections](http://dl.acm.org/citation.cfm?doid=2872362.2872391), ASPLOS 2016
+     - [fastsocket project](https://github.com/fastos/fastsocket)
  - [Scalable Address Spaces Using RCU Balanced Trees](http://courses.cs.washington.edu/courses/cse551/15sp/papers/bonsai-asplos12.pdf), ASPLOS 2012
  - [mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems](http://www.ndsl.kaist.edu/~kyoungsoo/papers/mtcp.pdf), NSDI 2014
+     - [mtcp project](http://shader.kaist.edu/mtcp/)
 
  
 
 ### Finding Bugs &Security
  - [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://courses.cs.washington.edu/courses/cse551/15sp/papers/klee-osdi08.pdf), OSDI 2008.
+     - [KLEE project](http://klee.github.io/)
  - [PF-Miner: A New Paired Functions Mining Method for Android Kernel in Error Paths](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6899198&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6899198), COMPSAC 2014
  - [· RID: Finding Reference Count Bugs with Inconsistent Path Pair Checking](http://dl.acm.org/citation.cfm?doid=2872362.2872389), ASPLOS 2016
 
@@ -46,8 +49,11 @@ Bell Laboratories, 1984
  - [Mars Code](http://dl.acm.org/citation.cfm?id=2556647.2560218) Magazine Communications of the ACM CACM Homepage archive
 Volume 57 Issue 2, February 2014 Pages 64-73 
  - [The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors](http://courses.cs.washington.edu/courses/cse551/15sp/papers/commutativity-sosp13.pdf), SOSP 2013.
+     - [commuter](https://github.com/aclements/commuter)
  - [MegaPipe: A New Programming Interface for Scalable Network I/O](http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf), OSDI 2012.
  
  ### Verification
  - [seL4: Formal Verification of an OS Kernel](http://www.sigops.org/sosp/sosp09/papers/klein-sosp09.pdf) SOSP 2009.
+     - [seL4 project](https://github.com/seL4)
  - [Jitk: A Trustworthy In-Kernel Interpreter Infrastructure](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-wang_xi.pdf) OSDI 2014.
+     - [jitk project](http://css.csail.mit.edu/jitk/)
