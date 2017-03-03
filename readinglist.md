@@ -5,8 +5,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Exokernel: An Operating System Architecture for Application-Level Resource Management](http://flint.cs.yale.edu/cs428/doc/p251-engler.pdf), Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. MIT,  SIGOPS ’95, 1995
  - [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
  - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie, Bell Laboratories, 1984
- - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf)Brian N. Bershad,etc.University of Washington, 1995
- - [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf)
+ - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
+ - [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
      - [SVA project](https://github.com/jtcriswell/SVA)
 
 ### Process&Thread&Scheduling
