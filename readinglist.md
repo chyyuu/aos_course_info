@@ -40,7 +40,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
      - [mtcp project](http://shader.kaist.edu/mtcp/)
  - [scalable Kernel TCP Design and Implementation for Short-Lived Connections](http://dl.acm.org/citation.cfm?doid=2872362.2872391), ASPLOS 2016
      - [fastsocket project](https://github.com/fastos/fastsocket)
-     
+ - [MegaPipe: A New Programming Interface for Scalable Network I/O](http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf), OSDI 2012.     
+ 
 ### File System
  - [ All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://courses.cs.washington.edu/courses/cse551/15sp/papers/alice-osdi14.pdf)OSDI 2014. 
  - [Rethink the Sync](https://www.usenix.org/legacy/event/osdi06/tech/nightingale/nightingale.pdf), OSDI 2006.
