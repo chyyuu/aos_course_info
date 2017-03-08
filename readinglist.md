@@ -22,17 +22,25 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  
 ### Sync&Mutex
  - [Scalable Read-mostly Synchronization Using Passive Reader-Writer Locks.](http://ipads.se.sjtu.edu.cn/_media/publications/prwlock-atc14.pdf),Usenix ATC 2014
+ - [Non-scalable locks are dangerous](https://pdos.csail.mit.edu/papers/linux:lock.pdf) Linux Symposium 2012.
  
 ### Virtual Machine Monitor
- - [Virtual machine monitors: current technology and future trends](http://grid.hust.edu.cn/platform/resource/document/Virtual%20Machine%20Monitors%20Current%20Technology%20and%20Future%20Trends.pdf)
- - [Diagnosing performance overheads in the xen virtual machine environment](Diagnosing performance overheads in the xen virtual machine environment)
- - [A comparison of software and hardware techniques for x86 virtualization](http://www.cs.columbia.edu/~junfeng/13fa-w4118/lectures/virtualization.pdf)
- - [Live migration of virtual machines](http://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/vm-migration.pdf) 
+ - [Virtual machine monitors: current technology and future trends](http://grid.hust.edu.cn/platform/resource/document/Virtual%20Machine%20Monitors%20Current%20Technology%20and%20Future%20Trends.pdf) ,IEEE Computer,vol38,issue 5, pp39-47, 2005
+ - [Diagnosing performance overheads in the xen virtual machine environment](Diagnosing performance overheads in the xen virtual machine environment), vee 2005
+ - [A comparison of software and hardware techniques for x86 virtualization](http://www.cs.columbia.edu/~junfeng/13fa-w4118/lectures/virtualization.pdf), asplos 2006
+ - [Live migration of virtual machines](http://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/vm-migration.pdf), nsdi 2005
  - [Dune: Safe User-level Access to Privileged CPU Features](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf) OSDI 2012.
     - [dune project](http://dl.acm.org/citation.cfm?doid=2872362.2872389)
+
+
+### Network
  - [ IX: A Protected Dataplane Operating System for High Throughput and Low Latency](http://courses.cs.washington.edu/courses/cse551/15sp/papers/ix-osdi14.pdf), OSDI 2014.
     - [IX project](https://github.com/ix-project/ix)
-
+ - [mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems](http://www.ndsl.kaist.edu/~kyoungsoo/papers/mtcp.pdf), NSDI 2014
+     - [mtcp project](http://shader.kaist.edu/mtcp/)
+ - [scalable Kernel TCP Design and Implementation for Short-Lived Connections](http://dl.acm.org/citation.cfm?doid=2872362.2872391), ASPLOS 2016
+     - [fastsocket project](https://github.com/fastos/fastsocket)
+     
 ### File System
  - [ All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://courses.cs.washington.edu/courses/cse551/15sp/papers/alice-osdi14.pdf)OSDI 2014. 
  - [Rethink the Sync](https://www.usenix.org/legacy/event/osdi06/tech/nightingale/nightingale.pdf), OSDI 2006.
