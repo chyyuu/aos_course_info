@@ -31,7 +31,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Live migration of virtual machines](http://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/vm-migration.pdf), nsdi 2005
  - [Dune: Safe User-level Access to Privileged CPU Features](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf) OSDI 2012.
     - [dune project](http://dl.acm.org/citation.cfm?doid=2872362.2872389)
-
+ - [COLO: COarse-grained LOck-stepping Virtual Machines for Non-stop Service](https://www.cs.purdue.edu/homes/ma229/papers/socc13.pdf), socc13, 2013
 
 ### Network
  - [ IX: A Protected Dataplane Operating System for High Throughput and Low Latency](http://courses.cs.washington.edu/courses/cse551/15sp/papers/ix-osdi14.pdf), OSDI 2014.
