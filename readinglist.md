@@ -24,6 +24,10 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Scalable Read-mostly Synchronization Using Passive Reader-Writer Locks.](http://ipads.se.sjtu.edu.cn/_media/publications/prwlock-atc14.pdf),Usenix ATC 2014
  
 ### Virtual Machine Monitor
+ - [Virtual machine monitors: current technology and future trends](http://grid.hust.edu.cn/platform/resource/document/Virtual%20Machine%20Monitors%20Current%20Technology%20and%20Future%20Trends.pdf)
+ - [Diagnosing performance overheads in the xen virtual machine environment](Diagnosing performance overheads in the xen virtual machine environment)
+ - [A comparison of software and hardware techniques for x86 virtualization](http://www.cs.columbia.edu/~junfeng/13fa-w4118/lectures/virtualization.pdf)
+ - [Live migration of virtual machines](http://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/vm-migration.pdf) 
  - [Dune: Safe User-level Access to Privileged CPU Features](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf) OSDI 2012.
     - [dune project](http://dl.acm.org/citation.cfm?doid=2872362.2872389)
  - [ IX: A Protected Dataplane Operating System for High Throughput and Low Latency](http://courses.cs.washington.edu/courses/cse551/15sp/papers/ix-osdi14.pdf), OSDI 2014.
