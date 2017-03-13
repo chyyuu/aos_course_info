@@ -26,7 +26,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  
 ### Virtual Machine Monitor
  - [Virtual machine monitors: current technology and future trends](http://grid.hust.edu.cn/platform/resource/document/Virtual%20Machine%20Monitors%20Current%20Technology%20and%20Future%20Trends.pdf) ,IEEE Computer,vol38,issue 5, pp39-47, 2005
- - [Diagnosing performance overheads in the xen virtual machine environment](Diagnosing performance overheads in the xen virtual machine environment), vee 2005
+ - [Diagnosing performance overheads in the xen virtual machine environment](https://www.usenix.org/events/vee05/full_papers/p13-menon.pdf), vee 2005
  - [A comparison of software and hardware techniques for x86 virtualization](http://www.cs.columbia.edu/~junfeng/13fa-w4118/lectures/virtualization.pdf), asplos 2006
  - [Live migration of virtual machines](http://www.cs.princeton.edu/courses/archive/fall08/cos597B/papers/vm-migration.pdf), nsdi 2005
  - [Dune: Safe User-level Access to Privileged CPU Features](https://www.usenix.org/system/files/conference/osdi12/osdi12-final-117.pdf) OSDI 2012.
