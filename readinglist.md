@@ -129,6 +129,6 @@ Volume 57 Issue 2, February 2014 Pages 64-73
 ### DEVICES
  - [Improving the Reliability of Commodity Operating Systems](http://www.cs.wisc.edu/~swift/papers/nooks-sosp.pdf), SOSP 2003
  - [Understanding modern device drivers](http://www.cs.wisc.edu/~swift/papers/asplos12_drivers.pdf),ASPLOS 2012
- - [Tolerating Hardware Device Failures in Software.](Tolerating Hardware Device Failures in Software.),SOSP 2009
+ - [Tolerating Hardware Device Failures in Software.](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.5958&rank=1&q=Tolerating%20Hardware%20Device%20Failures%20in%20Software&osm=&ossid=),SOSP 2009
  - [Gdev: First-Class GPU Resource Management in the Operating System](https://www.usenix.org/system/files/conference/atc12/atc12-final319.pdf),USENIX ATC 2012 
  - [GPUvm: Why not virtualizing GPUs at the hypervisor?](https://www.usenix.org/sites/default/files/conference/protected-files/atc14_slides_suzuki.pdf),USENIX ATC 2014
