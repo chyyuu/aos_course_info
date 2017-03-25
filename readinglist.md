@@ -90,6 +90,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  
 
 ### Finding Bugs &Security
+ - [An empirical study of operating systems errors](http://sosp.org/2001/papers/chou.pdf), SOSP 2003.
  - [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://courses.cs.washington.edu/courses/cse551/15sp/papers/klee-osdi08.pdf), OSDI 2008.
      - [KLEE project](http://klee.github.io/)
  - [PF-Miner: A New Paired Functions Mining Method for Android Kernel in Error Paths](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6899198&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6899198), COMPSAC 2014
