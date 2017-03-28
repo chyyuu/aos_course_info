@@ -86,7 +86,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems](http://www.ndsl.kaist.edu/~kyoungsoo/papers/mtcp.pdf), NSDI 2014
      - [mtcp project](http://shader.kaist.edu/mtcp/)
  - [The Multikernel: A new OS architecture for scalable multicore systems](http://www.sigops.org/sosp/sosp09/papers/baumann-sosp09.pdf),SOSP2009
- - [Disco: running commodity operating systems on scalable multiprocessors]()
+ - [Disco: running commodity operating systems on scalable multiprocessors](http://research.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),ACM Transactions on Computer Systems,1997
  
 
 ### Finding Bugs &Security
