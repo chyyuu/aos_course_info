@@ -1,4 +1,4 @@
-# Advanced OS Course (2017)
+# Advanced OS Course (2018)
 
 ## course id
  - 80240442
@@ -6,7 +6,7 @@
 ## Time & Place
  - 1~16 weeks
  - Tuesday (13:30-15:05)　
- - 6A409, 6th building
+ - 6A401, 6th building
  
 ## Objectives
  - Gain experience in doing OS research
