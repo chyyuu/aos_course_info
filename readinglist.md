@@ -14,6 +14,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
  - [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
      - [SVA project](https://github.com/jtcriswell/SVA)
+ - [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259) SOSP 2017
  
 ### Process&Thread&Scheduling
  - [Lottery Scheduling: Flexible Proportional-Share Resource Management](https://www.usenix.org/legacy/publications/library/proceedings/osdi/full_papers/waldspurger.pdf), OSDI94
@@ -51,6 +52,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
     - [dune project](http://dl.acm.org/citation.cfm?doid=2872362.2872389)
  - [COLO: COarse-grained LOck-stepping Virtual Machines for Non-stop Service](https://www.cs.purdue.edu/homes/ma229/papers/socc13.pdf), socc13, 2013
  - [Xen and the Art of Virtualization](http://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf),SOSP2003
+ - [My VM is Lighter (and Safer) than your Container](https://dl.acm.org/authorize?N47258) SOSP 2017
 
 ### Network
  - [The x-Kernel: An Architecture for Implementing Network Protocols](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.42.3620&rank=2),IEEE Transactions on Software Engineering,1991
@@ -62,6 +64,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
      - [mtcp project](http://shader.kaist.edu/mtcp/)
  - [scalable Kernel TCP Design and Implementation for Short-Lived Connections](http://dl.acm.org/citation.cfm?doid=2872362.2872391), ASPLOS 2016
      - [fastsocket project](https://github.com/fastos/fastsocket)
+ - [ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks](https://dl.acm.org/authorize?N47254) SOSP 2017
+     
 
 ### File System
  - [ All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://courses.cs.washington.edu/courses/cse551/15sp/papers/alice-osdi14.pdf)OSDI 2014. 
@@ -87,9 +91,10 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
      - [mtcp project](http://shader.kaist.edu/mtcp/)
  - [The Multikernel: A new OS architecture for scalable multicore systems](http://www.sigops.org/sosp/sosp09/papers/baumann-sosp09.pdf),SOSP2009
  - [Disco: running commodity operating systems on scalable multiprocessors](http://research.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),ACM Transactions on Computer Systems,1997
+ - [Scaling a file system to many cores using an operation log](https://dl.acm.org/authorize?N47149) SOSP 2017
  
 
-### Finding Bugs &Security
+### Finding Bugs/Failures &Security
  - [An empirical study of operating systems errors](http://sosp.org/2001/papers/chou.pdf), SOSP 2003.
  - [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://courses.cs.washington.edu/courses/cse551/15sp/papers/klee-osdi08.pdf), OSDI 2008.
      - [KLEE project](http://klee.github.io/)
@@ -105,6 +110,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Early Detection of Configuration Errors to Reduce Failure Damage](http://people.cs.uchicago.edu/~shanlu/paper/osdi16-final321-pcheck.pdf),OSDI 2016
  - [Towards optimization-safe systems: Analyzing the impact of undefined behavior](http://pdos.csail.mit.edu/papers/stack:sosp13.pdf), SOSP 2013
  - [Improving integer security for systems with Kint](http://pdos.csail.mit.edu/papers/kint:osdi12.pdf),OSDI 2012
+ - [DeepXplore: Automated Whitebox Testing of Deep Learning Systems](https://dl.acm.org/authorize?N47145) SOSP 2017
+ - [Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold](https://dl.acm.org/authorize?N47278) SOSP 2017
 
 ### API 
  - [A Critique of the Windows Application Programming Interface](http://www.spinellis.gr/pubs/jrnl/1997-CSI-WinApi/html/win.pdf),Computer Standards & Interfaces, 20:1–8, November 1998
@@ -126,6 +133,8 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  - [Push-Button Verification of File Systems via Crash Refinement.](http://locore.cs.washington.edu/papers/sigurbjarnarson-yggdrasil.pdf),OSDI 2016
  - [Specifying and Checking File System Crash-Consistency Models](http://locore.cs.washington.edu/papers/bornholt-ferrite.pdf), ASPLOS 2016
  - [An Empirical Study on the Correctness of Formally Verified Distributed Systems.](http://locore.cs.washington.edu/papers/fonseca-dsbugs.pdf),EUROSYS 2017
+ - [Hyperkernel: Push-Button Verification of an OS Kernel](https://www.sigops.org/sosp/sosp17/program.html), SOSP 2017
+ - [Verifying a high-performance crash-safe file system using a tree specification](https://dl.acm.org/authorize?N47251) SOSP 2017
 
 ### DEVICES
  - [Improving the Reliability of Commodity Operating Systems](http://www.cs.wisc.edu/~swift/papers/nooks-sosp.pdf), SOSP 2003
