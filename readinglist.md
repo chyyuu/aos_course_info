@@ -133,7 +133,8 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  - [Push-Button Verification of File Systems via Crash Refinement.](http://locore.cs.washington.edu/papers/sigurbjarnarson-yggdrasil.pdf),OSDI 2016
  - [Specifying and Checking File System Crash-Consistency Models](http://locore.cs.washington.edu/papers/bornholt-ferrite.pdf), ASPLOS 2016
  - [An Empirical Study on the Correctness of Formally Verified Distributed Systems.](http://locore.cs.washington.edu/papers/fonseca-dsbugs.pdf),EUROSYS 2017
- - [Hyperkernel: Push-Button Verification of an OS Kernel](https://www.sigops.org/sosp/sosp17/program.html), SOSP 2017
+ - [Hyperkernel: Push-Button Verification of an OS Kernel](https://dl.acm.org/citation.cfm?id=3132748), SOSP 2017
+   - [hyperkernel project](http://locore.cs.washington.edu/hyperkernel/)
  - [Verifying a high-performance crash-safe file system using a tree specification](https://dl.acm.org/authorize?N47251) SOSP 2017
 
 ### DEVICES
