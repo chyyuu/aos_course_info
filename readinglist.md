@@ -40,7 +40,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
     - **SIGOPS: The Hall of Fame Award** This paper introduced the working set model, which has became a key concept in understanding of locality of memory references and for implementing virtual memory. Most paging algorithms can trace their roots back to this work.
  - [The Multics Virtual Memory: Concepts and Design](http://portal.acm.org/citation.cfm?id=361306), Andre Bensoussan, Charlie T. Clingen, Robert C. Daley, Communications of the ACM 15(5):308-318, May 1972.
      - **SIGOPS: The Hall of Fame Award** 
- - [Memory Coherence in Shared Virtual Memory Systems](http://dl.acm.org/citation.cfm?id=75105), Kai Li, Paul Hudak.ACM TOCS 7(4), Nov 1989, pp 321–359.
+ - [Memory Coherence in Shared Virtual Memory Systems](http://dl.acm.org/citation.cfm?id=75105), Kai Li(李凯), Paul Hudak.ACM TOCS 7(4), Nov 1989, pp 321–359.
      - **SIGOPS: The Hall of Fame Award** The paper shows how to simulate coherent shared memory on a cluster, and also introduces directory-based distributed cache-coherence. It spawned a entire research area, and introduced cache coherence mechanisms that are widely used in industry.   
  - [Transactional memory: architectural support for lock-free data structures](http://doi.acm.org/10.1145/165123.165164),Maurice Herlihy and J. Eliot B. Moss.,  ISCA 1993. 
      - **SIGOPS: The Hall of Fame Award**  This paper introduced transactional memory, an architectural concept intended to make lock-free synchronization as efficient and easy to use as conventional techniques based on mutual exclusion. This concept has found its way into commercial multicore processors, and has generated a large amount of follow-on work in software transactional memory.    
