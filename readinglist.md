@@ -1,13 +1,17 @@
 
 ### OS Architecture
  - [The Structure of the "THE"-Multiprogramming System](http://uosis.mif.vu.lt/~liutauras/books/Dijkstra%20-%20The%20structure%20of%20the%20THE%20multiprogramming%20system.pdf),
-Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 1968 **SIGOPS: The Hall of Fame Award**
+Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 1968 
+    - **SIGOPS: The Hall of Fame Award** The first paper to suggest that an operating system be built in a structured way. That structure was a series of layers, each a virtual machine that introduced abstractions built using the functionality of lower layer. The paper stimulated a great deal of subsequent work in building operating systems as structured systems.
+ - [Tenex, A Paged Time Sharing System for the PDP-10](http://dl.acm.org/citation.cfm?id=361271),Daniel G. Bobrow, Jerry D. Burchfiel, Daniel L. Murphy and Raymond S. Tomlinson. Communications of the ACM 15(3), March 1972.
+    - **SIGOPS: The Hall of Fame Award**  The Tenex system pioneered many ideas that are prominent in modern operating systems. It included one of the first page based memory systems, copy on write sharing, mapping of files into virtual memory, and user/group/other file protection. It also had mnemonic commands with command-line completion and automatic file versioning. As one reviewer said, “Reading it now, I’m pleasantly surprised by how much is familiar — thanks to its successors.”
  - [On Micro-Kernel Construction](http://zoo.cs.yale.edu/classes/cs422/2010/bib/liedtke95micro.pdf),ACM SIGOPS Operating Systems Review 29(5):237-250 · December 1995
  - [Exokernel: An Operating System Architecture for Application-Level Resource Management](http://flint.cs.yale.edu/cs428/doc/p251-engler.pdf), Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. MIT,  SIGOPS ’95, 1995
     - [jos project](https://pdos.csail.mit.edu/6.828/2016/labguide.html)
  - [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
     - [Singularity OS project](https://www.microsoft.com/en-us/research/project/singularity/) 
- - [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978) **SIGOPS: The Hall of Fame Award**
+ - [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978)
+    - **SIGOPS: The Hall of Fame Award** At a time when operating systems were trending towards complexity, UNIX emerged as a hallmark of elegance and simplicity.
  - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie, Bell Laboratories, 1984
     - [xv6 project](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
     - [related info:The Unix-Haters Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
@@ -17,6 +21,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259) SOSP 2017
  
 ### Process&Thread&Scheduling
+ - [Programming Semantics for Multiprogrammed Computations](http://dl.acm.org/citation.cfm?id=365252), Jack B. Dennis, Earl C. Van Horn. Communications of the ACM, Volume 9 Issue 3, March 1966.
+    - **SIGOPS: The Hall of Fame Award**  The paper lays out the conceptual foundations for multiprogramming and protection in computer systems.
  - [Lottery Scheduling: Flexible Proportional-Share Resource Management](https://www.usenix.org/legacy/publications/library/proceedings/osdi/full_papers/waldspurger.pdf), OSDI94
  - [Stride Scheduling: Deterministic Proportional-Share Resource Management](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.3502) tech report, 1995
  - [Supporting Time-Sensitive Applications on a Commodity OS](http://www.eecg.toronto.edu/~ashvin/publications/osdi2002.pdf),OSDI2002
@@ -27,7 +33,12 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Addressing shared resource contention in multicore processors via scheduling](http://www.cs.sfu.ca/~fedorova/papers/asplos212-zhuravlev.pdf),ASPLOS2010
 
 ### Memory Management
- - [The working set model for program behavior](http://denninginstitute.com/pjd/PUBS/WSModel_1968.pdf),Peter J. Denning, SOSP 1967, In Communications of the ACM 11(5), May 1968 **SIGOPS: The Hall of Fame Award**
+ - [The working set model for program behavior](http://denninginstitute.com/pjd/PUBS/WSModel_1968.pdf),Peter J. Denning, SOSP 1967, In Communications of the ACM 11(5), May 1968
+    - **SIGOPS: The Hall of Fame Award** This paper introduced the working set model, which has became a key concept in understanding of locality of memory references and for implementing virtual memory. Most paging algorithms can trace their roots back to this work.
+ - [The Multics Virtual Memory: Concepts and Design](http://portal.acm.org/citation.cfm?id=361306), Andre Bensoussan, Charlie T. Clingen, Robert C. Daley, Communications of the ACM 15(5):308-318, May 1972.
+     - **SIGOPS: The Hall of Fame Award** 
+ - [Memory Coherence in Shared Virtual Memory Systems](http://dl.acm.org/citation.cfm?id=75105), Kai Li, Paul Hudak.ACM TOCS 7(4), Nov 1989, pp 321–359.
+     - **SIGOPS: The Hall of Fame Award** The paper shows how to simulate coherent shared memory on a cluster, and also introduces directory-based distributed cache-coherence. It spawned a entire research area, and introduced cache coherence mechanisms that are widely used in industry.
  - [WSClock - A Simple and Effective Algorithm for Virtual Memory Management](https://www.researchgate.net/publication/220909958_WSClock_-_A_Simple_and_Effective_Algorithm_for_Virtual_Memory_Management),ACM SIGOPS Operating Systems Review 15(5):87-95 · December 1981
  - [Simple But Effective Techniques for NUMA Memory Management](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.380.3461&rank=1),SOSP 1989
  - [TreadMarks: Distributed Shared Memory on Standard Workstations and Operating Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.9177&rank=9),IN PROCEEDINGS OF THE 1994 WINTER USENIX CONFERENCE,1994
@@ -37,12 +48,35 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
 
  
 ### Sync&Mutex
+ - [Experience with processes and monitors in Mesa](http://portal.acm.org/citation.cfm?doid=358818.358824), Butler W. Lampson and David D., SOSP 1979.
+     - **SIGOPS: The Hall of Fame Award** When this paper was written, monitors had emerged as the synchronization method of choice. in programming languages conferences and operating systems textbooks. This paper was the first to look closely at the practical issues that monitors pose when used in a large production system. These issues remain contemporary, and indeed researchers working on transactional memory mechanisms would do well to reread this wonderful paper.
  - [Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors](http://www.cs.rice.edu/~johnmc/scalable_synch/tocs91.pdf),ACM Transactions on Computer Systems, Feb. 1991.
  - [Scalable Read-mostly Synchronization Using Passive Reader-Writer Locks.](http://ipads.se.sjtu.edu.cn/_media/publications/prwlock-atc14.pdf),Usenix ATC 2014
  - [Non-scalable locks are dangerous](https://pdos.csail.mit.edu/papers/linux:lock.pdf) Linux Symposium 2012.
  - [Tornado: Maximizing Locality and Concurrency in a Shared Memory Multiprocessor Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.2410&rep=rep1&type=pdf),OSDI1999
  - [Performance of Multithreaded Chip Multiprocessors and Implications for Operating System Design](http://www.eecs.harvard.edu/margo/papers/usenix05/paper.pdf), USENIX 2005
- 
+
+### Distributed Systems
+ - [Time, Clocks, and the Ordering of Events in a Distributed System](http://portal.acm.org/citation.cfm?doid=359545.359563), Leslie Lamport, Communications of the ACM 21(7):558-565, July 1978. 
+    - **SIGOPS: The Hall of Fame Award**  Perhaps the first true “distributed systems” paper, it introduced the concept of “causal ordering”, which turned out to be useful in many settings. The paper proposed the mechanism it called “logical clocks”, but everyone now calls these “Lamport clocks.”
+ - [Implementing Remote Procedure Calls](http://portal.acm.org/citation.cfm?id=2080.357392),ACM Transactions on Computer Systems 2(1):39-59, February 1984.
+    - **SIGOPS: The Hall of Fame Award**  This is the paper on RPC, which has become the standard for remote communication in distributed systems and the Internet. The paper does an excellent job laying out the basic model for RPC and the implementation options.
+ - [Grapevine: An Exercise in Distributed Computing](http://portal.acm.org/citation.cfm?id=358468.358487), Andrew D. Birrell, Roy Levin, Roger M. Needham, and Michael D. Schroeder, SOSP 1981.
+    - **SIGOPS: The Hall of Fame Award** 
+ - [Scale and Performance in a Distributed File System](http://portal.acm.org/citation.cfm?doid=35037.35059), John H. Howard, Michael L. Kazar, Sherri G. Menees, David A. Nichols, M. Satyanarayanan, Robert N. Sidebotham, and Michael J. West, SOSP 1987.
+    - **SIGOPS: The Hall of Fame Award**  
+ - [VAXclusters: A Closely-Coupled Distributed System](http://portal.acm.org/citation.cfm?id=214419.214421), Nancy P. Kronenberg, Henry M. Levy, and William D. Strecker, SOSP 1985.
+    - **SIGOPS: The Hall of Fame Award**  The VAX Clusters system was the first modern clustered system supporting such basic features as a distributed file system and a distributed locking service. The SOSP paper on VAX Clusters remains a classic today. VAXclusters was a huge commercial success, and set the stage for today.s massive data centers. 
+ - [Viewstamped Replication: A New Primary Copy Method to Support Highly-Available Distributed Systems](http://dl.acm.org/citation.cfm?id=62549),rian M. Oki, Barbara H. Liskov. PODC 1988.
+    - **SIGOPS: The Hall of Fame Award** The paper introduces a replication protocol very similar to what is now known as Paxos. That protocol has become the standard for consistent, fault-tolerant state-machine replication, and is widely used in data centers to keep the state consistent despite failures and reconfiguration.
+ - [The Part Time Parliament](http://dl.acm.org/citation.cfm?id=279229),Leslie Lamport. ACM TOCS 16(2), May 1998, 133–169.
+    - **SIGOPS: The Hall of Fame Award** The work (originally published in 1989) was independent and roughly concurrent with the Viewstamped Replication work also recognized this year. It describes the protocol in a more general setting, adds a correctness argument, and forms the basis for modern Paxos implementations.
+ - [Distributed Snapshots: Determining Global States of a Distributed System](http://dl.acm.org/citation.cfm?id=214456), K. Mani Chandy and Leslie Lamport.  ACM Transactions on Computer Systems 3(1), February 1985.
+    - **SIGOPS: The Hall of Fame Award**  This paper takes the idea of consistency for distributed predicate evaluation, formalizes it, distinguishes between stable and dynamic predicates, and shows precise conditions for correct detection of stable conditions. The fundamental techniques in the paper are the secret sauce in many distributed algorithms for deadlock detection, termination detection, consistent checkpointing for fault tolerance, global predicate detection for debugging and monitoring, and distributed simulation.
+ - [Exploiting Virtual Synchrony in Distributed Systems](http://dl.acm.org/citation.cfm?id=37515), Kenneth P. Birman and Thomas A. Joseph. SOSP 1987.
+    - **SIGOPS: The Hall of Fame Award**  This paper describes a methodology for building distributed applications comprised of multiple components, each realized by a group of replicated servers. It defines a number of group communication primitives and then ties fault notification into the fabric of group services by introducing the virtual synchrony principle, which orders communication and fault notifications consistently among group members and across multiple groups.
+    
+    
 ### Virtual Machine Monitor
  - [Virtual machine monitors: current technology and future trends](http://grid.hust.edu.cn/platform/resource/document/Virtual%20Machine%20Monitors%20Current%20Technology%20and%20Future%20Trends.pdf) ,IEEE Computer,vol38,issue 5, pp39-47, 2005
  - [Diagnosing performance overheads in the xen virtual machine environment](https://www.usenix.org/events/vee05/full_papers/p13-menon.pdf), vee 2005
@@ -55,6 +89,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [My VM is Lighter (and Safer) than your Container](https://dl.acm.org/authorize?N47258) SOSP 2017
 
 ### Network
+ - [End-To-End Arguments in System Design](http://portal.acm.org/citation.cfm?id=357402), J. H. Saltzer, D. P. Reed, and D. D. Clark, ACM Transactions on Computer Systems 2(4):277-288, November 1984.
+    -  **SIGOPS: The Hall of Fame Award**  This paper gave system designers, and especially Internet designers, an elegant framework for making sound decisions. A paper that launched a revolution and, ultimately, a religion.
  - [The x-Kernel: An Architecture for Implementing Network Protocols](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.42.3620&rank=2),IEEE Transactions on Software Engineering,1991
  - [MegaPipe: A New Programming Interface for Scalable Network I/O](http://www.eecs.berkeley.edu/~sylvia/papers/osdi2012_megapipe.pdf), OSDI 2012
  - [Improving network connection locality on multicore systems](https://pdos.csail.mit.edu/papers/affinity-accept:eurosys12.pdf), EUROSYS 2012
@@ -71,7 +107,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [ All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://courses.cs.washington.edu/courses/cse551/15sp/papers/alice-osdi14.pdf)OSDI 2014. 
  - [Rethink the Sync](https://www.usenix.org/legacy/event/osdi06/tech/nightingale/nightingale.pdf), OSDI 2006.
  - [Serverless Network File Systems](http://www.cs.columbia.edu/~nieh/teaching/e6118_s00/papers/p109-anderson.pdf),SOSP1995
- - [The Design and Implementation of a Log-Structured File System](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.8933),ACM Transactions on Computer Systems 1991
+ - [The Design and Implementation of a Log-Structured File System](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.8933),Mendel Rosenblum, John K. Ousterhout. ACM TOCS 10(1), Feb 1992, pp 26–52.
+    - **SIGOPS: The Hall of Fame Award**  The paper introduces log-structured file storage, where data is written sequentially to a log and continuously de-fragmented. The underlying ideas have influenced many modern file and storage systems like NetApp’s WAFL file systems, Facebook’s picture store, aspects of Google’s BigTable, and the Flash translation layers found in SSDs.
  - [A Fast File System for UNIX](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.114.9535&rank=1&q=A%20Fast%20File%20System%20for%20UNIX&osm=&ossid=),ACM Transactions on Computer Systems 1984
  - [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf),SOSP 2003
  - [Design Tradeoffs for SSD Performance](http://www.cs.wisc.edu/adsl/Publications/ssd-usenix08.pdf),USENIX 2008
@@ -90,11 +127,26 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems](http://www.ndsl.kaist.edu/~kyoungsoo/papers/mtcp.pdf), NSDI 2014
      - [mtcp project](http://shader.kaist.edu/mtcp/)
  - [The Multikernel: A new OS architecture for scalable multicore systems](http://www.sigops.org/sosp/sosp09/papers/baumann-sosp09.pdf),SOSP2009
- - [Disco: running commodity operating systems on scalable multiprocessors](http://research.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),ACM Transactions on Computer Systems,1997
+ - [Disco: running commodity operating systems on scalable multiprocessors](http://research.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),Edouard Bugnion, Scott Devine, and Mendel Rosenblum, SOSP 1997, ACM Transactions on Computer Systems,1997
+     - **SIGOPS: The Hall of Fame Award**  
  - [Scaling a file system to many cores using an operation log](https://dl.acm.org/authorize?N47149) SOSP 2017
  
 
-### Finding Bugs/Failures &Security
+### Finding Bugs/Failures &Security/Fault-Tolerant/Recovery
+ - [Implementing Fault-Tolerant Services Using the State Machine Approach: a tutorial](http://portal.acm.org/citation.cfm?doid=98163.98167), Fred B. Schneider, ACM Computing Surveys 22(4):299-319, December 1990.
+    - **SIGOPS: The Hall of Fame Award** The paper that explained how we should think about replication … a model that turns out to underlie Paxos, Virtual Synchrony, Byzantine replication, and even Transactional 1-Copy Serializability.
+ - [Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency](http://portal.acm.org/citation.cfm?id=74850.74870), Cary G. Gray and David R. Cheriton, SOSP 1989.
+     - **SIGOPS: The Hall of Fame Award** The Gray and Cheriton paper pioneered through its analysis of the Leases mechanism, which has become one of the most widely-used mechanisms for managing distributed caches. The paper is particularly striking for its careful analysis of the semantics of leases, its detailed experiments, and its thoughtful discussion of fault-tolerance issues.
+ - [Crash Recovery in a Distributed Data Storage System](http://dl.acm.org/citation.cfm?id=50214), Butler Lampson and Howard Sturgis, Technical report, Xerox Palo Alto Research Center, June 1979.
+     - **SIGOPS: The Hall of Fame Award** 
+ - [The Recovery Manager of the System R Database Manager](http://portal.acm.org/citation.cfm?id=356847), Jim Gray, Paul McJones, Mike Blasgen, Bruce Lindsay, Raymond Lorie, Tom Price, Franco Putzolu, and Irving Traiger, ACM Computing Surveys, June 1981.
+     - **SIGOPS: The Hall of Fame Award** 
+ - [Why Do Computers Stop And What Can Be Done About It?](http://www.hpl.hp.com/techreports/tandem/TR-85.7.pdf), Jim Gray, HP Labs Technical Report TR-85.7.
+     - **SIGOPS: The Hall of Fame Award** The paper presents the first large scale quantitative study of computer failures in practice, of a system built using best practices at the time to achieve fault-tolerance. 
+ - [Reflections on Trusting Trust](http://dl.acm.org/citation.cfm?id=358210),Ken Thompson. Communications of the ACM, Volume 27 Issue 8, Aug 1984.   
+     - **SIGOPS: The Hall of Fame Award**  The paper demonstrated that to have trust in a program, one cannot just rely on trust in the person who wrote it, or even on verifying the source code. One must also ensure that the entire tool chain used to produce and execute binaries is trustworthy.
+ - [A NonStop Kernel](http://dl.acm.org/citation.cfm?id=806587), Joel Bartlett, SOSP 1981.
+     - **SIGOPS: The Hall of Fame Award** Tandem was the first commercial database to achieve fault tolerance. To accomplish this, the Tandem system had to bring together many techniques — including message-passing, mirroring, fast failure detection, and failover — into a practical design and implementation.  
  - [An empirical study of operating systems errors](http://sosp.org/2001/papers/chou.pdf), SOSP 2003.
  - [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](http://courses.cs.washington.edu/courses/cse551/15sp/papers/klee-osdi08.pdf), OSDI 2008.
      - [KLEE project](http://klee.github.io/)
@@ -115,8 +167,13 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf) usenixsecurity17
      - [kAFL project](https://github.com/RUB-SysSec/kAFL)
 
+### Encryption & Authentication
+ - [ Using Encryption for Authentication in Large Networks of Computers],Roger Needham and Michael Schroeder, Communications of the ACM, December 1978.
+    - **SIGOPS: The Hall of Fame Award** 
+
 ### Interface Design (API/ABI/ Software-Hardware Interface...) 
- - [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf), Butler W. Lampson, SOSP 1983. **SIGOPS: The Hall of Fame Award**
+ - [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf), Butler W. Lampson, SOSP 1983. 
+    - **SIGOPS: The Hall of Fame Award** A classic study of experience building large systems, distilled into a cookbook of wisdom for the operating systems researcher. As time has passed, the value of these hints has only grown and the range of systems to which they apply enlarged.
  - [A Critique of the Windows Application Programming Interface](http://www.spinellis.gr/pubs/jrnl/1997-CSI-WinApi/html/win.pdf),Computer Standards & Interfaces, 20:1–8, November 1998
  - [Mars Code](http://dl.acm.org/citation.cfm?id=2556647.2560218) Magazine Communications of the ACM CACM Homepage archive
 Volume 57 Issue 2, February 2014 Pages 64-73 
@@ -127,7 +184,10 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  - [Light-Weight Contexts: An OS Abstraction for Safety and Performance](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/litton),OSDI 2016
 
 ### Verification/proof
- - [Safe Kernel Extensions Without Run-Time Checking](http://www.usenix.org/publications/library/proceedings/osdi96/necula.html), George C. Necula and Peter Lee, SOSP 1996,  **SIGOPS: The Hall of Fame Award**
+ - [Safe Kernel Extensions Without Run-Time Checking](http://www.usenix.org/publications/library/proceedings/osdi96/necula.html), George C. Necula and Peter Lee, SOSP 1996
+    - **SIGOPS: The Hall of Fame Award** This paper introduced the notion of proof carrying code (PCC) and showed how it could be used for ensuring safe execution by kernel extensions without incurring run-time overhead. PCC turns out to be a general approach for relocating trust in a system; trust is gained in a component by trusting a proof checker (and using it to check a proof the component behaves as expected) rather than trusting the component per se. PCC has become one of the cornerstones of language-based security.
+ - [A Logic of Authentication](http://portal.acm.org/citation.cfm?id=77649), Michael Burrows, Martin Abadi, and Roger Needham, ACM Transactions on Computer Systems 8(1):18-36, February 1990.
+    - **SIGOPS: The Hall of Fame Award** This paper introduced to the systems community a logic-based notation for authentication protocols to precisely describe certificates, delegations, etc. With this precise description a designer can easily reason whether a protocol is correct or not, and avoid the security flaws that have plagued protocols. “Speaks-for” and “says” are now standard tools for system designers.
  - [seL4: Formal Verification of an OS Kernel](http://www.sigops.org/sosp/sosp09/papers/klein-sosp09.pdf), SOSP 2009.
      - [seL4 project](https://github.com/seL4)
  - [Jitk: A Trustworthy In-Kernel Interpreter Infrastructure](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-wang_xi.pdf) OSDI 2014.
@@ -142,6 +202,8 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  - [Verifying a high-performance crash-safe file system using a tree specification](https://dl.acm.org/authorize?N47251) SOSP 2017
 
 ### DEVICES
+ - [A Case for Redundant Arrays of Inexpensive Disks (RAID)](http://dl.acm.org/citation.cfm?id=50214), David A. Patterson, Garth Gibson, Randy H. Katz.Proceedings of the 1988 ACM SIGMOD International Conference on Management of Data.
+    - **SIGOPS: The Hall of Fame Award**  The paper shows how to achieve efficient, fault tolerant and highly available storage using cheap, unreliable disk hardware components.
  - [Improving the Reliability of Commodity Operating Systems](http://www.cs.wisc.edu/~swift/papers/nooks-sosp.pdf), SOSP 2003
  - [Understanding modern device drivers](http://www.cs.wisc.edu/~swift/papers/asplos12_drivers.pdf),ASPLOS 2012
  - [Tolerating Hardware Device Failures in Software.](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.5958&rank=1&q=Tolerating%20Hardware%20Device%20Failures%20in%20Software&osm=&ossid=),SOSP 2009
