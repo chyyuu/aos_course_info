@@ -1,13 +1,13 @@
 
 ### OS Architecture
- - [The Structure of the "THE"-Multiprogramming System](http://uosis.mif.vu.lt/~liutauras/books/Dijkstra%20-%20The%20structure%20of%20the%20THE%20multiprogramming%20system.pdf)
-Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 1968
+ - [The Structure of the "THE"-Multiprogramming System](http://uosis.mif.vu.lt/~liutauras/books/Dijkstra%20-%20The%20structure%20of%20the%20THE%20multiprogramming%20system.pdf),
+Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 1968 **SIGOPS: The Hall of Fame Award**
  - [On Micro-Kernel Construction](http://zoo.cs.yale.edu/classes/cs422/2010/bib/liedtke95micro.pdf),ACM SIGOPS Operating Systems Review 29(5):237-250 · December 1995
  - [Exokernel: An Operating System Architecture for Application-Level Resource Management](http://flint.cs.yale.edu/cs428/doc/p251-engler.pdf), Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. MIT,  SIGOPS ’95, 1995
     - [jos project](https://pdos.csail.mit.edu/6.828/2016/labguide.html)
  - [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
     - [Singularity OS project](https://www.microsoft.com/en-us/research/project/singularity/) 
- - [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf),The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978)
+ - [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978) **SIGOPS: The Hall of Fame Award**
  - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie, Bell Laboratories, 1984
     - [xv6 project](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
     - [related info:The Unix-Haters Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
@@ -27,7 +27,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Addressing shared resource contention in multicore processors via scheduling](http://www.cs.sfu.ca/~fedorova/papers/asplos212-zhuravlev.pdf),ASPLOS2010
 
 ### Memory Management
- - [The working set model for program behavior](http://denninginstitute.com/pjd/PUBS/WSModel_1968.pdf),In Communications of the ACM 11(5), May 1968.
+ - [The working set model for program behavior](http://denninginstitute.com/pjd/PUBS/WSModel_1968.pdf),Peter J. Denning, SOSP 1967, In Communications of the ACM 11(5), May 1968 **SIGOPS: The Hall of Fame Award**
  - [WSClock - A Simple and Effective Algorithm for Virtual Memory Management](https://www.researchgate.net/publication/220909958_WSClock_-_A_Simple_and_Effective_Algorithm_for_Virtual_Memory_Management),ACM SIGOPS Operating Systems Review 15(5):87-95 · December 1981
  - [Simple But Effective Techniques for NUMA Memory Management](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.380.3461&rank=1),SOSP 1989
  - [TreadMarks: Distributed Shared Memory on Standard Workstations and Operating Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.9177&rank=9),IN PROCEEDINGS OF THE 1994 WINTER USENIX CONFERENCE,1994
@@ -115,7 +115,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf) usenixsecurity17
      - [kAFL project](https://github.com/RUB-SysSec/kAFL)
 
-### API 
+### Interface Design (API/ABI/ Software-Hardware Interface...) 
+ - [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf), Butler W. Lampson, SOSP 1983. **SIGOPS: The Hall of Fame Award**
  - [A Critique of the Windows Application Programming Interface](http://www.spinellis.gr/pubs/jrnl/1997-CSI-WinApi/html/win.pdf),Computer Standards & Interfaces, 20:1–8, November 1998
  - [Mars Code](http://dl.acm.org/citation.cfm?id=2556647.2560218) Magazine Communications of the ACM CACM Homepage archive
 Volume 57 Issue 2, February 2014 Pages 64-73 
@@ -125,8 +126,9 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  - [Flexsc: Flexible System Call Scheduling with Exception-Less System Calls](https://www.cs.cmu.edu/~chensm/Big_Data_reading_group/papers/flexsc-osdi10.pdf),OSDI 2010
  - [Light-Weight Contexts: An OS Abstraction for Safety and Performance](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/litton),OSDI 2016
 
-### Verification
- - [seL4: Formal Verification of an OS Kernel](http://www.sigops.org/sosp/sosp09/papers/klein-sosp09.pdf) SOSP 2009.
+### Verification/proof
+ - [Safe Kernel Extensions Without Run-Time Checking](http://www.usenix.org/publications/library/proceedings/osdi96/necula.html), George C. Necula and Peter Lee, SOSP 1996,  **SIGOPS: The Hall of Fame Award**
+ - [seL4: Formal Verification of an OS Kernel](http://www.sigops.org/sosp/sosp09/papers/klein-sosp09.pdf), SOSP 2009.
      - [seL4 project](https://github.com/seL4)
  - [Jitk: A Trustworthy In-Kernel Interpreter Infrastructure](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-wang_xi.pdf) OSDI 2014.
      - [jitk project](http://css.csail.mit.edu/jitk/)
