@@ -41,6 +41,9 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259),Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017
      - the tock embedded OS in RUST language
      - [tock os project](https://www.tockos.org/)
+ - [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/papers/biscuit.pdf),Cody Cutler, M. Frans Kaashoek, and Robert T. Morris,OSDI 2018    
+     - the biscuit POSIX-like OS in GO language
+     - [biscuit os project](https://pdos.csail.mit.edu/projects/biscuit.html)
  
 ### Process&Thread&Scheduling
  - [Programming Semantics for Multiprogrammed Computations](http://dl.acm.org/citation.cfm?id=365252), Jack B. Dennis, Earl C. Van Horn. Communications of the ACM, Volume 9 Issue 3, March 1966.
