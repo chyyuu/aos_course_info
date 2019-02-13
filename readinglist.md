@@ -1,3 +1,20 @@
+## Contents
+
+  * [OS Architecture](#os-architecture)
+  * [Process&Thread&Scheduling](#processthreadscheduling)
+  * [Memory Management](#memory-management)
+  * [Concurrency/Sync&Mutex](#concurrencysyncmutex)
+  * [Distributed Systems](#distributed-systems) 
+  * [Virtual Machine Monitor](#virtual-machine-monitor)
+  * [Network](#network)  
+  * [File System](#file-system)
+  * [Scalability](#scalability)
+  * [Bugs/Security/Fault-Tolerant/Recovery](#bugssecurityfault-tolerantrecovery)
+  * [Encryption&Authentication](#encryptionauthentication)  
+  * [Interface Design (API/ABI/ Software-Hardware Interface...)](#interface-design-apiabi-software-hardware-interface)  
+  * [Verification/Proof](#verificationproof)  
+  * [DEVICES](#devices)      
+-----------------------------------------
 
 ### OS Architecture
  - [The Structure of the "THE"-Multiprogramming System](http://uosis.mif.vu.lt/~liutauras/books/Dijkstra%20-%20The%20structure%20of%20the%20THE%20multiprogramming%20system.pdf),
@@ -143,7 +160,7 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  - [F2FS: A New File System for Flash Storage](https://www.usenix.org/conference/fast15/technical-sessions/presentation/lee),FAST 2015
  - [Hare: a file system for non-cache-coherent multicores](https://pdos.csail.mit.edu/papers/hare.pdf),EUROSYS 2015
 
-### SMP & Multicore & Scalability
+### Scalability
  - [Corey: An Operating System for Many Cores](https://www.usenix.org/events/osdi08/tech/full_papers/boyd-wickizer/boyd_wickizer.pdf),OSDI 2008
  - [An analysis of Linux scalability to many cores](https://pdos.csail.mit.edu/papers/linux:osdi10.pdf), OSDI 2010
  - [Locating cache performance bottlenecks using data profiling](https://pdos.csail.mit.edu/papers/dprof:eurosys10.pdf), EUROSYS 2010
@@ -159,7 +176,7 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  - [Scaling a file system to many cores using an operation log](https://dl.acm.org/authorize?N47149) SOSP 2017
  
 
-### Finding Bugs/Failures &Security/Fault-Tolerant/Recovery
+### Bugs/Security/Fault-Tolerant/Recovery
  - [Implementing Fault-Tolerant Services Using the State Machine Approach: a tutorial](http://portal.acm.org/citation.cfm?doid=98163.98167), Fred B. Schneider, ACM Computing Surveys 22(4):299-319, December 1990.
     - **SIGOPS: The Hall of Fame Award** The paper that explained how we should think about replication … a model that turns out to underlie Paxos, Virtual Synchrony, Byzantine replication, and even Transactional 1-Copy Serializability.
  - [Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency](http://portal.acm.org/citation.cfm?id=74850.74870), Cary G. Gray and David R. Cheriton, SOSP 1989.
@@ -198,8 +215,8 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  - [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf) usenixsecurity17
      - [kAFL project](https://github.com/RUB-SysSec/kAFL)
 
-### Encryption & Authentication
- - [ Using Encryption for Authentication in Large Networks of Computers],Roger Needham and Michael Schroeder, Communications of the ACM, December 1978.
+### Encryption&Authentication
+ - [ Using Encryption for Authentication in Large Networks of Computers](http://portal.acm.org/citation.cfm?id=359659),Roger Needham and Michael Schroeder, Communications of the ACM, December 1978.
     - **SIGOPS: The Hall of Fame Award** 
 
 ### Interface Design (API/ABI/ Software-Hardware Interface...) 
@@ -214,7 +231,7 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  - [Flexsc: Flexible System Call Scheduling with Exception-Less System Calls](https://www.cs.cmu.edu/~chensm/Big_Data_reading_group/papers/flexsc-osdi10.pdf),OSDI 2010
  - [Light-Weight Contexts: An OS Abstraction for Safety and Performance](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/litton),OSDI 2016
 
-### Verification/proof
+### Verification/Proof
  - [Safe Kernel Extensions Without Run-Time Checking](http://www.usenix.org/publications/library/proceedings/osdi96/necula.html), George C. Necula and Peter Lee, SOSP 1996
     - **SIGOPS: The Hall of Fame Award** This paper introduced the notion of proof carrying code (PCC) and showed how it could be used for ensuring safe execution by kernel extensions without incurring run-time overhead. PCC turns out to be a general approach for relocating trust in a system; trust is gained in a component by trusting a proof checker (and using it to check a proof the component behaves as expected) rather than trusting the component per se. PCC has become one of the cornerstones of language-based security.
  - [A Logic of Authentication](http://portal.acm.org/citation.cfm?id=77649), Michael Burrows, Martin Abadi, and Roger Needham, ACM Transactions on Computer Systems 8(1):18-36, February 1990.
