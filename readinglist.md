@@ -22,26 +22,26 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
     - **SIGOPS: The Hall of Fame Award** The first paper to suggest that an operating system be built in a structured way. That structure was a series of layers, each a virtual machine that introduced abstractions built using the functionality of lower layer. The paper stimulated a great deal of subsequent work in building operating systems as structured systems.
  1. [Tenex, A Paged Time Sharing System for the PDP-10](http://dl.acm.org/citation.cfm?id=361271),Daniel G. Bobrow, Jerry D. Burchfiel, Daniel L. Murphy and Raymond S. Tomlinson. Communications of the ACM 15(3), March 1972.
     - **SIGOPS: The Hall of Fame Award**  The Tenex system pioneered many ideas that are prominent in modern operating systems. It included one of the first page based memory systems, copy on write sharing, mapping of files into virtual memory, and user/group/other file protection. It also had mnemonic commands with command-line completion and automatic file versioning. As one reviewer said, “Reading it now, I’m pleasantly surprised by how much is familiar — thanks to its successors.”
- - [On the criteria to be used in decomposing systems into modules](http://doi.acm.org/10.1145/361598.361623), David. L. Parnas., Communications of the ACM 15(12), December 1972, 1053-1058. 
+ 1. [On the criteria to be used in decomposing systems into modules](http://doi.acm.org/10.1145/361598.361623), David. L. Parnas., Communications of the ACM 15(12), December 1972, 1053-1058. 
     - **SIGOPS: The Hall of Fame Award**  This paper introduced a technique for decomposing a complex system into modules. Through a simple example it showed that a modularization that emphasizes what is now known as “information hiding” is superior to more obvious module decompositions in terms of the software engineering lifecycle. The paper argues the beneficial decomposition can be achieved with minimal performance overheads. The “information hiding” approach has influenced software engineering in areas including operating systems, distributed systems, databases, and programming languages. 
- - [On Micro-Kernel Construction](http://zoo.cs.yale.edu/classes/cs422/2010/bib/liedtke95micro.pdf),J. Liedtke., ACM SIGOPS Operating Systems Review 29(5):237-250 · December 1995
+ 1. [On Micro-Kernel Construction](http://zoo.cs.yale.edu/classes/cs422/2010/bib/liedtke95micro.pdf),J. Liedtke., ACM SIGOPS Operating Systems Review 29(5):237-250 · December 1995
     - **SIGOPS: The Hall of Fame Award**   This paper presented the core design ideas behind the L4 microkernel, especially the minimality principle, which states that functionality must only be implemented inside the kernel if moving it outside would prevent the implementation of required system functionality. This principle was at the heart of L4’s design, and supported a ruthless performance focus, which allowed L4 to outperform other microkernels by an order of magnitude. The core ideas of this paper led to a family of L4 microkernels which were commercially deployed on a large scale, and eventually enabled unprecedented assurance through formal verification.
- - [Exokernel: An Operating System Architecture for Application-Level Resource Management](http://flint.cs.yale.edu/cs428/doc/p251-engler.pdf), Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. MIT,  SIGOPS ’95, 1995
+ 1. [Exokernel: An Operating System Architecture for Application-Level Resource Management](http://flint.cs.yale.edu/cs428/doc/p251-engler.pdf), Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. MIT,  SIGOPS ’95, 1995
     - [jos project](https://pdos.csail.mit.edu/6.828/2016/labguide.html)
- - [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
+ 1. [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
     - [Singularity OS project](https://www.microsoft.com/en-us/research/project/singularity/) 
- - [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978)
+ 1. [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978)
     - **SIGOPS: The Hall of Fame Award** At a time when operating systems were trending towards complexity, UNIX emerged as a hallmark of elegance and simplicity.
     - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie, Bell Laboratories, 1984
     - [xv6 project](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
     - [related info:The Unix-Haters Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
- - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
+ 1. [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
  - [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
      - [SVA project](https://github.com/jtcriswell/SVA)
- - [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259),Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017
+ 1. [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259),Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017
      - the tock embedded OS in RUST language
      - [tock os project](https://www.tockos.org/)
- - [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/papers/biscuit.pdf),Cody Cutler, M. Frans Kaashoek, and Robert T. Morris,OSDI 2018    
+ 1. [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/papers/biscuit.pdf),Cody Cutler, M. Frans Kaashoek, and Robert T. Morris,OSDI 2018    
      - the biscuit POSIX-like OS in GO language
      - [biscuit os project](https://pdos.csail.mit.edu/projects/biscuit.html)
  
