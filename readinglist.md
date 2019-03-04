@@ -32,7 +32,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
     - [Singularity OS project](https://www.microsoft.com/en-us/research/project/singularity/) 
  - [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978)
     - **SIGOPS: The Hall of Fame Award** At a time when operating systems were trending towards complexity, UNIX emerged as a hallmark of elegance and simplicity.
- - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie, Bell Laboratories, 1984
+    - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie, Bell Laboratories, 1984
     - [xv6 project](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
     - [related info:The Unix-Haters Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
  - [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
