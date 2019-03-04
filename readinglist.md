@@ -36,7 +36,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
     - [xv6 project](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
     - [related info:The Unix-Haters Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
  1. [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
- - [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
+ 1. [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
      - [SVA project](https://github.com/jtcriswell/SVA)
  1. [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259),Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017
      - the tock embedded OS in RUST language
