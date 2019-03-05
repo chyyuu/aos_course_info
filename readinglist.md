@@ -76,6 +76,9 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  - [TreadMarks: Distributed Shared Memory on Standard Workstations and Operating Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.9177&rank=9),IN PROCEEDINGS OF THE 1994 WINTER USENIX CONFERENCE,1994
  - [The Slab Allocator: An Object-Caching Kernel Memory Allocator](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.143.4374&rank=1), USENIX SUMMER TECHNICAL CONFERENCE , 1994
  - [Mnemosyne: Lightweight Persistent Memory](http://research.cs.wisc.edu/sonar/papers/mnemosyne-asplos2011.pdf),ASPLOS2011
+ - [Process-in-Process: Techniques for Practical Address-Space Sharing](https://www.mcs.anl.gov/~balaji/pubs/2018/hpdc/hpdc18.pip.pdf), Atsushi Hori, HPDC 2018
+     - Best Paper Award of HPDC 2018
+     - The idea of sharing address space between multiple processes is not new. So why is a new model needed? The answer lies with advances in high-performance computing, notably many-core computers with more parallelism in a node and frequent communication  between processes. Unlike these models, PiP’s design is completely in user space
 
  
 ### Concurrency/Sync&Mutex
