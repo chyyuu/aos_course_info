@@ -1,8 +1,8 @@
 ## Contents
 
-  * [OS Architecture](#os-architecture)
-  * [Process&Thread&Scheduling](#processthreadscheduling)
-  * [Memory Management](#memory-management)
+  1. [OS Architecture](#os-architecture)
+  1. [Process&Thread&Scheduling](#processthreadscheduling)
+  1. [Memory Management](#memory-management)
   * [Concurrency/Sync&Mutex](#concurrencysyncmutex)
   * [Distributed Systems](#distributed-systems) 
   * [Virtual Machine Monitor](#virtual-machine-monitor)
