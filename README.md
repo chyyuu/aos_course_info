@@ -1,4 +1,4 @@
-# Advanced OS Course (2019)
+# Advanced OS Course (2020 Spring)
 
 ## course id
  - 80240442
@@ -6,7 +6,7 @@
 ## Time & Place
  - 1~16 weeks
  - Monday (8:00-9:35)　
- - 6A303, 6th building
+ - 4-101, 4th building
  
 ## Objectives
  - Gain experience in doing OS research
@@ -15,22 +15,15 @@
  - Develop and test OS projects 
 
 ## Scheduling
-1.	Course overview + Performance + Reliability
-1. Building Computer & OS— v9-cpu/risc-v CPU ucore
-1. OS Architecture & Virtual Machine Management
-1. Paper&Project:  VMM & New OS Arch [1]
-1. Paper&Project:  OS/System API/Interface [1]
-1. Paper&Project:  Multicore & Scalability [1]
-1. Paper&Project:  Multicore & Scalability [2]
-1. Midterm Exam & Discuss & Project Review
-1. Paper&Project:  OS/System Security[1]
-1. Paper&Project:  OS/System Security[2]
-1. Paper&Project:  OS/System Verification[1]
-1. Paper&Project:  OS/System Verification[2]
-1. Invited Talk: OS Architecture
-2. Invited Talk: Network System
-3. Final Exam & Discuss & Project Review [1]
-2. Final Exam & Discuss & Project Review [2]
+### Lec 1 Advanced OS Overview 
+### Lec 2 OS Architecture
+### Lec3+4  System Virtualization Overview
+### Lec5+6  OS/System API/Interface
+### Lec7+8 OS for MultiCore Architecture
+### Lec 9+10 OS/System Security
+### Lec 11+12 Correctness: OS/System Verification
+### Lec 13+14 OS Kernel and HLL
+### Lec 15+16 Invited Talks From Visitors & Students
 
 ## ReadingList
 - [PaperList](readinglist.md)
