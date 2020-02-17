@@ -16,8 +16,8 @@
 
 ## Scheduling
 ### Lec 1 Advanced OS Overview 
- - [videos][https://www.bilibili.com/video/av89279661?from=search&seid=1562187515435802771]
- - [slides][https://cloud.tsinghua.edu.cn/d/1c2246163fe0410897ef/]
+ - [videos](https://www.bilibili.com/video/av89279661?from=search&seid=1562187515435802771)
+ - [slides](https://cloud.tsinghua.edu.cn/d/1c2246163fe0410897ef/)
  
 ### Lec 2 OS Architecture
 ### Lec3+4  System Virtualization Overview
