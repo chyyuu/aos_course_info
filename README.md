@@ -25,6 +25,9 @@
 ### Lec 13+14 OS Kernel and HLL
 ### Lec 15+16 Invited Talks From Visitors & Students
 
+### Details
+- [The Details](https://github.com/LearningOS/aos-lectures/blob/master/aos-course-outline.md)
+
 ## ReadingList
 - [PaperList](readinglist.md)
 
