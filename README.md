@@ -16,6 +16,9 @@
 
 ## Scheduling
 ### Lec 1 Advanced OS Overview 
+ - [videos][https://www.bilibili.com/video/av89279661?from=search&seid=1562187515435802771]
+ - [slides][https://cloud.tsinghua.edu.cn/d/1c2246163fe0410897ef/]
+ 
 ### Lec 2 OS Architecture
 ### Lec3+4  System Virtualization Overview
 ### Lec5+6  OS/System API/Interface
@@ -25,7 +28,6 @@
 ### Lec 13+14 OS Kernel and HLL
 ### Lec 15+16 Invited Talks From Visitors & Students
 
-### Details
 - [The Details](https://github.com/LearningOS/aos-lectures/blob/master/aos-course-outline.md)
 
 ## ReadingList
