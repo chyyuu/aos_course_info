@@ -4,3 +4,4 @@
 - https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems
 - https://www.cs.utexas.edu/~rossbach/380L-fall2017/index.html
 - https://www.classes.cs.uchicago.edu/archive/2020/winter/33100-1/index.html
+- https://www.cc.gatech.edu/~rama/CS6210-External/
