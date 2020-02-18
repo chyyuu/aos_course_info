@@ -47,6 +47,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation](https://www.usenix.org/conference/osdi18/presentation/shan), Yizhou Shan, Yutong Huang, Yilun Chen, and Yiying Zhang, Purdue University, OSDI 2018
      - Awarded Best Paper of OSDI 2018
      - [LegoOS project](http://legoos.io/)
+ 1. [The Nucleus of a Multiprogramming System](https://dl.acm.org/doi/10.1145/362258.362278), P. B. Hansen, Communications of the ACM, Vol. 13, No. 4, April 1970, pp. 238-241, 250. 
  
 ### Process&Thread&Scheduling
  1. [Programming Semantics for Multiprogrammed Computations](http://dl.acm.org/citation.cfm?id=365252), Jack B. Dennis, Earl C. Van Horn. Communications of the ACM, Volume 9 Issue 3, March 1966.
