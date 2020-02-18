@@ -5,3 +5,8 @@
 - https://www.cs.utexas.edu/~rossbach/380L-fall2017/index.html
 - https://www.classes.cs.uchicago.edu/archive/2020/winter/33100-1/index.html
 - https://www.cc.gatech.edu/~rama/CS6210-External/
+- https://www.cs.cmu.edu/~15712/
+- https://cs.jhu.edu/~huang/cs718/spring18/index.html
+- https://people.eecs.berkeley.edu/~kubitron/courses/cs194-24-S14/index_information.html
+- https://www.systems.ethz.ch/node/608
+- http://pages.cs.wisc.edu/~bart/cs736.html
