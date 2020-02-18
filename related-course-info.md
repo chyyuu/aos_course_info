@@ -1,0 +1,6 @@
+- http://www.eecg.toronto.edu/~yuan/teaching/gradOS/
+- https://cseweb.ucsd.edu/classes/fa19/cse221-a/index.html
+- https://www.cs.ucr.edu/~heng/teaching/cs202-fall17/
+- https://www.omscs.gatech.edu/cs-6210-advanced-operating-systems
+- https://www.cs.utexas.edu/~rossbach/380L-fall2017/index.html
+- https://www.classes.cs.uchicago.edu/archive/2020/winter/33100-1/index.html
