@@ -143,7 +143,7 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [My VM is Lighter (and Safer) than your Container](https://dl.acm.org/authorize?N47258) SOSP 2017
  1. [NEVE: Nested Virtualization Extensions for ARM](https://dl.acm.org/doi/10.1145/3132747.3132754) SOSP 2017
  1. [ACRN: a big little hypervisor for IoT development](https://dl.acm.org/doi/10.1145/3313808.3313816) VEE 2019
- 1. [TEEv: Virtualizing Trusted Execution Environments on Mobile Platforms](https://ipads.se.sjtu.edu.cn/zh/publications/LiVEE19.pdf) VEE 2019
+ 1. [TEEv: Virtualizing Trusted Execution Environments on Mobile Platforms](https://ipads.se.sjtu.edu.cn/zh/publications/LiVEE19.pdf) VEE 2019 （Best Paper）
  
 ### Network
  1. [End-To-End Arguments in System Design](http://portal.acm.org/citation.cfm?id=357402), J. H. Saltzer, D. P. Reed, and D. D. Clark, ACM Transactions on Computer Systems 2(4):277-288, November 1984.
