@@ -1,0 +1,3 @@
+- [An Empirical Guide to the Behavior and Use of Scalable Persistent Memory](https://arxiv.org/abs/1908.03583)
+- [The Parallel Persistent Memory Model](https://arxiv.org/abs/1805.05580)
+- [NVthreads: Practical Persistence for Multi-threaded Applications](https://dl.acm.org/citation.cfm?id=3064204),Terry Chinghsiang Hsu, Helge Brugner, Indrajit Roy, Kimberly Keeton, Patrick Eugster, EuroSYS 2017.
