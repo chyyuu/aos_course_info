@@ -14,6 +14,7 @@
   1. [Interface Design (API/ABI/ Software-Hardware Interface...)](#interface-design-apiabi-software-hardware-interface)  
   1. [Verification/Proof](#verificationproof)  
   1. [Devices](#devices)      
+  1. [Overview](#overview)
 -----------------------------------------
 
 ### OS Architecture
@@ -281,3 +282,7 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  1. [Tolerating Hardware Device Failures in Software.](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.5958&rank=1&q=Tolerating%20Hardware%20Device%20Failures%20in%20Software&osm=&ossid=),SOSP 2009
  1. [Gdev: First-Class GPU Resource Management in the Operating System](https://www.usenix.org/system/files/conference/atc12/atc12-final319.pdf),USENIX ATC 2012 
  1. [GPUvm: Why not virtualizing GPUs at the hypervisor?](https://www.usenix.org/sites/default/files/conference/protected-files/atc14_slides_suzuki.pdf),USENIX ATC 2014
+ 
+ ### OVERVIEW
+ 1. [INTER-DISCIPLINARY RESEARCH CHALLENGES INCOMPUTER SYSTEMS FOR THE 2020s](https://sites.cs.ucsb.edu/~yufeiding/publication/grandChallengesReport_ASPLOS18.pdf), Albert Cohen†, Xipeng Shen‡, Josep Torrellas∗, James Tuck‡, and Yuanyuan Zhou,etc., ASPLOS2018.
+
