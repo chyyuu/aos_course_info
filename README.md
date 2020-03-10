@@ -15,14 +15,11 @@
  - Develop and analyze OS projects 
 
 ## Scheduling
+
+- [videos&slides](https://next.xuetangx.com/course/thu080917777/3234209)
+
 ### Lec 1 Advanced OS Overview 
- - [videos](https://next.xuetangx.com/learn/thu080917777/thu080917777/3234209/video/2174282)
- - [slides](https://next.xuetangx.com/api/v1/lms/service/download/?file_url=https://qn-next.xuetangx.com/15817769496860.pdf&file_name=slide-01-01.pdf)
- 
 ### Lec 2 OS Architecture & Structure
- - [videos]()
- - [slides]()
- 
 ### Lec3+4  System Virtualization Overview
 ### Lec5+6  OS/System API/Interface
 ### Lec7+8 OS for MultiCore Architecture
