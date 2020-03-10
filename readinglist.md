@@ -51,7 +51,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
      - [LegoOS project](http://legoos.io/)
  1. [The Nucleus of a Multiprogramming System](https://dl.acm.org/doi/10.1145/362258.362278), P. B. Hansen, Communications of the ACM, Vol. 13, No. 4, April 1970, pp. 238-241, 250. 
  
-### Process&Thread&Scheduling
+### Process&Thread&Scheduling 
  1. [Programming Semantics for Multiprogrammed Computations](http://dl.acm.org/citation.cfm?id=365252), Jack B. Dennis, Earl C. Van Horn. Communications of the ACM, Volume 9 Issue 3, March 1966.
     - **SIGOPS: The Hall of Fame Award**  The paper lays out the conceptual foundations for multiprogramming and protection in computer systems.
  1. [Lottery Scheduling: Flexible Proportional-Share Resource Management](https://www.usenix.org/legacy/publications/library/proceedings/osdi/full_papers/waldspurger.pdf), OSDI94
@@ -133,7 +133,7 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
 
 - [Basic Knowledge of VMM](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)
 
- 1. [A virtual machine time-sharing system](http://dx.doi.org/10.1147/sj.93.0199),R. A. Meyer and L. H. Seawright. IBM Systems Journal 9(3), September 1970, 199-218. 
+ 1. [A virtual machine time-sharing system](http://dx.doi.org/10.1147/sj.93.0199),R. A. Meyer and L. H. Seawright. IBM Systems Journal 9(3), September 1970, 199- 218. 
     - **SIGOPS: The Hall of Fame Award**  This paper described the second generation of the very first virtual machine system. It was originally built in 1966 for an IBM 360/40 with custom virtual memory hardware and then ported to a 360/67, which had virtual memory built in. In addition to a virtual machine monitor called CP, the system included a single user interactive system called CMS, heavily influenced by MIT’s CTSS; to support multiple users the system ran CMS in a separate VM for each user. Because of the clean architecture of the 360, CP could virtualize the hardware perfectly (except for timing dependencies and self-modifying channel programs) without binary translation, though it did have to translate the channel programs. It could run most of the existing IBM operating systems in virtual machines. CP/67 evolved into VM/370, which became the main time-sharing system for IBM mainframes.
  1. [Memory Resource Management in VMware ESX Server](http://dl.acm.org/citation.cfm?id=844146), Carl A. Waldspurger. , OSDI 2002. 
     - **SIGOPS: The Hall of Fame Award**  This paper introduced elegant and effective techniques of hypervisor memory management. Memory ballooning allows the hypervisor to reclaim memory from a virtual machine in accordance with the unmodified guest’s operating system policies. Transparent page sharing supports efficient memory use with small overhead. The combination of active memory estimation, idle memory tax, and proportional fair sharing, along with admission-controlled memory reservation,provides the basis for service level agreements and reasoned overcommitment. This paper has been highly influential; many of its techniques have been adopted by widely-used hypervisors. 
@@ -196,7 +196,7 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [mTCP: a Highly Scalable User-level TCP Stack for Multicore Systems](http://www.ndsl.kaist.edu/~kyoungsoo/papers/mtcp.pdf), NSDI 2014
      - [mtcp project](http://shader.kaist.edu/mtcp/)
  1. [The Multikernel: A new OS architecture for scalable multicore systems](http://www.sigops.org/sosp/sosp09/papers/baumann-sosp09.pdf),SOSP2009
- 1. [Disco: running commodity operating systems on scalable multiprocessors](http://research.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),Edouard Bugnion, Scott Devine, and Mendel Rosenblum, SOSP 1997, ACM Transactions on Computer Systems,1997
+ 1. [Disco: running commodity operating systems on scalable multiprocessors](http://rese arch.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),Edouard Bugnion, Scott Devine, and Mendel Rosenblum, SOSP 1997, ACM Transactions on Computer Systems,1997
      - **SIGOPS: The Hall of Fame Award**  
  1. [Scaling a file system to many cores using an operation log](https://dl.acm.org/authorize?N47149) SOSP 2017
  
@@ -247,6 +247,8 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
 ### Interface Design (API/ABI/ Software-Hardware Interface...) 
  1. [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf), Butler W. Lampson, SOSP 1983. 
     - **SIGOPS: The Hall of Fame Award** A classic study of experience building large systems, distilled into a cookbook of wisdom for the operating systems researcher. As time has passed, the value of these hints has only grown and the range of systems to which they apply enlarged.
+ 1. [End-To-End Arguments in System Design](http://portal.acm.org/citation.cfm?id=357402), J. H. Saltzer, D. P. Reed, and D. D. Clark, ACM Transactions on Computer Systems 2(4):277-288, November 1984.
+    -  **SIGOPS: The Hall of Fame Award**  This paper gave system designers, and especially Internet designers, an elegant framework for making sound decisions. A paper that launched a revolution and, ultimately, a religion.
  1. [A Critique of the Windows Application Programming Interface](http://www.spinellis.gr/pubs/jrnl/1997-CSI-WinApi/html/win.pdf),Computer Standards & Interfaces, 20:1–8, November 1998
  1. [Mars Code](http://dl.acm.org/citation.cfm?id=2556647.2560218) Magazine Communications of the ACM CACM Homepage archive
 Volume 57 Issue 2, February 2014 Pages 64-73 
