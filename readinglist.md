@@ -13,7 +13,8 @@
   1. [Encryption&Authentication](#encryptionauthentication)  
   1. [Interface Design (API/ABI/ Software-Hardware Interface...)](#interface-design-apiabi-software-hardware-interface)  
   1. [Verification/Proof](#verificationproof)  
-  1. [Devices](#devices)      
+  1. [Devices](#devices)
+  1. [Language](#language)
   1. [Overview](#overview)
 -----------------------------------------
 
@@ -286,6 +287,18 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  1. [Gdev: First-Class GPU Resource Management in the Operating System](https://www.usenix.org/system/files/conference/atc12/atc12-final319.pdf),USENIX ATC 2012 
  1. [GPUvm: Why not virtualizing GPUs at the hypervisor?](https://www.usenix.org/sites/default/files/conference/protected-files/atc14_slides_suzuki.pdf),USENIX ATC 2014
  
+ ### LANGUAGE
+ 1. [The Evolution of C Programming Practices: A Study of the Unix Operating System 1973–2015](https://www2.dmst.aueb.gr/dds/pubs/conf/2016-ICSE-ProgEvol/html/SLK16.pdf), Diomidis Spinellis, etc., ICSE 2016
+ 1. [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
+ 1. [The nesC Language: A Holistic Approach to Networked Embedded Systems](http://nescc.sourceforge.net/papers/nesc-pldi-2003.pdf), David Gay, etc., PLDI 2003
+ 1. [A Principled Approach to Operating System Construction in Haskell](http://web.cecs.pdx.edu/~apt/icfp05.pdf), Thomas Hallgren,etc. ICFP 2005
+ 1. [Towards a Strongly Typed Functional Operating System](),Arjen van Weelden and Rinus Plasmeijer,  IFL 2002
+ 1. [Language Support for Fast and Reliable Message-based Communication in Singularity OS](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/04/singsharp.pdf), EuroSys 2006
+ 1. [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
+ 1. [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259), Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017 
+ 1. [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/papers/biscuit.pdf),Cody Cutler, M. Frans Kaashoek, and Robert T. Morris,OSDI 2018 
+ 1. [MirageOS Towards a smaller and safer OS](http://gazagnaire.org/pub/2018.05.OUPS.pdf),Thomas Gazagnaire, Tech Talk, 2018
+
  ### OVERVIEW
  1. [INTER-DISCIPLINARY RESEARCH CHALLENGES INCOMPUTER SYSTEMS FOR THE 2020s](https://sites.cs.ucsb.edu/~yufeiding/publication/grandChallengesReport_ASPLOS18.pdf), Albert Cohen†, Xipeng Shen‡, Josep Torrellas∗, James Tuck‡, and Yuanyuan Zhou,etc., ASPLOS2018.
 
