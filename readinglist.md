@@ -299,6 +299,8 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  1. [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259), Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017 
  1. [The benefits and costs of writing a POSIX kernel in a high-level language](https://pdos.csail.mit.edu/papers/biscuit.pdf),Cody Cutler, M. Frans Kaashoek, and Robert T. Morris,OSDI 2018 
  1. [MirageOS Towards a smaller and safer OS](http://gazagnaire.org/pub/2018.05.OUPS.pdf),Thomas Gazagnaire, Tech Talk, 2018
+ 1. [The Case for Writing Network Drivers in High-Level Programming Languages](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/the-case-for-writing-network-drivers-in-high-level-languages.pdf), ANCS’19, 2019
+ 1. [Practical Safe Linux Kernel Extensibility](https://danyangzhuo.com/papers/HotOS19-Stone.pdf), Samantha Miller, etc., HotOS 2019
 
  ### OVERVIEW
  1. [INTER-DISCIPLINARY RESEARCH CHALLENGES INCOMPUTER SYSTEMS FOR THE 2020s](https://sites.cs.ucsb.edu/~yufeiding/publication/grandChallengesReport_ASPLOS18.pdf), Albert Cohen†, Xipeng Shen‡, Josep Torrellas∗, James Tuck‡, and Yuanyuan Zhou,etc., ASPLOS2018.
