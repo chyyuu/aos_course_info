@@ -1,3 +1,3 @@
 ## Rust based OS
-- [drone](https://www.drone-os.com/)
-- [redox](https://www.redox-os.org/)
+- [drone](https://www.drone-os.com/) : an Embedded Operating System for writing real-time applications in Rust
+- [redox](https://www.redox-os.org/) : a Unix-like Micro-Kernel Operating System written in Rust
