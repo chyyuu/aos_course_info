@@ -38,3 +38,6 @@
 
 ## Instructor Info
 - yuchen AT tsinghua.edu.cn
+
+## related info
+- [OS related examples/tutorials/demos](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
