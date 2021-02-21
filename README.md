@@ -1,4 +1,4 @@
-# Advanced OS Course (2020 Spring)
+# Advanced OS Course (2021 Spring)
 
 ## course id
  - 80240442
@@ -6,7 +6,7 @@
 ## Time & Place
  - 1~16 weeks
  - Monday (8:00-9:35)　
- - 4-101, 4th building
+ - B105 classroom, Law Library
  
 ## Objectives
  - Gain experience in doing OS research
