@@ -21,17 +21,22 @@
 ### OS Architecture
  1. [The Structure of the "THE"-Multiprogramming System](http://uosis.mif.vu.lt/~liutauras/books/Dijkstra%20-%20The%20structure%20of%20the%20THE%20multiprogramming%20system.pdf),
 Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 1968 
+    
     - **SIGOPS: The Hall of Fame Award** The first paper to suggest that an operating system be built in a structured way. That structure was a series of layers, each a virtual machine that introduced abstractions built using the functionality of lower layer. The paper stimulated a great deal of subsequent work in building operating systems as structured systems.
  1. [Tenex, A Paged Time Sharing System for the PDP-10](http://dl.acm.org/citation.cfm?id=361271),Daniel G. Bobrow, Jerry D. Burchfiel, Daniel L. Murphy and Raymond S. Tomlinson. Communications of the ACM 15(3), March 1972.
+    
     - **SIGOPS: The Hall of Fame Award**  The Tenex system pioneered many ideas that are prominent in modern operating systems. It included one of the first page based memory systems, copy on write sharing, mapping of files into virtual memory, and user/group/other file protection. It also had mnemonic commands with command-line completion and automatic file versioning. As one reviewer said, “Reading it now, I’m pleasantly surprised by how much is familiar — thanks to its successors.”
  1. [On the criteria to be used in decomposing systems into modules](http://doi.acm.org/10.1145/361598.361623), David. L. Parnas., Communications of the ACM 15(12), December 1972, 1053-1058. 
+    
     - **SIGOPS: The Hall of Fame Award**  This paper introduced a technique for decomposing a complex system into modules. Through a simple example it showed that a modularization that emphasizes what is now known as “information hiding” is superior to more obvious module decompositions in terms of the software engineering lifecycle. The paper argues the beneficial decomposition can be achieved with minimal performance overheads. The “information hiding” approach has influenced software engineering in areas including operating systems, distributed systems, databases, and programming languages. 
  1. [On Micro-Kernel Construction](http://zoo.cs.yale.edu/classes/cs422/2010/bib/liedtke95micro.pdf),J. Liedtke., ACM SIGOPS Operating Systems Review 29(5):237-250 · December 1995
+    
     - **SIGOPS: The Hall of Fame Award**   This paper presented the core design ideas behind the L4 microkernel, especially the minimality principle, which states that functionality must only be implemented inside the kernel if moving it outside would prevent the implementation of required system functionality. This principle was at the heart of L4’s design, and supported a ruthless performance focus, which allowed L4 to outperform other microkernels by an order of magnitude. The core ideas of this paper led to a family of L4 microkernels which were commercially deployed on a large scale, and eventually enabled unprecedented assurance through formal verification.
  1. [Exokernel: An Operating System Architecture for Application-Level Resource Management](http://flint.cs.yale.edu/cs428/doc/p251-engler.pdf), Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. MIT,  SIGOPS ’95, 1995
     - [jos project](https://pdos.csail.mit.edu/6.828/2016/labguide.html)
     - [slides](http://pdos.csail.mit.edu/exo/exo-slides/sld001.htm)
  1. [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
+    
     - [Singularity OS project](https://www.microsoft.com/en-us/research/project/singularity/) 
  1. [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978)
     - **SIGOPS: The Hall of Fame Award** At a time when operating systems were trending towards complexity, UNIX emerged as a hallmark of elegance and simplicity.
@@ -40,6 +45,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
     - [related info:The Unix-Haters Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
  1. [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
  1. [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
+    
      - [SVA project](https://github.com/jtcriswell/SVA)
  1. [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259),Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017
      - the tock embedded OS in RUST language
@@ -51,7 +57,11 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
      - Awarded Best Paper of OSDI 2018
      - [LegoOS project](http://legoos.io/)
  1. [The Nucleus of a Multiprogramming System](https://dl.acm.org/doi/10.1145/362258.362278), P. B. Hansen, Communications of the ACM, Vol. 13, No. 4, April 1970, pp. 238-241, 250. 
- 
+ 1. [Do OS abstractions make sense on FPGAs?])(https://www.usenix.org/system/files/osdi20-korolija.pdf), Dario Korolija, Timothy Roscoe, and Gustavo Alonso, ETH Zurich, OSDI 2020
+ 1. [A Linux in Unikernel Clothing](https://dl.acm.org/doi/abs/10.1145/3342195.3387526),Hsuan-Chi Kuo (University of Illinois at Urbana-Champaign), Dan Williams, Ricardo Koller (IBM T.J. Watson Research Center), Sibin Mohan (University of Illinois at Urbana-Champaign),EUROSYS 2020
+ 1. [Twizzler: a Data-Centric OS for Non-Volatile Memory](https://www.usenix.org/system/files/atc20-bittman.pdf),Daniel Bittman and Peter Alvaro, UC Santa Cruz; Pankaj Mehra, IEEE Member; Darrell D. E. Long, UC Santa Cruz; Ethan L. Miller, UC Santa Cruz / Pure Storage,USENIX ATC 2020
+ 1. [Lightweight Preemptible Functions](https://www.usenix.org/system/files/atc20-boucher.pdf),Sol Boucher, *Carnegie Mellon University;* Anuj Kalia, *Microsoft Research;* David G. Andersen, *Carnegie Mellon University;* Michael Kaminsky, *BrdgAI / Carnegie Mellon University*, USENIX ATC 2020
+
 ### Process&Thread&Scheduling 
  1. [Programming Semantics for Multiprogrammed Computations](http://dl.acm.org/citation.cfm?id=365252), Jack B. Dennis, Earl C. Van Horn. Communications of the ACM, Volume 9 Issue 3, March 1966.
     - **SIGOPS: The Hall of Fame Award**  The paper lays out the conceptual foundations for multiprogramming and protection in computer systems.
@@ -84,8 +94,12 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
      - Best Paper Award of HPDC 2018
      - The idea of sharing address space between multiple processes is not new. So why is a new model needed? The answer lies with advances in high-performance computing, notably many-core computers with more parallelism in a node and frequent communication  between processes. Unlike other models, PiP’s design is completely in user space.
      - [PiP project](https://github.com/RIKEN-SysSoft/PiP)
+1. [Classifying Memory Access Patterns for Prefetching](https://dl.acm.org/doi/pdf/10.1145/3373376.3378498), Grant Ayers,Heiner Litz profile imageHeiner Litz, Christos Kozyrakis profile imageChristos Kozyrakis, Partha  Ranganathan, ASPLOS 2020
+1. [Learning-based Memory Allocation for C++ Server Workloads](https://dl.acm.org/doi/pdf/10.1145/3373376.3378525),Martin Maas, David G. Andersen profile imageDavid G. Andersen, 
+      Michael  Isard profile imageMichael Isard,Mohammad Mahdi Javanmard,  ASPLOS 2020 
+1. [Elastic Cuckoo Page Tables: Rethinking Virtual Memory Translation for Parallelism](https://dl.acm.org/doi/pdf/10.1145/3373376.3378493),Dimitrios Skarlatos, Apostolos Kokolis, Tianyin Xu, ASPLOS 2020
 
- 
+
 ### Concurrency/Sync&Mutex
  1. [Experience with processes and monitors in Mesa](http://portal.acm.org/citation.cfm?doid=358818.358824), Butler W. Lampson and David D., SOSP 1979.
      - **SIGOPS: The Hall of Fame Award** When this paper was written, monitors had emerged as the synchronization method of choice. in programming languages conferences and operating systems textbooks. This paper was the first to look closely at the practical issues that monitors pose when used in a large production system. These issues remain contemporary, and indeed researchers working on transactional memory mechanisms would do well to reread this wonderful paper.
@@ -151,7 +165,8 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [ACRN: a big little hypervisor for IoT development](https://dl.acm.org/doi/10.1145/3313808.3313816) VEE 2019
  1. [TEEv: Virtualizing Trusted Execution Environments on Mobile Platforms](https://ipads.se.sjtu.edu.cn/zh/publications/LiVEE19.pdf) VEE 2019 （Best Paper）
  1. [Disco: running commodity operating systems on scalable multiprocessors](http://research.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),Edouard Bugnion, Scott Devine, and Mendel Rosenblum, SOSP 1997, ACM Transactions on Computer Systems,1997
- 
+ 1. [Design of a Symbolically Executable Embedded Hypervisor](https://dl.acm.org/doi/abs/10.1145/3342195.3387516),Jan Nordholz (TU Berlin / PTB), EUROSYS 2020
+
 ### Network
  1. [End-To-End Arguments in System Design](http://portal.acm.org/citation.cfm?id=357402), J. H. Saltzer, D. P. Reed, and D. D. Clark, ACM Transactions on Computer Systems 2(4):277-288, November 1984.
     -  **SIGOPS: The Hall of Fame Award**  This paper gave system designers, and especially Internet designers, an elegant framework for making sound decisions. A paper that launched a revolution and, ultimately, a religion.
@@ -167,9 +182,8 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [scalable Kernel TCP Design and Implementation for Short-Lived Connections](http://dl.acm.org/citation.cfm?doid=2872362.2872391), ASPLOS 2016
      - [fastsocket project](https://github.com/fastos/fastsocket)
  1. [ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks](https://dl.acm.org/authorize?N47254) SOSP 2017
-     
 
-### File System
+### File System/Storage
  1. [ All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications](http://courses.cs.washington.edu/courses/cse551/15sp/papers/alice-osdi14.pdf)OSDI 2014. 
  1. [Rethink the Sync](https://www.usenix.org/legacy/event/osdi06/tech/nightingale/nightingale.pdf), OSDI 2006.
  1. [Serverless Network File Systems](http://www.cs.columbia.edu/~nieh/teaching/e6118_s00/papers/p109-anderson.pdf),SOSP1995
@@ -185,6 +199,10 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [A Study of Linux File System Evolution](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf),FAST 2013
  1. [F2FS: A New File System for Flash Storage](https://www.usenix.org/conference/fast15/technical-sessions/presentation/lee),FAST 2015
  1. [Hare: a file system for non-cache-coherent multicores](https://pdos.csail.mit.edu/papers/hare.pdf),EUROSYS 2015
+ 1. [CrossFS: A Cross-layered Direct-Access File System](https://www.usenix.org/system/files/osdi20-ren.pdf), Yujie Ren, Rutgers University; Changwoo Min, Virginia Tech; Sudarsun Kannan, Rutgers University, OSDI 2020
+ 1. [Write Dependency Disentanglement with HORAE](https://www.usenix.org/system/files/osdi20-liao.pdf), Xiaojian Liao, Youyou Lu, Erci Xu, and Jiwu Shu, Tsinghua University,  OSDI 2020
+ 1. [AsymNVM: An Efficient Framework for Implementing Persistent Data Structures on Asymmetric NVM Architecture](),Teng Ma, Mingxing  Zhang, Kang  Chen, Zhuo  Song, Yongwei  Wu, Xuehai  Qian, ASPLOS 2020
+ 1. [Pronto: Easy and Fast Persistence for Volatile Data Structures](https://dl.acm.org/doi/pdf/10.1145/3373376.3378456), mirsaman Memaripour, Joseph Izraelevitz, Steven Swanson, ASPLOS 2020
 
 ### Scalability
  1. [Corey: An Operating System for Many Cores](https://www.usenix.org/events/osdi08/tech/full_papers/boyd-wickizer/boyd_wickizer.pdf),OSDI 2008
@@ -200,9 +218,9 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [Disco: running commodity operating systems on scalable multiprocessors](http://rese arch.cs.wisc.edu/areas/os/Qual/papers/disco.pdf),Edouard Bugnion, Scott Devine, and Mendel Rosenblum, SOSP 1997, ACM Transactions on Computer Systems,1997
      - **SIGOPS: The Hall of Fame Award**  
  1. [Scaling a file system to many cores using an operation log](https://dl.acm.org/authorize?N47149) SOSP 2017
- 
 
-### Bugs/Security/Fault-Tolerant/Recovery
+
+### Bugs/Security/Fault-Tolerant/Recovery/Update
  1. [Implementing Fault-Tolerant Services Using the State Machine Approach: a tutorial](http://portal.acm.org/citation.cfm?doid=98163.98167), Fred B. Schneider, ACM Computing Surveys 22(4):299-319, December 1990.
     - **SIGOPS: The Hall of Fame Award** The paper that explained how we should think about replication … a model that turns out to underlie Paxos, Virtual Synchrony, Byzantine replication, and even Transactional 1-Copy Serializability.
  1. [Leases: An Efficient Fault-Tolerant Mechanism for Distributed File Cache Consistency](http://portal.acm.org/citation.cfm?id=74850.74870), Cary G. Gray and David R. Cheriton, SOSP 1989.
@@ -240,6 +258,14 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [Log20: Fully Automated Optimal Placement of Log Printing Statements under Specified Overhead Threshold](https://dl.acm.org/authorize?N47278) SOSP 2017
  1. [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf) usenixsecurity17
      - [kAFL project](https://github.com/RUB-SysSec/kAFL)
+ 1. [Theseus: an Experiment in Operating System Structure and State Management](https://www.usenix.org/system/files/osdi20-boos.pdf) 
+     - [Theseus project](https://github.com/theseus-os/Theseus),Kevin Boos, Rice University; Namitha Liyanage, Yale University; Ramla Ijaz, Rice University; Lin Zhong, Yale University, OSDI 2020
+ 1. [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/system/files/osdi20-narayanan_vikram.pdf),Vikram Narayanan, Tianjiao Huang, David Detweiler, Dan Appel, and Zhaofeng Li, University of California,etc. OSDI 2020
+ 1. [Keystone: An Open Framework for Architecting Trusted Execution Environments](https://dl.acm.org/doi/abs/10.1145/3342195.3387532),Dayeol Lee, David Kohlbrenner, Shweta Shinde, Krste Asanovic, Dawn Song (UC Berkeley), EUROSYS 2020
+ 1. [SPINFER: Inferring Semantic Patches for the Linux Kernel](https://www.usenix.org/system/files/atc20-serrano.pdf),Lucas Serrano and Van-Anh Nguyen, *Sorbonne University/Inria/LIP6, etc. USENIX ATC 2020
+ 1. [Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX](https://dl.acm.org/doi/pdf/10.1145/3373376.3378469), Youren Shen, Hongliang  Tian, Yu  Chen, Kang  Chen, Runji  Wang, Yi  Xu,Yubin  Xia, ASPLOS 2020
+ 1. [Cross-Failure Bug Detection in Persistent Memory Programs](https://dl.acm.org/doi/pdf/10.1145/3373376.3378452),Sihang Liu,Korakit Seemakhupt,Yizhou Wei,Thomas Wenisch,Aasheesh Kolli,Samira Khan, ASPLOS 2020
+
 
 ### Encryption&Authentication
  1. [ Using Encryption for Authentication in Large Networks of Computers](http://portal.acm.org/citation.cfm?id=359659),Roger Needham and Michael Schroeder, Communications of the ACM, December 1978.
@@ -259,7 +285,7 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  1. [Flexsc: Flexible System Call Scheduling with Exception-Less System Calls](https://www.cs.cmu.edu/~chensm/Big_Data_reading_group/papers/flexsc-osdi10.pdf),OSDI 2010
  1. [Light-Weight Contexts: An OS Abstraction for Safety and Performance](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/litton),OSDI 2016
  1. [A fork() is in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf), HotOS 2019
- 
+
 ### Verification/Proof
  1. [Safe Kernel Extensions Without Run-Time Checking](http://www.usenix.org/publications/library/proceedings/osdi96/necula.html), George C. Necula and Peter Lee, SOSP 1996
     - **SIGOPS: The Hall of Fame Award** This paper introduced the notion of proof carrying code (PCC) and showed how it could be used for ensuring safe execution by kernel extensions without incurring run-time overhead. PCC turns out to be a general approach for relocating trust in a system; trust is gained in a component by trusting a proof checker (and using it to check a proof the component behaves as expected) rather than trusting the component per se. PCC has become one of the cornerstones of language-based security.
@@ -286,7 +312,7 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  1. [Tolerating Hardware Device Failures in Software.](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.154.5958&rank=1&q=Tolerating%20Hardware%20Device%20Failures%20in%20Software&osm=&ossid=),SOSP 2009
  1. [Gdev: First-Class GPU Resource Management in the Operating System](https://www.usenix.org/system/files/conference/atc12/atc12-final319.pdf),USENIX ATC 2012 
  1. [GPUvm: Why not virtualizing GPUs at the hypervisor?](https://www.usenix.org/sites/default/files/conference/protected-files/atc14_slides_suzuki.pdf),USENIX ATC 2014
- 
+
  ### LANGUAGE
  1. [The Evolution of C Programming Practices: A Study of the Unix Operating System 1973–2015](https://www2.dmst.aueb.gr/dds/pubs/conf/2016-ICSE-ProgEvol/html/SLK16.pdf), Diomidis Spinellis, etc., ICSE 2016
  1. [Early Experience with Mesa](https://www.cs.tufts.edu/~nr/cs257/archive/charles-geschke/early-experience-with-mesa.pdf), Charles M. Geschke, Jr. James H. Morris, and Edwin H. Satterthwaite, Commununications of the ACM, 20(8):540–553, 1977.
@@ -301,6 +327,7 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  1. [MirageOS Towards a smaller and safer OS](http://gazagnaire.org/pub/2018.05.OUPS.pdf),Thomas Gazagnaire, Tech Talk, 2018
  1. [The Case for Writing Network Drivers in High-Level Programming Languages](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/the-case-for-writing-network-drivers-in-high-level-languages.pdf), ANCS’19, 2019
  1. [Practical Safe Linux Kernel Extensibility](https://danyangzhuo.com/papers/HotOS19-Stone.pdf), Samantha Miller, etc., HotOS 2019
+ 1. [go-pmem: Native Support for Programming Persistent Memory in Go](https://www.usenix.org/system/files/atc20-george.pdf),Jerrin Shaji George, Mohit Verma, Rajesh Venkatasubramanian, and Pratap Subrahmanyam, VMware, USENIX ATC 2020
 
  ### OVERVIEW
  1. [INTER-DISCIPLINARY RESEARCH CHALLENGES INCOMPUTER SYSTEMS FOR THE 2020s](https://sites.cs.ucsb.edu/~yufeiding/publication/grandChallengesReport_ASPLOS18.pdf), Albert Cohen†, Xipeng Shen‡, Josep Torrellas∗, James Tuck‡, and Yuanyuan Zhou,etc., ASPLOS2018.
