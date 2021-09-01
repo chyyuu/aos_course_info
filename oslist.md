@@ -14,10 +14,10 @@
 - [redox](https://www.redox-os.org/) : a Unix-like Micro-Kernel Operating System written in Rust
 
 ### Education
-- [rcore-tutorial](https://github.com/rcore-os/rCore-Tutorial-v3) : basic educational OS labs in riscv for OS course in Tsinghua Univ.
-- [zcore-tutorial](https://github.com/rcore-os/zCore-Tutorial) : simplified  zcore educational labs in user-mode x86-64.
 - [Blog OS](http://os.phil-opp.com/) : detail blogs about Writing an OS in Rust in x86-64
 - [osblog on riscv](https://github.com/sgmarz/osblog) : The Adventures of OS: Making a RISC-V Operating System using Rust
+- [rcore-tutorial](https://github.com/rcore-os/rCore-Tutorial-v3) : basic educational OS labs in riscv for OS course in Tsinghua Univ.
+- [zcore-tutorial](https://github.com/rcore-os/zCore-Tutorial) : simplified  zcore educational labs in user-mode x86-64.
 - [tiny os kernel component labs](https://github.com/chyyuu/os_kernel_lab) : a lot of tiny os kernel component labs
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
 - [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
