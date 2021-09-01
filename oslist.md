@@ -13,6 +13,13 @@
 - [drone](https://www.drone-os.com/) : an Embedded Operating System for writing real-time applications in Rust with async/await features
 - [redox](https://www.redox-os.org/) : a Unix-like Micro-Kernel Operating System written in Rust
 
+#### some user-land vmm components
+- [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
+- [Huawei stratovirt](https://gitee.com/openeuler/stratovirt): stratovirt in openEuler linux distrbution.
+- [AWS firecracker](https://github.com/firecracker-microvm/firecracker): The main component of Firecracker is a VMM that uses the Linux Kernel Virtual Machine (KVM) to create and run microVMs.
+- [intel cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor): Cloud Hypervisor is an open source Virtual Machine Monitor (VMM) that runs on top of KVM and the MSHV hypervisors .
+- [rust-vmm ORG's repos in github](https://github.com/orgs/rust-vmm/repositories): rust-vmm is an open-source project that empowers the community to build custom Virtual Machine Monitors (VMMs) and hypervisors.
+
 ### Education
 - [Blog OS](http://os.phil-opp.com/) : detail blogs about Writing an OS in Rust in x86-64
 - [osblog on riscv](https://github.com/sgmarz/osblog) : The Adventures of OS: Making a RISC-V Operating System using Rust
