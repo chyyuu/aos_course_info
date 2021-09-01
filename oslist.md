@@ -1,4 +1,5 @@
-## Rust based OS
+## Rust based OS/Hypervisor/VMM/Firmwire
+
 ### Research
 - [Node Replicated Kernel](https://nrkernel.systems/) : The Node Replicated Kernel is an (experimental) research OS kernel for x86-64 (amd64) machines written in rust.
 - [Theseus](https://github.com/theseus-os/Theseus) : Theseus is a new OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to leverage intralingual design principles to shift OS responsibilities like resource management into the compiler.
@@ -16,6 +17,10 @@
 - [Blog OS](http://os.phil-opp.com/) : detail blogs about Writing an OS in Rust in x86-64
 - [osblog on riscv](https://github.com/sgmarz/osblog) : The Adventures of OS: Making a RISC-V Operating System using Rust
 - [tiny os kernel component labs](https://github.com/chyyuu/os_kernel_lab) : a lot of tiny os kernel component labs
+- [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
+- [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
+- [RVM -- Rcore Virtual Machine](https://github.com/rcore-os/RVM) : An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
+
 
 ### Hobby
 - [Lateral](https://github.com/carterisonline/lateral)： Lateral is a work-in-progress multitasking monolithic kernel + OS meant as a fun summer project.
