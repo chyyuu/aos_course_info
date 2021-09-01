@@ -6,6 +6,8 @@
 - [zcore](https://github.com/rcore-os/zCore) : Reimplement Some parts of Zircon microkernel & Linux kernel in safe Rust as a userspace program!
 
 ### Industry
+- [occlum](https://github.com/occlum/occlum): A memory-safe, multi-process library OS (LibOS) for Intel SGX. 
+  - [ngo](https://github.com/occlum/ngo): Next-Gen Occlum, a work-in-progress fork of Occlum that is optimized for the next-generation of Intel SGX
 - [drone](https://www.drone-os.com/) : an Embedded Operating System for writing real-time applications in Rust with async/await features
 - [redox](https://www.redox-os.org/) : a Unix-like Micro-Kernel Operating System written in Rust
 
