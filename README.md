@@ -43,4 +43,5 @@
 - [OS related examples/tutorials/demos](https://github.com/oscomp/os-competition-info/blob/main/ref-info.md)
 - [info about async in rust](https://github.com/rcore-os/zCore/wiki/Async-in-zCore)
 - [study resource of system programming in RUST](https://github.com/rcore-os/rCore/wiki/study-resource-of-system-programming-in-RUST)
+- [Rust-base OS/Hypervisor/Firmware](oslist.md)
 
