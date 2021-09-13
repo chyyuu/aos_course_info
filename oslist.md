@@ -5,6 +5,9 @@
 - [Node Replicated Kernel](https://nrkernel.systems/) : The Node Replicated Kernel is an (experimental) research OS kernel for x86-64 (amd64) machines written in rust.
 - [Theseus](https://github.com/theseus-os/Theseus) : Theseus is a new OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to leverage intralingual design principles to shift OS responsibilities like resource management into the compiler.
 - [tock](https://www.tockos.org/) : an embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
+- [hermitcore](https://hermitcore.org/) : HermitCore is a novel unikernel operating system targeting a scalable and predictable runtime behavior for HPC and cloud environments.
+  - [rustyhermit unikernel](https://github.com/hermitcore/rusty-hermit)
+  - [uhyve hypervisor](https://github.com/hermitcore/uhyve) 
 - [zcore](https://github.com/rcore-os/zCore) : Reimplement Some parts of Zircon microkernel & Linux kernel in safe Rust as a userspace program!
 
 ### Industry
