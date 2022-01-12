@@ -9,6 +9,7 @@
   - [rustyhermit unikernel](https://github.com/hermitcore/rusty-hermit)
   - [uhyve hypervisor](https://github.com/hermitcore/uhyve) 
 - [zcore](https://github.com/rcore-os/zCore) : Reimplement Some parts of Zircon microkernel & Linux kernel in safe Rust as a userspace program!
+- [aero  OS running in Qemu x8-64 smp](https://github.com/Andy-Python-Programmer/aero)
 
 ### Industry
 - [occlum](https://github.com/occlum/occlum): A memory-safe, multi-process library OS (LibOS) for Intel SGX. 
