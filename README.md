@@ -5,7 +5,7 @@
 
 ## Time & Place
  - 1~16 weeks
- - Monday (8:00-9:35)　
+ - Monday (15:20-16:55)　
  - 4-203 classroom, Fourth teaching building
  
 ## Objectives
