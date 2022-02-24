@@ -1,4 +1,4 @@
-# Advanced OS Course (2021 Spring)
+# Advanced OS Course (2022 Spring)
 
 ## course id
  - 80240442
@@ -6,7 +6,7 @@
 ## Time & Place
  - 1~16 weeks
  - Monday (8:00-9:35)　
- - B105 classroom, Law Library
+ - 4-203 classroom, Fourth teaching building
  
 ## Objectives
  - Gain experience in doing OS research
@@ -16,7 +16,7 @@
 
 ## Scheduling
 
-- [videos&slides](https://next.xuetangx.com/course/thu080917777/3234209)
+- [Old videos&slides](https://next.xuetangx.com/course/thu080917777/3234209)
 
 ### Lec 1 Advanced OS Overview 
 ### Lec 2 OS Architecture & Structure
