@@ -38,4 +38,4 @@
 ### Hobby
 - [Lateral](https://github.com/carterisonline/lateral)： Lateral is a work-in-progress multitasking monolithic kernel + OS meant as a fun summer project.
 - [snakeos](https://github.com/trusch/snakeos) : This is the game snake, bootable on a x86_64 CPU followed by blogos
-- [MOROS](https://github.com/vinc/moros):MOROS is a hobby operating system, targets computers with a x86-64 architecture and a BIOS.
+- [MOROS](https://github.com/vinc/moros) ：MOROS is a hobby operating system, targets computers with a x86-64 architecture and a BIOS.
