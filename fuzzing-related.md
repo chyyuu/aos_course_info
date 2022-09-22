@@ -11,3 +11,4 @@
 - [Device-agnostic Firmware Execution is Possible: A Concolic Execution Approach for Peripheral Emulation](https://dl.acm.org/doi/pdf/10.1145/3427228.3427280)
 - [HEALER: Relation Learning Guided Kernel Fuzzing]()
    - [proj: HEALER](https://github.com/SunHao-0/healer) 
+   - [《HEALER - Relation Learning Guided Kernel Fuzzing》 论文笔记](https://kiprey.github.io/2021/11/healer/)
