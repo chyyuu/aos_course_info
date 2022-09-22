@@ -1,3 +1,6 @@
+## info
+- [A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)
+
 ## projects
 - [syzkaller](https://github.com/google/syzkaller)
 - [gustave](https://github.com/airbus-seclab/gustave)
