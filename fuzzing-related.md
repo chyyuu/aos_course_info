@@ -13,3 +13,4 @@
 - [HEALER: Relation Learning Guided Kernel Fuzzing]()
    - [proj: HEALER](https://github.com/SunHao-0/healer) 
    - [《HEALER - Relation Learning Guided Kernel Fuzzing》 论文笔记](https://kiprey.github.io/2021/11/healer/)
+- [Fuzzing技术论文汇总](https://github.com/wcventure/FuzzingPaper)
