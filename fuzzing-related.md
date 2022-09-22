@@ -1,7 +1,9 @@
 ## info
 - [A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)
 - [2020 fuzz探索的一点总结与思考](https://zhuanlan.zhihu.com/p/344008210)
-
+- [fuzzOS](https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html)
+    - [gamozo's videos as he implements a fuzzer that runs as an operating system](https://www.youtube.com/watch?v=2YAgDJTs9So)
+    
 ## projects
 - [syzkaller](https://github.com/google/syzkaller)
 - [gustave](https://github.com/airbus-seclab/gustave)
