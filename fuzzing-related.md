@@ -1,5 +1,6 @@
 ## info
 - [A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)
+- [2020 fuzz探索的一点总结与思考](https://zhuanlan.zhihu.com/p/344008210)
 
 ## projects
 - [syzkaller](https://github.com/google/syzkaller)
