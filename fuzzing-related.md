@@ -1,0 +1,5 @@
+- [syzkaller](https://github.com/google/syzkaller)
+- kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels
+- [gustave](https://github.com/airbus-seclab/gustave)
+- Hardware Support to Improve Fuzzing Performance and Precision
+- Device-agnostic Firmware Execution is Possible: A Concolic Execution Approach for Peripheral Emulation
