@@ -2,7 +2,7 @@
     * * ** Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code**
     * 可以自动推断代码中的 belief 然后寻找违反 belief 的地方
     * belief 形如 “unlock 似乎应该和 lock 成对使用”
-    * 但是必须人手写给出 "<a> 和 <b> 成对使用"，自动推断的是 <a> 和 <b>
+    * 但是必须人手写给出 a 和 b 成对使用，自动推断的是 a 和 b
 * **Towards Automatic Discovery of Deviations in Binary Implementations with Applications to Error Detection and Fingerprint Generation**
     * 01 年的论文通过把二进制程序编译成 smt formula 来找 deviation
     * eval 评测了 http server 和 ntp server
