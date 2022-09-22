@@ -51,4 +51,4 @@
     * 生成测例的方法非常好，mutate 没有运行的程序部分然后应该 equivalent modulo input
     * 不能移植到 os 上
 * **Will You Still Compile Me Tomorrow? - Static Cross-Version Compiler Validation**
-    * 很类似谢兴宇和我的想法，基本一致
+
