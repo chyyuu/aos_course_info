@@ -6,6 +6,7 @@
     
 ## projects
 - [syzkaller](https://github.com/google/syzkaller)
+   - [Syzkaller入门知识总结](https://www.freebuf.com/sectool/323886.html)
 - [gustave](https://github.com/airbus-seclab/gustave)
 - [HEALER](https://github.com/SunHao-0/healer)
 - [FI(le) SY(stem) - FUZZer](https://github.com/0xricksanchez/fisy-fuzz)
