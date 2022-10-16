@@ -1,5 +1,5 @@
 * EXPLODE: a Lightweight, General System for Finding Serious Storage System Errors
-    * * ** Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code**
+    * * **Bugs as Deviant Behavior: A General Approach to Inferring Errors in Systems Code**
     * 可以自动推断代码中的 belief 然后寻找违反 belief 的地方
     * belief 形如 “unlock 似乎应该和 lock 成对使用”
     * 但是必须人手写给出 a 和 b 成对使用，自动推断的是 a 和 b
