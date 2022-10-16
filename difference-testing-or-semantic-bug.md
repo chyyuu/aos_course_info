@@ -10,6 +10,7 @@
 - Differential testing: a new approach to change detection
 - Deep differential testing of JVM implementations
 - Hunting for bugs in code coverage tools via randomized differential testing
+-  All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-consistent Applications. OSDI'14
 - [Workshop on Program Equivalence](http://eecs.qmul.ac.uk/~nikost/wpe2016/tlks.html)
 
 ## semantic-bug
