@@ -52,3 +52,9 @@
     * 不能移植到 os 上
 * **Will You Still Compile Me Tomorrow? - Static Cross-Version Compiler Validation**
 
+## bug analysis
+- A Study of Linux File System Evolution
+- An Empirical Study of Operating Systems Errors
+- Faults in Linux: Ten Years Later
+- An empirical study of optimization bugs in GCC and LLVM
+- Toward Understanding Compiler Bugs in GCC and LLVM
