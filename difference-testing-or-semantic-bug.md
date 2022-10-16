@@ -10,3 +10,10 @@
 - Deep differential testing of JVM implementations
 - Hunting for bugs in code coverage tools via randomized differential testing
 - [Workshop on Program Equivalence](http://eecs.qmul.ac.uk/~nikost/wpe2016/tlks.html)
+
+- Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3
+- Cross-checking Semantic Correctness: The Case of Finding File System Bugs
+- Finding and Understanding Bugs in C Compilers
+- Bugs as deviant behavior: A general approach to inferring errors in systems code.
+- SibylFS: formal specification and oracle-based testing for POSIX and real-world file systems
+- Finding Semantic Bugs in File Systems with an Extensible Fuzzing Framework
