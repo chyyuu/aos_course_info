@@ -1,7 +1,7 @@
 - Coverage-directed differential testing of JVM implementations
 - Privacy oracle: a system for finding application leaks with black box differential testing
 - Guided differential testing of certificate validation in SSL/TLS implementations
-- [DONE] Randomized Differential Testing as a Prelude to Formal Verification
+- Randomized Differential Testing as a Prelude to Formal Verification
 
    主要是一个 case study，给飞行软件做随机测试
     也是和 ref impl 对拍，但是加上 NAND 模拟和错误注入、反例最小化
