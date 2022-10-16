@@ -25,15 +25,6 @@
     * 需要在同样的 vfs 框架下，在函数粒度 cross check
     * 依赖于 struct inode 等等共同点
     * 符号执行拿到 path + path condition 然后分析副作用、对 flag 的使用
-* **SPINFER: Inferring Semantic Patches for the Linux Kernel**
-    * atc20，类似 seda
-    * 从具体 patch 推断出 semantic patch
-    * 和我们的予以推断没有关系
-* **MUVI: Automatically Inferring Multi-Variable Access Correlations and Detecting Related Semantic and Concurrency Bugs**
-    * 用过程间分析、流不敏感分析得到变量的访问相关性
-    * 通过访问相关性直接解决 inconsistent update bug
-    * 拓展 lockset 和 happenbefore、加入访问相关性让并发 bug 能探测到多变元的
-    * 这个推断可以，但是怎么用到我们想做的 os spec / 规则推断上？
 * **code2vec: Learning Distributed Representations of Code**
 * **Practical, low-effort equivalence veriﬁcation of real code**
     * uc-klee 的论文，检查等价性是在函数粒度
@@ -51,6 +42,17 @@
     * 生成测例的方法非常好，mutate 没有运行的程序部分然后应该 equivalent modulo input
     * 不能移植到 os 上
 * **Will You Still Compile Me Tomorrow? - Static Cross-Version Compiler Validation**
+
+## 语义推断
+* **SPINFER: Inferring Semantic Patches for the Linux Kernel**
+    * atc20，类似 seda
+    * 从具体 patch 推断出 semantic patch
+    * 和我们的予以推断没有关系
+* **MUVI: Automatically Inferring Multi-Variable Access Correlations and Detecting Related Semantic and Concurrency Bugs**
+    * 用过程间分析、流不敏感分析得到变量的访问相关性
+    * 通过访问相关性直接解决 inconsistent update bug
+    * 拓展 lockset 和 happenbefore、加入访问相关性让并发 bug 能探测到多变元的
+    * 这个推断可以，但是怎么用到我们想做的 os spec / 规则推断上？
 
 ## bug analysis
 - A Study of Linux File System Evolution
