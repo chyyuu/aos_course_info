@@ -11,12 +11,13 @@
 - [zcore](https://github.com/rcore-os/zCore) : Reimplement Some parts of Zircon microkernel & Linux kernel in safe Rust as a userspace program!
 - [aero  OS running in Qemu x8-64 smp](https://github.com/Andy-Python-Programmer/aero)
 
-### Industry
+### Industry || Hacker
 - [occlum](https://github.com/occlum/occlum): A memory-safe, multi-process library OS (LibOS) for Intel SGX. 
   - [ngo](https://github.com/occlum/ngo): Next-Gen Occlum, a work-in-progress fork of Occlum that is optimized for the next-generation of Intel SGX
 - [drone](https://www.drone-os.com/) : an Embedded Operating System for writing real-time applications in Rust with async/await features
 - [redox](https://www.redox-os.org/) : a Unix-like Micro-Kernel Operating System written in Rust
 - [KataOS](https://github.com/AmbiML/sparrow-kata-full)：a home-grown operating system named KataOS, that runs on top of seL4 and (ignoring the seL4 kernel) is written almost entirely in Rust
+- [embassy os kernel](https://github.com/embassy-rs/embassy)：Embassy is the next-generation framework for embedded applications.
 
 #### some user-land vmm components
 - [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
