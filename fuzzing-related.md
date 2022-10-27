@@ -10,6 +10,8 @@
 - [gustave](https://github.com/airbus-seclab/gustave)
 - [HEALER](https://github.com/SunHao-0/healer)
 - [FI(le) SY(stem) - FUZZer](https://github.com/0xricksanchez/fisy-fuzz)
+- [statefuzzer]()
+   - [paper:StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing](https://github.com/vul337/StateFuzz)
 
 ## papers
 - [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf)
