@@ -1,25 +1,4 @@
-L  M5-6  Phd 6-7     P8, P9,    P14   美团 L10 === 阿里P9
-  P6
-
-  脉脉
-
-  职级 薪酬
-
-  12w  贫困线
-
-  10w 德州
-
-  夏华夏 BU  自动车配送部
-  CEO 王鑫
-
-
-  技术委员
-
-  于英伟达 Drive OS
-
-
-
-  ## Unikernel Reading List
+## Unikernel Reading List
 
 - Integrating Unikernel Optimizations in a General Purpose OS, ArXiv'22
 - Kite: lightweight critical service domains, eurosys'22
