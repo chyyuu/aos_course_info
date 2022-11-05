@@ -25,3 +25,6 @@
 - [Unikernels: The Rise of the Virtual Library Operating System](http://unikernel.org/files/2014-cacm-unikernels.pdf),cacm'14
 - Unikernels: Library Operating Systems for the Cloud, asplos'13
   - http://unikernel.org/
+
+## Unikernel Resources
+- [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels)
