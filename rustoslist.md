@@ -21,6 +21,7 @@
 - [redox](https://www.redox-os.org/) : a Unix-like Micro-Kernel Operating System written in Rust
 - [KataOS](https://github.com/AmbiML/sparrow-kata-full)：a home-grown operating system named KataOS, that runs on top of seL4 and (ignoring the seL4 kernel) is written almost entirely in Rust
 - [embassy os kernel](https://github.com/embassy-rs/embassy)：Embassy is the next-generation framework for embedded applications.
+- [aero kernel](https://github.com/Andy-Python-Programmer/aero)：a new modern, experimental, unix-like operating system following the monolithic kernel design. 
 
 #### some user-land vmm components
 - [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
