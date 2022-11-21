@@ -39,9 +39,13 @@
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
 - [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
 - [RVM -- Rcore Virtual Machine](https://github.com/rcore-os/RVM) : An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
-
-
+- [	HarSaRK_multi_rs: A Hard Real-time Kernel for Multi-core Microcontrollers in Rust Language](https://github.com/Autonomous-Cyber-Physical-Systems/harsark.rs)
+   - [HarSaRK paper](https://autonomous-cyber-physical-systems.github.io/harsark.rs/HarSaRK-RS%20-%20WoRIE%2720.pdf)
 ### Hobby
 - [Lateral](https://github.com/carterisonline/lateral)： Lateral is a work-in-progress multitasking monolithic kernel + OS meant as a fun summer project.
 - [snakeos](https://github.com/trusch/snakeos) : This is the game snake, bootable on a x86_64 CPU followed by blogos
 - [MOROS](https://github.com/vinc/moros) ：MOROS is a hobby operating system, targets computers with a x86-64 architecture and a BIOS.
+- [bern RTOS](https://gitlab.com/bern-rtos/bern-rtos): A real-time operating system for microcontrollers written in Rust
+   - [Bern RTOS site](https://bern-rtos.org/)
+- [Real-Time Interrupt-driven Concurrency (RTIC)](https://github.com/rtic-rs): Real-Time Interrupt-driven Concurrency (RTIC) framework
+  - [RTIC site](https://rtic.rs)
