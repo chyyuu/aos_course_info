@@ -18,15 +18,15 @@
 
 - [Old videos&slides](https://next.xuetangx.com/course/thu080917777/3234209)
 
-### Lec 1 Advanced OS Overview 
-### Lec 2 OS Architecture & Structure
-### Lec3+4  System Virtualization Overview
-### Lec5+6  OS/System API/Interface
-### Lec 7+8 OS Kernel and HLL
-### Lec9+10 OS for MultiCore Architecture
-### Lec 11+12 OS/System Security
-### Lec 13+14 Correctness: OS/System Verification
-### Lec 15+16 Invited Talks From Visitors & Students
+- Lec 1 Advanced OS Overview 
+- Lec 2 OS Architecture & Structure
+- Lec3+4  System Virtualization Overview
+- Lec5+6  OS/System API/Interface
+- Lec 7+8 OS Kernel and HLL
+- Lec9+10 OS for MultiCore Architecture
+- Lec 11+12 OS/System Security
+- Lec 13+14 Correctness: OS/System Verification
+- Lec 15+16 Invited Talks From Visitors & Students
 
 - [The Details](https://github.com/LearningOS/aos-lectures/blob/master/aos-course-outline.md)
 
