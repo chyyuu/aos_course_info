@@ -50,6 +50,7 @@
 - [sys-prog in rust](sys-prog-in-rust.md)
 - [Rust-base OS/Hypervisor/Firmware](rustoslist.md)
 - [unikernel](unikernel-related.md)
+- [component os](component-os-related.md)
 - [fuzzing](fuzzing-related.md)
 - [findingbug](findingbug-related.md)
 - [ipi](ipi-related.md)
