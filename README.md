@@ -21,7 +21,7 @@
 - [Scheduling Details](https://github.com/LearningOS/aos-lectures/blob/master/aos-course-outline.md)
 
 ## ReadingList
-- [PaperList](readinglist.md)
+- [Classic/Hot OS PaperList](readinglist.md)
 
 ## Simple OS Tutorial Labs
 - [os_tutorial_lab](https://github.com/chyyuu/os_tutorial_lab/)
