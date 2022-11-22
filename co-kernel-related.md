@@ -1,4 +1,4 @@
-## Cooperated Kernel
+## Cooperative Kernels
 - [Covirt: Lightweight Fault Isolation and Resource Protection for Co-Kernels,IPDPS'21](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9460476)
 - [Toward OS-Level and Device-Level Cooperative Scheduling for Multitasking GPUs, Computer Science'20](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9049134)
 - [Achieving Performance Isolation with Lightweight Co-Kernels, International Symposium on High-Performance Parallel and Distributed Computing'15](http://dl.acm.org/citation.cfm?id=2749273)
