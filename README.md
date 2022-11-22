@@ -43,7 +43,7 @@
 - [component os](component-os-related.md)
 - [fuzzing](fuzzing-related.md)
 - [findingbug](findingbug-related.md)
-- [ipi](ipi-related.md)
+- [IPI: Intra-Process Isolation](ipi-related.md)
 - [nvm](nvm-related.md)
 - [validation](formal-validation-related.md)
 - [distributed-system](distributed-system-realted.md)
