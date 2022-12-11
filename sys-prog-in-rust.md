@@ -12,6 +12,7 @@
 1. 自学：阅读书籍
 
 1.1 编程学习类书籍/文档
+ - [Rust-Lang社区中的文档中文翻译资源](https://github.com/rust-lang-cn)
  - [Learn X in Y minutes Where X=Rust](https://learnxinyminutes.com/docs/rust/)
  - [Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/) 
  - [通过例子学 Rust](https://rust-by-example.budshome.com/)
