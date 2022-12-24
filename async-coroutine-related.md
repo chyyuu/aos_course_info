@@ -23,3 +23,4 @@
 - [ISO/IEC Spec N4760 2018-06-24: Working Draft, C++ Extensions for Coroutines](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/n4760.pdf) 
 - [How C++ coroutines work](https://kirit.com/How%20C%2B%2B%20coroutines%20work)
 - [Understanding C++20 Coroutines, Awaitable Objects and Operator co_await with Real Samples](https://www.codeproject.com/Articles/5287862/Understanding-Cplusplus20-Coroutines-Awaitable-Obj)
+- [Coroutines (C++20)](https://en.cppreference.com/w/cpp/language/coroutines)
