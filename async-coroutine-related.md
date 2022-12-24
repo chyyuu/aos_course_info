@@ -13,3 +13,13 @@
 ## C++ related
 - [C++ 20 Coroutines in Action](https://luncliff.github.io/coroutine/)
    - [github code](https://github.com/luncliff/coroutine) 
+- [The Coroutine in C++ 20 协程初探](https://zhuanlan.zhihu.com/p/237952115)
+- [C++ Coroutines: Understanding the promise type](https://lewissbaker.github.io/2018/09/05/understanding-the-promise-type)
+- [Debugging C++ Coroutines](https://clang.llvm.org/docs/DebuggingCoroutines.html)
+- [C++ Coroutines: Understanding operator co_await](https://lewissbaker.github.io/2017/11/17/understanding-operator-co-await)
+- [如何使用 GDB 分析 C/C++ Coroutine](https://zhuanlan.zhihu.com/p/489753875)
+- [C++20 Coroutine 性能测试 ](https://zhuanlan.zhihu.com/p/85440615)
+- [ISO/IEC Spec N4663 2017-03-25: Programming Languages — C++ Extensions for Coroutines](https://isocpp.org/files/papers/N4663.pdf)
+- [ISO/IEC Spec N4760 2018-06-24: Working Draft, C++ Extensions for Coroutines](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/n4760.pdf) 
+- [How C++ coroutines work](https://kirit.com/How%20C%2B%2B%20coroutines%20work)
+- [Understanding C++20 Coroutines, Awaitable Objects and Operator co_await with Real Samples](Understanding C++20 Coroutines, Awaitable Objects and Operator co_await with Real Samples)
