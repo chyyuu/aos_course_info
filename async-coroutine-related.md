@@ -21,6 +21,7 @@
 - [C++20 Coroutine 性能测试 ](https://zhuanlan.zhihu.com/p/85440615)
 - [ISO/IEC Spec N4663 2017-03-25: Programming Languages — C++ Extensions for Coroutines](https://isocpp.org/files/papers/N4663.pdf)
 - [ISO/IEC Spec N4760 2018-06-24: Working Draft, C++ Extensions for Coroutines](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/n4760.pdf) 
+- [ISO/IEC Spec N4775 2018-10-07: Working Draft, C++ Extensions for Coroutines](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/n4775.pdf)
 - [How C++ coroutines work](https://kirit.com/How%20C%2B%2B%20coroutines%20work)
 - [Understanding C++20 Coroutines, Awaitable Objects and Operator co_await with Real Samples](https://www.codeproject.com/Articles/5287862/Understanding-Cplusplus20-Coroutines-Awaitable-Obj)
 - [Coroutines (C++20)](https://en.cppreference.com/w/cpp/language/coroutines)
