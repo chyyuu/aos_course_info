@@ -3,11 +3,43 @@
 #### 7~21天内高效学习 Rust 建议：
 前提条件： 要求有基本数据结构，算法基础，相对了解或熟悉C/C++/Java等编程.
 
-1. 通过阅读和练习 [《 Rust by Example 》](https://doc.rust-lang.org/rust-by-example/)) 等，全面梳理一遍 Rust 语法。期间可参考书目：（《Programming Rust》、《Rust权威指南》（即官方 Rust Book 中译本）、《Rust编程之道》第二章 、《深入浅出 Rust》等）。（2~6天）
-2. 重点阅读《Rust 编程之道》 （第三、四、五章，理解类型系统和所有权；第九章，理解错误处理； 第十三章，理解Unsafe Rust） （1~3天）
-3. 完成《Rust 编程之道》第十章的完整示例代码，掌握Cargo和模块系统。（1~3天）
-4. 尝试完成编程小练习和中等规模练习，在实践中反复学习。（3~9天）
 
+#### 7~21天内高效学习 Rust 建议：
+前提条件： 要求有基本数据结构，算法基础，相对了解或熟悉C/C++/Java等编程.
+
+
+##### 学习方案零
+
+1. 通过阅读并练习 [Rust 教程 | 菜鸟教程](https://doc.rust-lang.org/rust-by-example/)) 等，全面梳理一遍 Rust 语法。期间可参考书目：（[《 Rust by Example 》](https://doc.rust-lang.org/rust-by-example/)) 等）。（1~6天）
+2. 尝试完成编程小练习[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)和中等规模练习，在实践中反复学习。（3~9天）
+
+##### 学习方案一
+
+1. 通过阅读并练习 [《 Rust by Example 》](https://doc.rust-lang.org/rust-by-example/)) 等，全面梳理一遍 Rust 语法。期间可参考书目：（《Programming Rust》、《Rust权威指南》（即官方 Rust Book 中译本）、《Rust编程之道》第二章 、《深入浅出 Rust》等）。（1~6天）
+2. 尝试完成编程小练习[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)和中等规模练习，在实践中反复学习。（3~9天）
+
+##### 学习方案二
+1. 阅读并学习[Rust语言圣经(Rust教程 Rust Course)](https://course.rs/)（1~6天）
+2. 完成配套练习[Rust语言圣经配套练习](https://practice.rs/) （1~6天）
+3. 完成编程小练习[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)和中等规模练习，在实践中反复学习。（3~9天）
+
+##### 学习方案三
+1. 阅读并学习[easy rust 中文版](https://kumakichi.github.io/easy_rust_chs/)，观看配套视频 [easy rust 中文字幕教学视频](https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk) （1~6天）
+2. 完成编程小练习[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)（1~6天）
+
+##### 学习方案四
+1. 跟着 [清华计算机系大一学生2022暑期课程：Rust程序设计训练](https://lab.cs.tsinghua.edu.cn/rust/) （有课程视频回放）进行学习 （3~10天）
+2. 完成编程小练习[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)（1~6天）
+
+##### 学习方案五
+1. 如有较好编程基础，观看学习Rust语言编程教学视频[张汉东的Rust实战课](https://time.geekbang.org/course/intro/100060601) （1~14天）
+2. 阅读并学习 张汉东老师《Rust 编程之道》书籍） （1~14天）
+3. 完成编程小练习[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)和中等规模练习。（3~9天）
+
+##### 学习方案六
+1. 如有较好编程基础，观看学习Rust语言编程教学视频[陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/100085301)（1~14天）
+2. 尝试完成编程小练习[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)和中等规模练习，在实践中反复学习。（3~9天）
+  
 #### 自学材料和练习要求: 
 1. 自学：阅读书籍
 
@@ -36,6 +68,11 @@
  - [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/)
  - [24 days from node.js to Rust](https://vino.dev/blog/node-to-rust-day-1-rustup/)
  - [Rust语言圣经(Rust教程 Rust Course)](https://course.rs/)
+  - [Command Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)
+   - [书籍源码 source code](https://github.com/kyclark/command-line-rust)
+ - [Rust for professionals](https://overexact.com/rust-for-professionals/)
+ - [Rust For Systems Programmers](https://github.com/nrc/r4cppp)
+ 
 1.2 参考和汇总类
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/) ：各种常用编程模式的代码片段
 - [cargo book 中文](http://llever.com/cargo-book-zh/) ：各种小应用（与系统类访问相关）的参考实现
@@ -48,7 +85,8 @@
  - [Rust 语言术语中英文对照表](https://github.com/rust-lang-cn/english-chinese-glossary-of-rust/blob/master/rust-glossary.md)
  - [awesome-rust：About A curated list of Rust code and resources. in rustcc](https://github.com/rustcc/awesome-rust)
  - [Awesome Rust in rust-unoffical](https://github.com/rust-unofficial/awesome-rust)
-
+ - [RustWHY Rust十万个为什么](https://fengliang.io/RustWHY/face.html)
+ 
 2. 自学：在线课程/教程
 
 2.1 初级：学习Rust语言
