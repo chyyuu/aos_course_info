@@ -38,7 +38,8 @@
 - [tiny os kernel component labs](https://github.com/chyyuu/os_kernel_lab) : a lot of tiny os kernel component labs
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
 - [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
-- [RVM -- Rcore Virtual Machine](https://github.com/rcore-os/RVM) : An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
+- [RVM type1 -- Rcore Virtual Machine x86-64](https://github.com/rcore-os/RVM) & [RVM type 1 -- Rcore Virtual Machine x86-64/rv64](https://github.com/rcore-riscv-hypervisor-dev/RVM) & (RVM type 1.5)[https://github.com/rcore-os/RVM1.5]: An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
+  
 - [	HarSaRK_multi_rs: A Hard Real-time Kernel for Multi-core Microcontrollers in Rust Language](https://github.com/Autonomous-Cyber-Physical-Systems/harsark.rs)
    - [HarSaRK paper](https://autonomous-cyber-physical-systems.github.io/harsark.rs/HarSaRK-RS%20-%20WoRIE%2720.pdf)
 ### Hobby
