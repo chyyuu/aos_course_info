@@ -91,6 +91,7 @@
 
 2.1 初级：学习Rust语言
 
+ - [清华计算机系大一学生2022暑期课程：Rust程序设计训练](https://lab.cs.tsinghua.edu.cn/rust/)
  - [中文：Rust编程视频教程（基础）--令狐壹冲](https://www.bilibili.com/video/BV1xJ411B79h?from=search&seid=11418904650629340673)
  - [中文：Rust编程视频教程（进阶）--令狐壹冲](https://www.bilibili.com/video/BV1FJ411Y71o?from=search&seid=11418904650629340673)
  - [Tour of Rust](https://tourofrust.com/)
