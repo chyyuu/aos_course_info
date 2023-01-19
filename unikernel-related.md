@@ -1,5 +1,6 @@
 ## Unikernel Reading List
 
+- Want More Unikernels? Inflate Them!，SoCC'22
 - Integrating Unikernel Optimizations in a General Purpose OS, ArXiv'22
 - Kite: lightweight critical service domains, eurosys'22
 - Unikraft: Fast, Specialized Unikernels the Easy Way, eurosys'21
