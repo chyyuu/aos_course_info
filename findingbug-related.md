@@ -56,8 +56,8 @@
 
 ## bug analysis
 - [Linux kernel vulnerabilities: State-of-the-art defenses and open problems](https://pdos.csail.mit.edu/papers/chen-kbugs.pdf)
-- A Study of Linux File System Evolution
-- An Empirical Study of Operating Systems Errors
-- Faults in Linux: Ten Years Later
-- An empirical study of optimization bugs in GCC and LLVM
+- [A Study of Linux File System Evolution](https://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf)
+- [An Empirical Study of Operating Systems Errors](https://www.read.seas.harvard.edu/~kohler/class/06f-aos/ref/chou01empirical.pdf)
+- [Faults in Linux: Ten Years Later](http://faultlinux.inria.fr/)
+- [An empirical study of optimization bugs in GCC and LLVM](http://oscar-lab.org/paper/An%20empirical%20study%20of%20optimization%20bugs%20in%20GCC%20and%20LLVM.pdf)
 - Toward Understanding Compiler Bugs in GCC and LLVM
