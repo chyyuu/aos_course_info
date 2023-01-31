@@ -55,6 +55,7 @@
     * 这个推断可以，但是怎么用到我们想做的 os spec / 规则推断上？
 
 ## bug analysis
+- [Linux kernel vulnerabilities: State-of-the-art defenses and open problems](https://pdos.csail.mit.edu/papers/chen-kbugs.pdf)
 - A Study of Linux File System Evolution
 - An Empirical Study of Operating Systems Errors
 - Faults in Linux: Ten Years Later
