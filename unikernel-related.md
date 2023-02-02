@@ -29,3 +29,4 @@
 
 ## Unikernel Resources
 - [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels)
+- [awesome-unikernels](https://github.com/vladandrew/awesome-unikernels)
