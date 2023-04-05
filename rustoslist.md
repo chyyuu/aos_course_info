@@ -57,3 +57,4 @@
   - [github repo](https://github.com/sorpaas/rux)
 - [poplar -- microkernel and userspace written in rust](https://github.com/IsaacWoods/poplar)
   - [book of poplar](https://poplar.isaacwoods.dev/book/) 
+- [D7 operating system -- microkernel written in Rust](https://github.com/Dentosal/rust_os)
