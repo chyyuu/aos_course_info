@@ -18,7 +18,7 @@
 - [occlum](https://github.com/occlum/occlum): A memory-safe, multi-process library OS (LibOS) for Intel SGX. 
   - [ngo](https://github.com/occlum/ngo): Next-Gen Occlum, a work-in-progress fork of Occlum that is optimized for the next-generation of Intel SGX
 - [drone](https://www.drone-os.com/) : an Embedded Operating System for writing real-time applications in Rust with async/await features
-- [redox](https://www.redox-os.org/) : a Unix-like Micro-Kernel Operating System written in Rust
+- [redox](https://www.redox-os.org/) : a Unix-like microernel Operating System written in Rust
 - [KataOS](https://github.com/AmbiML/sparrow-kata-full)：a home-grown operating system named KataOS, that runs on top of seL4 and (ignoring the seL4 kernel) is written almost entirely in Rust
 - [embassy os kernel](https://github.com/embassy-rs/embassy)：Embassy is the next-generation framework for embedded applications.
 - [aero kernel](https://github.com/Andy-Python-Programmer/aero)：a new modern, experimental, unix-like operating system following the monolithic kernel design. 
@@ -53,5 +53,7 @@
    - [Bern RTOS site](https://bern-rtos.org/)
 - [Real-Time Interrupt-driven Concurrency (RTIC)](https://github.com/rtic-rs): Real-Time Interrupt-driven Concurrency (RTIC) framework
   - [RTIC site](https://rtic.rs)
-- [Rux, a microkernel written in Rust](https://source.that.world/source/rux/) 
+- [Rux -- microkernel written in Rust](https://source.that.world/source/rux/) 
   - [github repo](https://github.com/sorpaas/rux)
+- [poplar -- microkernel and userspace written in rust](https://github.com/IsaacWoods/poplar)
+  - [book of poplar](https://poplar.isaacwoods.dev/book/) 
