@@ -53,3 +53,5 @@
    - [Bern RTOS site](https://bern-rtos.org/)
 - [Real-Time Interrupt-driven Concurrency (RTIC)](https://github.com/rtic-rs): Real-Time Interrupt-driven Concurrency (RTIC) framework
   - [RTIC site](https://rtic.rs)
+- [Rux, a microkernel written in Rust](https://source.that.world/source/rux/) 
+  - [github repo](https://github.com/sorpaas/rux)
