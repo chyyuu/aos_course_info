@@ -58,3 +58,4 @@
 - [poplar -- microkernel and userspace written in rust](https://github.com/IsaacWoods/poplar)
   - [book of poplar](https://poplar.isaacwoods.dev/book/) 
 - [D7 operating system -- microkernel written in Rust](https://github.com/Dentosal/rust_os)
+- [kerla OS kernel](https://github.com/nuta/kerla)：Kerla is a monolithic operating system kernel written from scratch in Rust which aims to be compatible with the Linux ABI, that is, it runs Linux binaries without any modifications.
