@@ -73,7 +73,7 @@
 - [kerla OS kernel](https://github.com/nuta/kerla)：Kerla is a monolithic operating system kernel written from scratch in Rust which aims to be compatible with the Linux ABI, that is, it runs Linux binaries without any modifications.
 
 #### Hypervisor
-
+- [diosix](https://github.com/diodesign/diosix)
 - [A toy Aarch64 hypervisor written in Rust.](https://github.com/stong/rustos-hv)  with [tech report](https://github.com/stong/rustos-hv/blob/master/report.pdf)
 - [MilvusVisor is a thin hypervisor that runs on aarch64 CPUs.](https://github.com/RIKEN-RCCS/MilvusVisor)
 - [rHyper](https://github.com/KarmaD7/rHyper)
