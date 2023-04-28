@@ -34,18 +34,28 @@
 - [rust-vmm ORG's repos in github](https://github.com/orgs/rust-vmm/repositories): rust-vmm is an open-source project that empowers the community to build custom Virtual Machine Monitors (VMMs) and hypervisors.
 
 ### Education
+#### OS
 - [Blog OS](http://os.phil-opp.com/) : detail blogs about Writing an OS in Rust in x86-64
 - [osblog on riscv](https://github.com/sgmarz/osblog) : The Adventures of OS: Making a RISC-V Operating System using Rust
 - [rcore-tutorial](https://github.com/rcore-os/rCore-Tutorial-v3) : basic educational OS labs in riscv for OS course in Tsinghua Univ.
 - [zcore-tutorial](https://github.com/rcore-os/zCore-Tutorial) : simplified  zcore educational labs in user-mode x86-64.
 - [tiny os kernel component labs](https://github.com/chyyuu/os_kernel_lab) : a lot of tiny os kernel component labs
-- [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
-- [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
-- [RVM type1 -- Rcore Virtual Machine x86-64](https://github.com/rcore-os/RVM) & [RVM type 1 -- Rcore Virtual Machine x86-64/rv64](https://github.com/rcore-riscv-hypervisor-dev/RVM) & (RVM type 1.5)[https://github.com/rcore-os/RVM1.5]: An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
-  
 - [	HarSaRK_multi_rs: A Hard Real-time Kernel for Multi-core Microcontrollers in Rust Language](https://github.com/Autonomous-Cyber-Physical-Systems/harsark.rs)
    - [HarSaRK paper](https://autonomous-cyber-physical-systems.github.io/harsark.rs/HarSaRK-RS%20-%20WoRIE%2720.pdf)
+
+#### Hypervisor
+- [RVM Tutorial](https://github.com/rcore-os/RVM-Tutorial)
+- [Hypervisor 101 in Rust](https://github.com/tandasat/Hypervisor-101-in-Rust)
+- [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
+- [RVM type1 -- Rcore Virtual Machine x86-64](https://github.com/rcore-os/RVM) & [RVM type 1 -- Rcore Virtual Machine x86-64/rv64](https://github.com/rcore-riscv-hypervisor-dev/RVM) & (RVM type 1.5)[https://github.com/rcore-os/RVM1.5]: An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
+
+#### SBI
+- [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
+
+
 ### Hobby
+
+#### OS
 - [Lateral](https://github.com/carterisonline/lateral)： Lateral is a work-in-progress multitasking monolithic kernel + OS meant as a fun summer project.
 - [snakeos](https://github.com/trusch/snakeos) : This is the game snake, bootable on a x86_64 CPU followed by blogos
 - [MOROS](https://github.com/vinc/moros) ：MOROS is a hobby operating system, targets computers with a x86-64 architecture and a BIOS.
@@ -59,3 +69,9 @@
   - [book of poplar](https://poplar.isaacwoods.dev/book/) 
 - [D7 operating system -- microkernel written in Rust](https://github.com/Dentosal/rust_os)
 - [kerla OS kernel](https://github.com/nuta/kerla)：Kerla is a monolithic operating system kernel written from scratch in Rust which aims to be compatible with the Linux ABI, that is, it runs Linux binaries without any modifications.
+
+#### Hypervisor
+
+- [A toy Aarch64 hypervisor written in Rust.](https://github.com/stong/rustos-hv)  with [tech report](https://github.com/stong/rustos-hv/blob/master/report.pdf)
+- [MilvusVisor is a thin hypervisor that runs on aarch64 CPUs.](https://github.com/RIKEN-RCCS/MilvusVisor)
+- []() 
