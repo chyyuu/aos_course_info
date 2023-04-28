@@ -44,8 +44,7 @@
 - [rcore-tutorial](https://github.com/rcore-os/rCore-Tutorial-v3) : basic educational OS labs in riscv for OS course in Tsinghua Univ.
 - [zcore-tutorial](https://github.com/rcore-os/zCore-Tutorial) : simplified  zcore educational labs in user-mode x86-64.
 - [tiny os kernel component labs](https://github.com/chyyuu/os_kernel_lab) : a lot of tiny os kernel component labs
-- [	HarSaRK_multi_rs: A Hard Real-time Kernel for Multi-core Microcontrollers in Rust Language](https://github.com/Autonomous-Cyber-Physical-Systems/harsark.rs)
-   - [HarSaRK paper](https://autonomous-cyber-physical-systems.github.io/harsark.rs/HarSaRK-RS%20-%20WoRIE%2720.pdf)
+- [cs3210-2020 in Georgia Tech](https://tc.gts3.org/cs3210/2020/spring/info.html) : rust os labs in Raspberry Pi
 
 #### Hypervisor
 - [RVM Tutorial](https://github.com/rcore-os/RVM-Tutorial)
@@ -71,7 +70,8 @@
   - [book of poplar](https://poplar.isaacwoods.dev/book/) 
 - [D7 operating system -- microkernel written in Rust](https://github.com/Dentosal/rust_os)
 - [kerla OS kernel](https://github.com/nuta/kerla)：Kerla is a monolithic operating system kernel written from scratch in Rust which aims to be compatible with the Linux ABI, that is, it runs Linux binaries without any modifications.
-
+- [	HarSaRK_multi_rs: A Hard Real-time Kernel for Multi-core Microcontrollers in Rust Language](https://github.com/Autonomous-Cyber-Physical-Systems/harsark.rs)
+   - [HarSaRK paper](https://autonomous-cyber-physical-systems.github.io/harsark.rs/HarSaRK-RS%20-%20WoRIE%2720.pdf)
 #### Hypervisor
 - [diosix](https://github.com/diodesign/diosix)
 - [A toy Aarch64 hypervisor written in Rust.](https://github.com/stong/rustos-hv)  with [tech report](https://github.com/stong/rustos-hv/blob/master/report.pdf)
