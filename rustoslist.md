@@ -1,6 +1,7 @@
 ## Rust based OS/Hypervisor/VMM/Firmwire
 
 ### Research
+#### OS
 - [RedLeaf Operating System](https://github.com/mars-research/redleaf): RedLeaf is a research operating system developed from scratch in Rust to explore the impact of language safety on operating system organization.
 - [Node Replicated Kernel](https://nrkernel.systems/) : The Node Replicated Kernel is an (experimental) research OS kernel for x86-64 (amd64) machines written in rust.
 - [Theseus](https://github.com/theseus-os/Theseus) : Theseus is a new OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to leverage intralingual design principles to shift OS responsibilities like resource management into the compiler.
@@ -13,6 +14,9 @@
 - [Manticore](https://manticoreos.io/): kernel with the aim of exploring the parakernel OS architecture.
    - [parakernel hotos19](http://penberg.org/parakernel-hotos19.pdf)
    - [manticore srouce code](https://github.com/manticoreos/manticore)
+
+#### Hypervisor
+- [shyper](https://gitee.com/openeuler/rust_shyper)
 
 ### Industry || Hacker
 - [occlum](https://github.com/occlum/occlum): A memory-safe, multi-process library OS (LibOS) for Intel SGX. 
@@ -52,9 +56,7 @@
 #### SBI
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
 
-
 ### Hobby
-
 #### OS
 - [Lateral](https://github.com/carterisonline/lateral)： Lateral is a work-in-progress multitasking monolithic kernel + OS meant as a fun summer project.
 - [snakeos](https://github.com/trusch/snakeos) : This is the game snake, bootable on a x86_64 CPU followed by blogos
@@ -74,4 +76,5 @@
 
 - [A toy Aarch64 hypervisor written in Rust.](https://github.com/stong/rustos-hv)  with [tech report](https://github.com/stong/rustos-hv/blob/master/report.pdf)
 - [MilvusVisor is a thin hypervisor that runs on aarch64 CPUs.](https://github.com/RIKEN-RCCS/MilvusVisor)
-- []() 
+- [rHyper](https://github.com/KarmaD7/rHyper)
+- [hypocaust-2](https://github.com/KuangjuX/hypocaust-2)
