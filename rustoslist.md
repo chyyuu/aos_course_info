@@ -3,7 +3,7 @@
 ### Research
 #### OS
 - [RedLeaf Operating System](https://github.com/mars-research/redleaf): RedLeaf is a research operating system developed from scratch in Rust to explore the impact of language safety on operating system organization.
-- [Node Replicated Kernel](https://nrkernel.systems/) : The Node Replicated Kernel is an (experimental) research OS kernel for x86-64 (amd64) machines written in rust.
+- [Node Replicated Kernel](https://nrkernel.systems/) : The Node Replicated Kernel(NrOS) is an (experimental) research OS kernel for x86-64 (amd64) machines written in rust.
 - [Theseus](https://github.com/theseus-os/Theseus) : Theseus is a new OS written from scratch in Rust to experiment with novel OS structure, better state management, and how to leverage intralingual design principles to shift OS responsibilities like resource management into the compiler.
 - [tock](https://www.tockos.org/) : an embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers
 - [hermitcore](https://hermitcore.org/) : HermitCore is a novel unikernel operating system targeting a scalable and predictable runtime behavior for HPC and cloud environments.
