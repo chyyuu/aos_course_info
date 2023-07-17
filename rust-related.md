@@ -12,3 +12,4 @@
 - [Rust 和 WebAssembly 入门指南](https://grafbase.com/blog/getting-started-with-rust-and-webassembly)
 - [Embedded Rust Trainings for Espressif Rust on ESP 中文教程](https://narukara.github.io/std-training-zh-cn/)
 - [Rust面试手册](https://intmain.co/) 和 [仓库](https://github.com/imhq/rust-interview-handbook)
+- [Rust Atomics and Locks中文](https://atomics.rs/)
