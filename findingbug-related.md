@@ -54,6 +54,10 @@
     * 拓展 lockset 和 happenbefore、加入访问相关性让并发 bug 能探测到多变元的
     * 这个推断可以，但是怎么用到我们想做的 os spec / 规则推断上？
 
+## 模型检测(model checking)
+### Rust
+ - kani: The Kani Rust Verifier is a bit-precise model checker for Rust.  https://github.com/model-checking/kani
+
 ## bug analysis
 - [Linux kernel vulnerabilities: State-of-the-art defenses and open problems](https://pdos.csail.mit.edu/papers/chen-kbugs.pdf)
 - [A Study of Linux File System Evolution](https://research.cs.wisc.edu/adsl/Publications/fsstudy-fast13.pdf)
