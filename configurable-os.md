@@ -1,1 +1,1 @@
-A survey of configurable, component-based operating systems for embedded applications
+- [A survey of configurable, component-based operating systems for embedded applications](https://ieeexplore.ieee.org/abstract/document/928765)
