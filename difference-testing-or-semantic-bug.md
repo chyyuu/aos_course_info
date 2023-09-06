@@ -12,6 +12,7 @@
 - Hunting for bugs in code coverage tools via randomized differential testing
 -  All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-consistent Applications. OSDI'14
 - [Workshop on Program Equivalence](http://eecs.qmul.ac.uk/~nikost/wpe2016/tlks.html)
+- [Understanding and Mitigating Twin Function Misuses in Operating System Kernel](https://dl.acm.org/doi/abs/10.1145/2901318.2901350)
 
 ## semantic-bug
 - Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3
