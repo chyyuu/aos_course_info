@@ -9,3 +9,4 @@
 - [Knit: component composition for systems software, OSDI'00](http://www.cs.utah.edu/flux/papers/knit-osdi00-talk-notes-bw.pdf)
 - [A survey of customizability in operating systems research, CSUR'02](http://www.cs.binghamton.edu/~kang/teaching/cs552/cust.pdf)
 - [Architecting reconfigurable component-based operating systems,J. Syst. Archit.'08](https://doi.org/10.1016/j.sysarc.2007.12.005)
+- [https://www.academia.edu/download/50904079/Utilizing_Linux_Kernel_Components_in_K4220161215-25684-1fqy6jx.pdf](https://www.academia.edu/download/50904079/Utilizing_Linux_Kernel_Components_in_K4220161215-25684-1fqy6jx.pdf)
