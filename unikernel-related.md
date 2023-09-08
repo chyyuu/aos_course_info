@@ -28,5 +28,6 @@
   - http://unikernel.org/
 
 ## Unikernel Resources
+- [unikernel related papers](https://github.com/olivierpierre/unikernel-papers)
 - [Unikernel and Immutable Infrastructures](https://github.com/cetic/unikernels)
 - [awesome-unikernels](https://github.com/vladandrew/awesome-unikernels)
