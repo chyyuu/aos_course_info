@@ -1,3 +1,5 @@
+- [ConfFuzz - Fuzzing for Interface Vulnerabilities](https://github.com/conffuzz/conffuzz)
+  - [ConfFuzz paper- NDSS23](https://arxiv.org/abs/2212.12904)
 - [A study of modern linux api usage and compatibility: What to support when you're supporting,eurosys16](https://dl.acm.org/doi/abs/10.1145/2901318.2901341)
 - [Analyzing a Decade of Linux System Calls](https://research.cs.queensu.ca/home/cordy/Papers/BKBHDC_ESE_Linux.pdf)
 - [Eris: A tool for combinatorial testing of the linux system call interface](https://publications.sba-research.org/publications/CT-Eris_ICSTW_2014.pdf)
