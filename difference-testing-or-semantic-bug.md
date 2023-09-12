@@ -23,3 +23,7 @@
 - Finding Semantic Bugs in File Systems with an Extensible Fuzzing Framework
 - Arilo C DiasNeto, Rajesh Subramanyan, Marlon Vieira, and Guilherme H Travassos. A Survey on Model-based Testing Approaches: A Systematic Review.
 - Dongjie Chen, Yanyan Jiang, Chang Xu, Xiaoxing Ma, and Jian Lu. Testing File System Implementations on Layered Models. (ICSE'2020)
+
+## interface bug
+- [ConfFuzz - Fuzzing for Interface Vulnerabilities](https://github.com/conffuzz/conffuzz)
+  - [ConfFuzz paper- NDSS23](https://arxiv.org/abs/2212.12904)
