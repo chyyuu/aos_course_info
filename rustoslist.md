@@ -31,6 +31,10 @@
   - [Building an out-of-tree Rust Kernel Module part2](https://blog.rnstlr.ch/building-an-out-of-tree-rust-kernel-module-part-two.html)
 - [ArceOS](https://github.com/rcore-os/arceos): An experimental modular operating system (or unikernel) written in Rust. ArceOS was inspired a lot by Unikraft.
 - [RuxOS](https://github.com/syswonder/ruxos): An experimental modular operating system (or unikernel) written in Rust. RuxOS was inspired by Unikraft and ArceOS
+- [maestro](https://github.com/llenotre/maestro): Maestro is a lightweight Unix-like kernel(support bash, 30& linux syscalls) written in Rust
+  - [blog](https://blog.lenot.re/)
+
+ 
 #### some user-land vmm components
 - [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
 - [Huawei stratovirt](https://gitee.com/openeuler/stratovirt): stratovirt in openEuler linux distrbution.
