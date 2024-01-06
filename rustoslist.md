@@ -29,7 +29,8 @@
 - [Rust for Linux](https://github.com/Rust-for-Linux)
   - [Building an out-of-tree Rust Kernel Module part1](https://blog.rnstlr.ch/building-an-out-of-tree-rust-kernel-module.html)
   - [Building an out-of-tree Rust Kernel Module part2](https://blog.rnstlr.ch/building-an-out-of-tree-rust-kernel-module-part-two.html)
-
+  - [ArceOS](https://github.com/rcore-os/arceos): An experimental modular operating system (or unikernel) written in Rust. ArceOS was inspired a lot by Unikraft.
+  - [RuxOS](https://github.com/syswonder/ruxos): An experimental modular operating system (or unikernel) written in Rust. RuxOS was inspired by Unikraft and ArceOS
 #### some user-land vmm components
 - [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
 - [Huawei stratovirt](https://gitee.com/openeuler/stratovirt): stratovirt in openEuler linux distrbution.
