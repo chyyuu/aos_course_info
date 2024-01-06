@@ -86,3 +86,4 @@
 - [MilvusVisor is a thin hypervisor that runs on aarch64 CPUs.](https://github.com/RIKEN-RCCS/MilvusVisor)
 - [rHyper](https://github.com/KarmaD7/rHyper)
 - [hypocaust-2](https://github.com/KuangjuX/hypocaust-2)
+- [redshirt](https://github.com/tomaka/redshirt/tree/main): The redshirt operating system is an experiment to build some kind of operating-system-like environment where executables are all in Wasm and are loaded from an IPFS-like decentralized network.
