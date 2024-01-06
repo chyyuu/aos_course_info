@@ -33,7 +33,7 @@
 - [RuxOS](https://github.com/syswonder/ruxos): An experimental modular operating system (or unikernel) written in Rust. RuxOS was inspired by Unikraft and ArceOS
 - [maestro](https://github.com/llenotre/maestro): Maestro is a lightweight Unix-like kernel(support bash, 30& linux syscalls) written in Rust
   - [blog](https://blog.lenot.re/)
-
+- [hubris](https://github.com/oxidecomputer/hubris):Hubris is a microcontroller operating environment designed for deeply-embedded systems with reliability requirements.
  
 #### some user-land vmm components
 - [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
