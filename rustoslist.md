@@ -45,6 +45,7 @@
 - [zcore-tutorial](https://github.com/rcore-os/zCore-Tutorial) : simplified  zcore educational labs in user-mode x86-64.
 - [tiny os kernel component labs](https://github.com/chyyuu/os_kernel_lab) : a lot of tiny os kernel component labs
 - [cs3210-2020 in Georgia Tech](https://tc.gts3.org/cs3210/2020/spring/info.html) : rust os labs in Raspberry Pi
+- [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs): A teaching operating system(Unix-like operating system based on a monolithic architecture in x86-64) written in Rust. 
 
 #### Hypervisor
 - [RVM Tutorial](https://github.com/rcore-os/RVM-Tutorial)
