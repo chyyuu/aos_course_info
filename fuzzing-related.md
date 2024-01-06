@@ -12,7 +12,8 @@
 - [FI(le) SY(stem) - FUZZer](https://github.com/0xricksanchez/fisy-fuzz)
 - [statefuzzer]()
    - [paper:StateFuzz: System Call-Based State-Aware Linux Driver Fuzzing](https://github.com/vul337/StateFuzz)
-
+- [tsffs](https://github.com/intel/tsffs): A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS
+  - [doc](https://intel.github.io/tsffs/)
 ## papers
 - [kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-schumilo.pdf)
 - [Hardware Support to Improve Fuzzing Performance and Precision](https://gts3.org/assets/papers/2021/ding:snap.pdf)
