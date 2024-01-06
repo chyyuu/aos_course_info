@@ -75,6 +75,7 @@
 - [	HarSaRK_multi_rs: A Hard Real-time Kernel for Multi-core Microcontrollers in Rust Language](https://github.com/Autonomous-Cyber-Physical-Systems/harsark.rs)
    - [HarSaRK paper](https://autonomous-cyber-physical-systems.github.io/harsark.rs/HarSaRK-RS%20-%20WoRIE%2720.pdf)
 - [Fomos:Experimental OS, built with Rust, gui, mouse, Exo-kernels, x86-64](https://github.com/Ruddle/Fomos)
+- [MOROS](https://github.com/vinc/moros): MOROS is a text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
 #### Hypervisor
 - [diosix](https://github.com/diodesign/diosix)
 - [A toy Aarch64 hypervisor written in Rust.](https://github.com/stong/rustos-hv)  with [tech report](https://github.com/stong/rustos-hv/blob/master/report.pdf)
