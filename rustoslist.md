@@ -81,6 +81,7 @@
 - [Fomos:Experimental OS, built with Rust, gui, mouse, Exo-kernels, x86-64](https://github.com/Ruddle/Fomos)
 - [MOROS](https://github.com/vinc/moros): MOROS is a text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
 - [redshirt](https://github.com/tomaka/redshirt/tree/main): The redshirt operating system is an experiment to build some kind of operating-system-like environment where executables are all in Wasm and are loaded from an IPFS-like decentralized network.
+- [lilos: A minimal async RTOS](https://github.com/cbiffle/lilos): This is a wee operating system written to support the async style of programming in Rust on microcontrollers. It fits in about 2 kiB of Flash and uses about 20 bytes of RAM. Currently supports ARM Cortex processors (M0, M0+, M3, M4, M7, and probably M33).
 
 #### Hypervisor
 - [diosix](https://github.com/diodesign/diosix)
