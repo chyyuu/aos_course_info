@@ -98,6 +98,8 @@
  - [英文：CIS 198: Rust Programming: University of Pennsylvania:2016](http://cis198-2016s.github.io/schedule/)
  - [英文：CS 110L: Safety in Systems Programming : spring 2020](https://reberhardt.com/cs110l/spring-2020/)
    - [bilibili镜像+中文字幕: CS 110L: Safety in Systems Programming : spring 2020](https://www.bilibili.com/video/BV1Ra411A7kN?from=search&seid=6146651326062502685)
+ - [Rust-For-Undergrads-Free-Course-Udemy](https://github.com/afondiel/Rust-For-Undergrads-Free-Course-Udemy)
+
 
 2.2 中级：如何用Rust写系统程序
  - [中文课程和作业笔记](https://pxiaoer.blog/category/rust/cs110l/)
