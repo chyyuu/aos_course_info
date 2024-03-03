@@ -14,7 +14,7 @@
 - [Manticore](https://manticoreos.io/): kernel with the aim of exploring the parakernel OS architecture.
    - [parakernel hotos19](http://penberg.org/parakernel-hotos19.pdf)
    - [manticore srouce code](https://github.com/manticoreos/manticore)
-
+- [Rust-base seL4](https://github.com/rel4team/rel4_kernel)
 #### Hypervisor
 - [shyper](https://gitee.com/openeuler/rust_shyper)
 
