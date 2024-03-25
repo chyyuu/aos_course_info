@@ -19,7 +19,7 @@
 - JANUS: Fuzzing file systems via two-dimensional input space exploration, S&P2019
 - Krace: Data Race Fuzzing for Kernel File Systems, S&P2019
 - ReFuzz - Structure Aware Fuzzing of the Resilient File System (ReFS), ASIA CCS'22
-- LFUZZ:  Exploiting Locality for File-system Fuzzing
+- LFuzz: Exploiting Locality-Enabled Techniques for File-System Fuzzing
 ## Automatic Test Generation
 - B3：Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing, OSDI18
 - Dogfood: Testing File System Implementations on Layered Models, ICSE20
