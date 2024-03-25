@@ -9,6 +9,8 @@
 - Modeling and verifying Google file system
 - Using concurrent relational logic with helpers for verifying the AtomFS file system
 - Co-design and verification of an available file system
+- A Concurrent Specification of POSIX File Systems
+
 ## symbolic execution
 - Cross-checking semantic correctness: The case of finding file system bugs, SOSP15
 
