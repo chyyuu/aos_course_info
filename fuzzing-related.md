@@ -26,4 +26,5 @@
 - [Tardis: Coverage-Guided Embedded Operating System Fuzzing](https://haosun.info/assets/pdf/Tardis_emsoft22.pdf)
 - [KSG: Augmenting Kernel Fuzzing with System Call Specification Generation](https://haosun.info/assets/pdf/KSG_atc22.pdf) , [slide](https://haosun.info/assets/pdf/KSG_slides.pdf)
 - [Rtkaller: State-Aware Task Generation for RTOS Fuzzing](https://haosun.info/assets/pdf/rtkaller_emsoft21.pdf)
+- [No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions](https://par.nsf.gov/servlets/purl/10438507)
 - [A lot of Recent Papers Related To Fuzzing](https://github.com/wcventure/FuzzingPaper)
