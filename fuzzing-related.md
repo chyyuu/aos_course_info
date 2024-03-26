@@ -3,7 +3,9 @@
 - [2020 fuzz探索的一点总结与思考](https://zhuanlan.zhihu.com/p/344008210)
 - [fuzzOS](https://gamozolabs.github.io/fuzzing/2020/12/06/fuzzos.html)
     - [gamozo's videos as he implements a fuzzer that runs as an operating system](https://www.youtube.com/watch?v=2YAgDJTs9So)
-    
+- [Fuzzing101 with LibAFL](https://epi052.gitlab.io/notes-to-self/blog/2021-11-01-fuzzing-101-with-libafl/)
+- [The Fuzzing Book:Tools and Techniques for Generating Software Tests](https://www.fuzzingbook.org/)
+ 
 ## projects
 - [syzkaller](https://github.com/google/syzkaller)
    - [Syzkaller入门知识总结](https://www.freebuf.com/sectool/323886.html)
