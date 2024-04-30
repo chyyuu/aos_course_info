@@ -70,7 +70,8 @@
 - [async-await Rust: 200行代码实现极简runtime](https://www.cnblogs.com/hangj/p/17547958.html)
    - [代码](https://github.com/hangj/toy-runtime)
 
-
+#### wasm runtime
+- [Writing A Wasm Runtime In Rust](https://skanehira.github.io/writing-a-wasm-runtime-in-rust/)
 ### Hobby
 #### OS
 - [Lateral](https://github.com/carterisonline/lateral)： Lateral is a work-in-progress multitasking monolithic kernel + OS meant as a fun summer project.
