@@ -62,6 +62,15 @@
 #### SBI
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
 
+#### Async runtime
+- [Rust异步运行时基础部件](https://toetoe55.github.io/async-rt-book/)
+- [tokio](https://tokio.rs)
+   - [tutorial](https://tokio.rs/tokio/tutorial)
+   - [examples](https://github.com/tokio-rs/tokio/tree/master/examples)
+- [async-await Rust: 200行代码实现极简runtime](https://www.cnblogs.com/hangj/p/17547958.html)
+   - [代码](https://github.com/cfsamson/examples-sync-await-simple)
+
+
 ### Hobby
 #### OS
 - [Lateral](https://github.com/carterisonline/lateral)： Lateral is a work-in-progress multitasking monolithic kernel + OS meant as a fun summer project.
