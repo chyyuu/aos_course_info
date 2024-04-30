@@ -68,7 +68,7 @@
    - [tutorial](https://tokio.rs/tokio/tutorial)
    - [examples](https://github.com/tokio-rs/tokio/tree/master/examples)
 - [async-await Rust: 200行代码实现极简runtime](https://www.cnblogs.com/hangj/p/17547958.html)
-   - [代码](https://github.com/cfsamson/examples-sync-await-simple)
+   - [代码](https://github.com/hangj/toy-runtime)
 
 
 ### Hobby
