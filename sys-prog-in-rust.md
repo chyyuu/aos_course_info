@@ -123,7 +123,7 @@
    - [exercism.io官方站点](https://exercism.io/)
 
 
- - [100 Exercises to Learn Rust](](https://rust-exercises.com/)
+ - [100 Exercises to Learn Rust](https://rust-exercises.com/)
 
 3.2 中级编程：100行左右的中小练习题
 
