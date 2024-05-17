@@ -110,7 +110,7 @@
 3.1 初级编程：小练习题
 
  - [rustlings:Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
-
+   - [rustlings网址](https://rustlings.cool/)
    - 要求：小练习全部通过。代码和README提交在自己在github的公开repo上。
  - [32 Rust Quizes](https://dtolnay.github.io/rust-quiz/1)
    
