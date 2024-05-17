@@ -109,8 +109,8 @@
 
 3.1 初级编程：小练习题
 
- - [Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
-   
+ - [rustlings:Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
+
    - 要求：小练习全部通过。代码和README提交在自己在github的公开repo上。
  - [32 Rust Quizes](https://dtolnay.github.io/rust-quiz/1)
    
@@ -121,6 +121,9 @@
  - [exercisms.io 快速练习(88+道题目的中文详细描述)](http://llever.com/exercism-rust-zh/index.html)
    - 要求：大部分练习会做或能读懂。
    - [exercism.io官方站点](https://exercism.io/)
+
+
+ - [100 Exercises to Learn Rust](](https://rust-exercises.com/)
 
 3.2 中级编程：100行左右的中小练习题
 
