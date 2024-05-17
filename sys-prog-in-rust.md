@@ -124,7 +124,8 @@
 
 
  - [100 Exercises to Learn Rust](https://rust-exercises.com/)
-
+   - [github:100 Exercises to Learn Rust](https://github.com/mainmatter/100-exercises-to-learn-rust)
+   - 
 3.2 中级编程：100行左右的中小练习题
 
 基于笨办法学C/python/ruby的书籍和例子，要求用rust语言重新实现15道以上的编程练习题
