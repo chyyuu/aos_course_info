@@ -1,12 +1,12 @@
-# Advanced OS Course (2022 Spring)
+# Advanced OS Course (2024 Autumn)
 
 ## course id
  - 80240442
 
 ## Time & Place
  - 1~16 weeks
- - Monday (15:20-16:55)　
- - 4-203 classroom, Fourth teaching building
+ - Wednesday (15:20-16:55)　
+ - 6A307 classroom, 6th teaching building
  
 ## Objectives
  - Gain experience in doing OS research
