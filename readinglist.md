@@ -1,21 +1,23 @@
 ## Contents
 
-  1. [OS Architecture](#os-architecture)
-  1. [Process&Thread&Scheduling](#processthreadscheduling)
-  1. [Memory Management](#memory-management)
-  1. [Concurrency/Sync&Mutex](#concurrencysyncmutex)
-  1. [Distributed Systems](#distributed-systems) 
-  1. [Virtual Machine Monitor](#virtual-machine-monitor)
-  1. [Network](#network)  
-  1. [File System](#file-system)
-  1. [Scalability](#scalability)
-  1. [Bugs/Security/Fault-Tolerant/Recovery](#bugssecurityfault-tolerantrecovery)
-  1. [Encryption&Authentication](#encryptionauthentication)  
-  1. [Interface Design (API/ABI/ Software-Hardware Interface...)](#interface-design-apiabi-software-hardware-interface)  
-  1. [Verification/Proof](#verificationproof)  
-  1. [Devices](#devices)
-  1. [Language](#language)
-  1. [Overview](#overview)
+- [Contents](#contents)
+  - [OS Architecture](#os-architecture)
+  - [Process\&Thread\&Scheduling](#processthreadscheduling)
+  - [Memory Management](#memory-management)
+  - [Concurrency/Sync\&Mutex](#concurrencysyncmutex)
+  - [Distributed Systems](#distributed-systems)
+  - [Virtual Machine Monitor](#virtual-machine-monitor)
+  - [Network](#network)
+  - [File System/Storage](#file-systemstorage)
+  - [Scalability](#scalability)
+  - [Bugs/Security/Fault-Tolerant/Recovery/Update](#bugssecurityfault-tolerantrecoveryupdate)
+  - [Encryption\&Authentication](#encryptionauthentication)
+  - [Interface Design (API/ABI/ Software-Hardware Interface...)](#interface-design-apiabi-software-hardware-interface)
+  - [Verification/Proof](#verificationproof)
+  - [DEVICES](#devices)
+  - [LANGUAGE](#language)
+  - [OVERVIEW](#overview)
+  - [Persistent OS](#persistent-os)
 -----------------------------------------
 
 ### OS Architecture
@@ -73,6 +75,12 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [A Hierarchical CPU Scheduler for Multimedia Operating Systems](http://www.cs.columbia.edu/~nieh/teaching/e6118_s00/papers/goyal_osdi96.pdf),OSDI1996
  1. [Reinventing scheduling for multicore systems](https://pdos.csail.mit.edu/papers/o2:hotos12.pdf),HOTOS 2009
  1. [Addressing shared resource contention in multicore processors via scheduling](http://www.cs.sfu.ca/~fedorova/papers/asplos212-zhuravlev.pdf),ASPLOS2010
+ 1. [Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency](https://www.usenix.org/system/files/nsdi19-kaffes.pdf) (NSDI 2019)
+ 1. [Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads](https://www.usenix.org/conference/nsdi19/presentation/ousterhout) (NSDI '19)
+ 1. [Caladan: Mitigating Interference at Microsecond Timescales](https://www.usenix.org/conference/osdi20/presentation/fried) (OSDI '20)
+ 1. [ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling](https://dl.acm.org/doi/pdf/10.1145/3477132.3483542) (SOSP '21)
+ 1. [Achieving Microsecond-Scale Tail Latency Efficiently with Approximate Optimal Scheduling](https://dl.acm.org/doi/pdf/10.1145/3600006.3613136) (SOSP '23)
+ 1. [Skyloft: A General High-Efficient Scheduling Framework in User Space](https://doi.org/10.1145/3694715.3695973) (SOSP 2024)
 
 ### Memory Management
  1. [The working set model for program behavior](http://denninginstitute.com/pjd/PUBS/WSModel_1968.pdf),Peter J. Denning, SOSP 1967, In Communications of the ACM 11(5), May 1968
@@ -332,3 +340,8 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  ### OVERVIEW
  1. [INTER-DISCIPLINARY RESEARCH CHALLENGES INCOMPUTER SYSTEMS FOR THE 2020s](https://sites.cs.ucsb.edu/~yufeiding/publication/grandChallengesReport_ASPLOS18.pdf), Albert Cohen†, Xipeng Shen‡, Josep Torrellas∗, James Tuck‡, and Yuanyuan Zhou,etc., ASPLOS2018.
 
+### Persistent OS
+
+- [The Aurora Single Level Store Operating System](https://rcs.uwaterloo.ca/pubs/sosp21-aurora.pdf) (SOSP '21)
+- [TreeSLS: A Whole-system Persistent Microkernel with Tree-structured State Checkpoint on NVM](https://dl.acm.org/doi/pdf/10.1145/3600006.3613160) (SOSP '23)
+- [Puddles: Application-Independent Recovery and Location-Independent Data for Persistent Memory](https://dl.acm.org/doi/pdf/10.1145/3627703.3629555) (Eurosys '24)
