@@ -35,7 +35,8 @@
   - [blog](https://blog.lenot.re/)
 - [hubris](https://github.com/oxidecomputer/hubris):Hubris is a microcontroller operating environment designed for deeply-embedded systems with reliability requirements.
 - [asterinas:蚂蚁出品的框内核 framekernel](https://github.com/asterinas/asterinas)
-  - [asterinas文档](https://asterinas.github.io/book/) 
+  - [asterinas文档](https://asterinas.github.io/book/)
+- [ariel-os](https://github.com/ariel-os/ariel-os/tree/main):Ariel OS is an operating system for secure, memory-safe, low-power Internet of Things (IoT). It is based on Rust from the ground up and supports hardware based on 32-bit microcontroller architectures (Cortex-M, RISC-V, and Xtensa).
 #### some user-land vmm components
 - [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
 - [Huawei stratovirt](https://gitee.com/openeuler/stratovirt): stratovirt in openEuler linux distrbution.
