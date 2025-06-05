@@ -45,8 +45,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
     - [The Evolution of the Unix Time-sharing System](http://www.read.seas.harvard.edu/~kohler/class/aosref/ritchie84evolution.pdf)Dennis M. Ritchie, Bell Laboratories, 1984
     - [xv6 project](https://pdos.csail.mit.edu/6.828/2016/xv6.html)
     - [related info:The Unix-Haters Handbook (1994)](http://web.mit.edu/~simsong/www/ugh.pdf)
- 1. [Extensibility, Safety and Performance in the SPIN Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.41.7509&rep=rep1&type=pdf), Brian N. Bershad,etc.University of Washington, 1995
- 1. [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](http://sosp2007.org/papers/sosp139-criswell.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
+ 1. [Extensibility, Safety and Performance in the SPIN Operating System](https://dl.acm.org/doi/10.1145/224056.224077), Brian N. Bershad,etc.University of Washington, 1995
+ 1. [Secure Virtual Architecture: A Safe Execution Environment for Commodity Operating Systems](https://llvm.org/pubs/2007-SOSP-SVA.pdf), John Criswell, Andrew Lenharth, Dinakar Dhurjati, and Vikram Adve,University of Illinois at Urbana–Champaign, SOSP07, 2007
     
      - [SVA project](https://github.com/jtcriswell/SVA)
  1. [Multiprogramming a 64 kB Computer Safely and Efficiently](https://dl.acm.org/authorize?N47259),Amit Levy and Bradford Campbell and Branden Ghena and Daniel Giffin and Pat Pannuto and Prabal Dutta and Philip Levis. SOSP 2017
@@ -68,10 +68,10 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [Programming Semantics for Multiprogrammed Computations](http://dl.acm.org/citation.cfm?id=365252), Jack B. Dennis, Earl C. Van Horn. Communications of the ACM, Volume 9 Issue 3, March 1966.
     - **SIGOPS: The Hall of Fame Award**  The paper lays out the conceptual foundations for multiprogramming and protection in computer systems.
  1. [Lottery Scheduling: Flexible Proportional-Share Resource Management](https://www.usenix.org/legacy/publications/library/proceedings/osdi/full_papers/waldspurger.pdf), OSDI94
- 1. [Stride Scheduling: Deterministic Proportional-Share Resource Management](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.3502) tech report, 1995
+ 1. [Stride Scheduling: Deterministic Proportional-Share Resource Management](https://web.eecs.umich.edu/~mosharaf/Readings/Stride.pdf) tech report, 1995
  1. [Supporting Time-Sensitive Applications on a Commodity OS](http://www.eecg.toronto.edu/~ashvin/publications/osdi2002.pdf),OSDI2002
  1. [Borrowed-Virtual-Time (BVT) scheduling: supporting latency-sensitive threads in a general-purpose scheduler](http://www.read.seas.harvard.edu/~kohler/class/04f-aos/ref/duda99borrowed.pdf)SOSP1999
- 1. [Improving Performance Isolation on Chip Multiprocessors via an Operating System Scheduler](https://dash.harvard.edu/bitstream/handle/1/10065537/Improving%20Performance%20Isolation2007%20(1).pdf?sequence=1),PACT2007
+ 1. [Improving Performance Isolation on Chip Multiprocessors via an Operating System Scheduler](https://dl.acm.org/doi/10.5555/1299042.1299108),PACT2007
  1. [A Hierarchical CPU Scheduler for Multimedia Operating Systems](http://www.cs.columbia.edu/~nieh/teaching/e6118_s00/papers/goyal_osdi96.pdf),OSDI1996
  1. [Reinventing scheduling for multicore systems](https://pdos.csail.mit.edu/papers/o2:hotos12.pdf),HOTOS 2009
  1. [Addressing shared resource contention in multicore processors via scheduling](http://www.cs.sfu.ca/~fedorova/papers/asplos212-zhuravlev.pdf),ASPLOS2010
