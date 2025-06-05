@@ -279,7 +279,7 @@ Jeffrey Dean and Sanjay Ghemawat, OSDI 2004.
  1. [ Using Encryption for Authentication in Large Networks of Computers](http://portal.acm.org/citation.cfm?id=359659),Roger Needham and Michael Schroeder, Communications of the ACM, December 1978.
     - **SIGOPS: The Hall of Fame Award** 
 
-### Interface Design (API/ABI/ Software-Hardware Interface...) 
+### Interface Design (API/ABI/syscall/ Software-Hardware Interface...) 
  1. [Hints for Computer System Design](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf), Butler W. Lampson, SOSP 1983. 
     - **SIGOPS: The Hall of Fame Award** A classic study of experience building large systems, distilled into a cookbook of wisdom for the operating systems researcher. As time has passed, the value of these hints has only grown and the range of systems to which they apply enlarged.
  1. [End-To-End Arguments in System Design](http://portal.acm.org/citation.cfm?id=357402), J. H. Saltzer, D. P. Reed, and D. D. Clark, ACM Transactions on Computer Systems 2(4):277-288, November 1984.
@@ -293,6 +293,8 @@ Volume 57 Issue 2, February 2014 Pages 64-73
  1. [Flexsc: Flexible System Call Scheduling with Exception-Less System Calls](https://www.cs.cmu.edu/~chensm/Big_Data_reading_group/papers/flexsc-osdi10.pdf),OSDI 2010
  1. [Light-Weight Contexts: An OS Abstraction for Safety and Performance](https://www.usenix.org/conference/osdi16/technical-sessions/presentation/litton),OSDI 2016
  1. [A fork() is in the road](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/fork-hotos19.pdf), HotOS 2019
+ 1. [Analyzing a decade of Linux system calls](https://dl.acm.org/doi/10.1145/3180155.3182518), ICSE 2018
+ 1. [Exploring Syscall-Based Semantics Reconstruction of Android Applications](https://www.usenix.org/system/files/raid2019-nisi.pdf), USENIX ATC 2019
 
 ### Verification/Proof
  1. [Safe Kernel Extensions Without Run-Time Checking](http://www.usenix.org/publications/library/proceedings/osdi96/necula.html), George C. Necula and Peter Lee, SOSP 1996
