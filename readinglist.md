@@ -74,7 +74,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [Improving Performance Isolation on Chip Multiprocessors via an Operating System Scheduler](https://dl.acm.org/doi/10.5555/1299042.1299108),PACT2007
  1. [A Hierarchical CPU Scheduler for Multimedia Operating Systems](http://www.cs.columbia.edu/~nieh/teaching/e6118_s00/papers/goyal_osdi96.pdf),OSDI1996
  1. [Reinventing scheduling for multicore systems](https://pdos.csail.mit.edu/papers/o2:hotos12.pdf),HOTOS 2009
- 1. [Addressing shared resource contention in multicore processors via scheduling](http://www.cs.sfu.ca/~fedorova/papers/asplos212-zhuravlev.pdf),ASPLOS2010
+ 1. [Addressing shared resource contention in multicore processors via scheduling](https://dl.acm.org/doi/10.1145/1735970.1736036),ASPLOS2010
  1. [Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency](https://www.usenix.org/system/files/nsdi19-kaffes.pdf) (NSDI 2019)
  1. [Shenango: Achieving High CPU Efficiency for Latency-sensitive Datacenter Workloads](https://www.usenix.org/conference/nsdi19/presentation/ousterhout) (NSDI '19)
  1. [Caladan: Mitigating Interference at Microsecond Timescales](https://www.usenix.org/conference/osdi20/presentation/fried) (OSDI '20)
@@ -94,11 +94,11 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [Machine-Independent Virtual Memory Management for Paged Uniprocessor and Multiprocessor Architectures](http://portal.acm.org/citation.cfm?id=36206.36181), Richard Rashid, Avadis Tevanian, Michael Young, David Golub, Robert Baron, David Black, William Bolosky, and Jonathan Chew, ASPLOS 1987.  
      - **SIGOPS: The Hall of Fame Award**   
  1. [WSClock - A Simple and Effective Algorithm for Virtual Memory Management](https://www.researchgate.net/publication/220909958_WSClock_-_A_Simple_and_Effective_Algorithm_for_Virtual_Memory_Management),ACM SIGOPS Operating Systems Review 15(5):87-95 · December 1981
- 1. [Simple But Effective Techniques for NUMA Memory Management](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.380.3461&rank=1),SOSP 1989
- 1. [TreadMarks: Distributed Shared Memory on Standard Workstations and Operating Systems](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.9177&rank=9),IN PROCEEDINGS OF THE 1994 WINTER USENIX CONFERENCE,1994
- 1. [The Slab Allocator: An Object-Caching Kernel Memory Allocator](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.143.4374&rank=1), USENIX SUMMER TECHNICAL CONFERENCE , 1994
+ 1. [Simple But Effective Techniques for NUMA Memory Management](https://dl.acm.org/doi/10.1145/74851.74854),SOSP 1989
+ 1. [TreadMarks: Distributed Shared Memory on Standard Workstations and Operating Systems](https://www.eecg.toronto.edu/~amza/ece1747h/papers/treadmarks94.pdf),IN PROCEEDINGS OF THE 1994 WINTER USENIX CONFERENCE,1994
+ 1. [The Slab Allocator: An Object-Caching Kernel Memory Allocator](https://dl.acm.org/doi/10.5555/1267257.1267263), USENIX SUMMER TECHNICAL CONFERENCE , 1994
  1. [Mnemosyne: Lightweight Persistent Memory](http://research.cs.wisc.edu/sonar/papers/mnemosyne-asplos2011.pdf),ASPLOS2011
- 1. [Process-in-Process: Techniques for Practical Address-Space Sharing](https://www.mcs.anl.gov/~balaji/pubs/2018/hpdc/hpdc18.pip.pdf), Atsushi Hori, HPDC 2018
+ 1. [Process-in-Process: Techniques for Practical Address-Space Sharing](https://dl.acm.org/doi/10.1145/3208040.3208045), Atsushi Hori, HPDC 2018
      - Best Paper Award of HPDC 2018
      - The idea of sharing address space between multiple processes is not new. So why is a new model needed? The answer lies with advances in high-performance computing, notably many-core computers with more parallelism in a node and frequent communication  between processes. Unlike other models, PiP’s design is completely in user space.
      - [PiP project](https://github.com/RIKEN-SysSoft/PiP)
@@ -116,8 +116,8 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [Algorithms for Scalable Synchronization on Shared-Memory Multiprocessors](http://www.cs.rice.edu/~johnmc/scalable_synch/tocs91.pdf),ACM Transactions on Computer Systems, Feb. 1991.
  1. [Scalable Read-mostly Synchronization Using Passive Reader-Writer Locks.](http://ipads.se.sjtu.edu.cn/_media/publications/prwlock-atc14.pdf),Usenix ATC 2014
  1. [Non-scalable locks are dangerous](https://pdos.csail.mit.edu/papers/linux:lock.pdf) Linux Symposium 2012.
- 1. [Tornado: Maximizing Locality and Concurrency in a Shared Memory Multiprocessor Operating System](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.2410&rep=rep1&type=pdf),OSDI1999
- 1. [Performance of Multithreaded Chip Multiprocessors and Implications for Operating System Design](http://www.eecs.harvard.edu/margo/papers/usenix05/paper.pdf), USENIX 2005
+ 1. [Tornado: Maximizing Locality and Concurrency in a Shared Memory Multiprocessor Operating System](https://www.usenix.org/legacy/events/osdi99/full_papers/gamsa/gamsa.pdf),OSDI1999
+ 1. [Performance of Multithreaded Chip Multiprocessors and Implications for Operating System Design](https://dl.acm.org/doi/abs/10.5555/1247360.1247386), USENIX 2005
 
 ### Distributed Systems
  1. [Time, Clocks, and the Ordering of Events in a Distributed System](http://portal.acm.org/citation.cfm?doid=359545.359563), Leslie Lamport, Communications of the ACM 21(7):558-565, July 1978. 
