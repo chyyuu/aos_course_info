@@ -63,7 +63,10 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [A Linux in Unikernel Clothing](https://dl.acm.org/doi/abs/10.1145/3342195.3387526),Hsuan-Chi Kuo (University of Illinois at Urbana-Champaign), Dan Williams, Ricardo Koller (IBM T.J. Watson Research Center), Sibin Mohan (University of Illinois at Urbana-Champaign),EUROSYS 2020
  1. [Twizzler: a Data-Centric OS for Non-Volatile Memory](https://www.usenix.org/system/files/atc20-bittman.pdf),Daniel Bittman and Peter Alvaro, UC Santa Cruz; Pankaj Mehra, IEEE Member; Darrell D. E. Long, UC Santa Cruz; Ethan L. Miller, UC Santa Cruz / Pure Storage,USENIX ATC 2020
  1. [Lightweight Preemptible Functions](https://www.usenix.org/system/files/atc20-boucher.pdf),Sol Boucher, *Carnegie Mellon University;* Anuj Kalia, *Microsoft Research;* David G. Andersen, *Carnegie Mellon University;* Michael Kaminsky, *BrdgAI / Carnegie Mellon University*, USENIX ATC 2020
+1. [ Evolution of the Unix System Architecture: An Exploratory Case Study](https://ieeexplore.ieee.org/abstract/document/8704965), IEEE Trans SE, 2021
 
+   - Unix has evolved for almost five decades, shaping modern operating systems, key software technologies, and development practices. Studying the evolution of this remarkable system from an architectural perspective can provide insights on how to manage the growth of large, complex, and long-lived software systems.
+   
 ### Process&Thread&Scheduling 
  1. [Programming Semantics for Multiprogrammed Computations](http://dl.acm.org/citation.cfm?id=365252), Jack B. Dennis, Earl C. Van Horn. Communications of the ACM, Volume 9 Issue 3, March 1966.
     - **SIGOPS: The Hall of Fame Award**  The paper lays out the conceptual foundations for multiprogramming and protection in computer systems.
