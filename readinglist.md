@@ -37,7 +37,7 @@ Edsger W. Dijkstra ,Technological University, Eindhoven, The Netherlands, SOSP, 
  1. [Exokernel: An Operating System Architecture for Application-Level Resource Management](http://flint.cs.yale.edu/cs428/doc/p251-engler.pdf), Dawson R. Engler, M. Frans Kaashoek, and James O’Toole Jr. MIT,  SIGOPS ’95, 1995
     - [jos project](https://pdos.csail.mit.edu/6.828/2016/labguide.html)
     - [slides](http://pdos.csail.mit.edu/exo/exo-slides/sld001.htm)
- 1. [Singularity: Rethinking the Software Stack](http://research.microsoft.com/pubs/69431/osr2007_rethinkingsoftwarestack.pdf) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
+ 1. [Singularity: Rethinking the Software Stack](https://dl.acm.org/doi/10.1145/1243418.1243424) Galen C. Hunt and James R. Larus, Microsoft Research Redmond, OSR2007, 2007
     
     - [Singularity OS project](https://www.microsoft.com/en-us/research/project/singularity/) 
  1. [The UNIX Time-Sharing System](http://pdos.csail.mit.edu/6.828/2014/readings/ritchie78unix.pdf), SOSP 1973, The Bell System Technical Journal 57 no. 6, part 2 (July-August 1978)
