@@ -56,9 +56,10 @@
 
 #### Hypervisor
 - [RVM Tutorial](https://github.com/rcore-os/RVM-Tutorial)
-- [Hypervisor 101 in Rust](https://github.com/tandasat/Hypervisor-101-in-Rust)
+- [Hypervisor 101 in Rust](https://github.com/tandasat/Hypervisor-101-in-Rust): intel x86-64  [tutorial book](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 - [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
 - [RVM type1 -- Rcore Virtual Machine x86-64](https://github.com/rcore-os/RVM) & [RVM type 1 -- Rcore Virtual Machine x86-64/rv64](https://github.com/rcore-riscv-hypervisor-dev/RVM) & (RVM type 1.5)[https://github.com/rcore-os/RVM1.5]: An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
+- [hypervisor for amd](https://github.com/not-matthias/amd_hypervisor)
 
 #### SBI
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
