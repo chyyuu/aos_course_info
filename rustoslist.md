@@ -15,6 +15,8 @@
    - [parakernel hotos19](http://penberg.org/parakernel-hotos19.pdf)
    - [manticore srouce code](https://github.com/manticoreos/manticore)
 - [Rust-base seL4](https://github.com/rel4team/rel4_kernel)
+- [demikernel](https://github.com/microsoft/demikernel):Demikernel is a library operating system (LibOS) architecture designed for use with kernel-bypass I/O devices. [paper in SOSP '21](https://doi.org/10.1145/3477132.3483569).
+
 #### Hypervisor
 - [shyper](https://gitee.com/openeuler/rust_shyper)
 
@@ -37,6 +39,8 @@
 - [asterinas:蚂蚁出品的框内核 framekernel](https://github.com/asterinas/asterinas)
   - [asterinas文档](https://asterinas.github.io/book/)
 - [ariel-os](https://github.com/ariel-os/ariel-os/tree/main):Ariel OS is an operating system for secure, memory-safe, low-power Internet of Things (IoT). It is based on Rust from the ground up and supports hardware based on 32-bit microcontroller architectures (Cortex-M, RISC-V, and Xtensa).
+- [BlueOS Kernel](https://github.com/vivoblueos/kernel):BlueOS kernel is written in Rust, featuring security, lightweight, and generality. It is compatible with POSIX interfaces and supports Rust's standard library.
+ 
 #### some user-land vmm components
 - [google crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/): crosvm - The Chrome OS Virtual Machine Monitor.
 - [Huawei stratovirt](https://gitee.com/openeuler/stratovirt): stratovirt in openEuler linux distrbution.
@@ -52,7 +56,9 @@
 - [zcore-tutorial](https://github.com/rcore-os/zCore-Tutorial) : simplified  zcore educational labs in user-mode x86-64.
 - [tiny os kernel component labs](https://github.com/chyyuu/os_kernel_lab) : a lot of tiny os kernel component labs
 - [cs3210-2020 in Georgia Tech](https://tc.gts3.org/cs3210/2020/spring/info.html) : rust os labs in Raspberry Pi
-- [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs): A teaching operating system(Unix-like operating system based on a monolithic architecture in x86-64) written in Rust. 
+- [eduOS-rs](https://github.com/RWTH-OS/eduOS-rs): A teaching operating system(Unix-like operating system based on a monolithic architecture in x86-64) written in Rust.
+- [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials): Operating System development tutorials in Rust on the Raspberry Pi
+- []()
 
 #### Hypervisor
 - [RVM Tutorial](https://github.com/rcore-os/RVM-Tutorial)
