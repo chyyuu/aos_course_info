@@ -61,7 +61,7 @@
 - []()
 
 #### Hypervisor
-- [RVM Tutorial](https://github.com/rcore-os/RVM-Tutorial)
+- [RVM Tutorial](https://github.com/rcore-os/RVM-Tutorial):  A lightweight Type-1 hypervisor for intel x64. [tutorial videos](https://www.bilibili.com/video/BV1n84y1V7a4/)
 - [Hypervisor 101 in Rust](https://github.com/tandasat/Hypervisor-101-in-Rust): intel x86-64  [tutorial book](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 - [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
 - [RVM type1 -- Rcore Virtual Machine x86-64](https://github.com/rcore-os/RVM) & [RVM type 1 -- Rcore Virtual Machine x86-64/rv64](https://github.com/rcore-riscv-hypervisor-dev/RVM) & (RVM type 1.5)[https://github.com/rcore-os/RVM1.5]: An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
@@ -74,6 +74,8 @@
 - [BareSVM](https://github.com/valium007/BareSVM): AMD Hypervisor written in Rust
 - [rustyvisor](https://github.com/stemnic/rustyvisor): for the RISC-V 1.0 hypervisor extension
 - [hikami](https://github.com/Alignof/hikami): A lightweight Type-1 hypervisor for RISC-V H-extension, featuring RISC-V extension emulation
+- [rHyper](https://github.com/KarmaD7/rHyper): Hypervisor for ARMv8 based on RVM(x64), [tutorial videos/slides](https://opencamp.cn/os2edu/camp/2023spring/stage/2?tab=video)
+- [hypocaust-2](https://github.com/KuangjuX/hypocaust-2): Hypocaust-2 is an experimental type-1 hypervisor with H extension run on RISC-V machine.
 
 #### SBI
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
@@ -114,6 +116,5 @@
 - [diosix](https://github.com/diodesign/diosix)
 - [A toy Aarch64 hypervisor written in Rust.](https://github.com/stong/rustos-hv)  with [tech report](https://github.com/stong/rustos-hv/blob/master/report.pdf)
 - [MilvusVisor is a thin hypervisor that runs on aarch64 CPUs.](https://github.com/RIKEN-RCCS/MilvusVisor)
-- [rHyper](https://github.com/KarmaD7/rHyper)
-- [hypocaust-2](https://github.com/KuangjuX/hypocaust-2)
+
 
