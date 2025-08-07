@@ -59,7 +59,15 @@
 - [Hypervisor 101 in Rust](https://github.com/tandasat/Hypervisor-101-in-Rust): intel x86-64  [tutorial book](https://tandasat.github.io/Hypervisor-101-in-Rust/)
 - [RVirt](https://github.com/mit-pdos/RVirt): RVirt is an S-mode trap-and-emulate hypervisor for RISC-V. It is currently targeted at QEMU's virt machine type.
 - [RVM type1 -- Rcore Virtual Machine x86-64](https://github.com/rcore-os/RVM) & [RVM type 1 -- Rcore Virtual Machine x86-64/rv64](https://github.com/rcore-riscv-hypervisor-dev/RVM) & (RVM type 1.5)[https://github.com/rcore-os/RVM1.5]: An experimental hypervisor library written in Rust to build both type-1 and type-2 hypervisors. Supported architecture: x86_64 (Intel VMX) and RISC-V
-- [hypervisor for amd](https://github.com/not-matthias/amd_hypervisor)
+- [hypervisor on amd](https://github.com/not-matthias/amd_hypervisor)
+- [barevisor on AMD/Intel](https://github.com/tandasat/barevisor):A bare minimum hypervisor on AMD and Intel processors for learners.
+- [Alioth](https://github.com/google/alioth):Alioth is an experimental KVM-based type-2 hypervisor (virtual machine monitor) in Rust implemented from scratch (from Google). 
+- [RustOS Hypervisor](https://github.com/stong/rustos-hv): A toy Aarch64 hypervisor written in Rust. This project was completed as student final project with [technical report](https://github.com/stong/rustos-hv) for [CS 3210: Design of Operating Systems](https://tc.gts3.org/cs3210/2020/spring/index.html) at Georgia Tech.
+- [ehyve](https://github.com/RWTH-OS/ehyve):ehyve is small hypervisor to boot the operating systems eduOS-rs (x86-64)
+- [MilvusVisor](https://github.com/RIKEN-RCCS/MilvusVisor): a thin hypervisor that runs on aarch64 CPUs(qemu/Rasspberry Pi 4 model B/Raspberry Pi 5).
+- [BareSVM](https://github.com/valium007/BareSVM): AMD Hypervisor written in Rust
+- [rustyvisor](https://github.com/stemnic/rustyvisor): for the RISC-V 1.0 hypervisor extension
+- [hikami](https://github.com/Alignof/hikami): A lightweight Type-1 hypervisor for RISC-V H-extension, featuring RISC-V extension emulation
 
 #### SBI
 - [rustsbi firmware](https://github.com/rustsbi/rustsbi) : RISC-V Supervisor Binary Interface (SBI) implementation in Rust; runs on M-mode.
